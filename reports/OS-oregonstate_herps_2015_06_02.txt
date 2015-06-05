@@ -1,0 +1,234 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 104
+Number of records retrieved in searches: 1850
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: United States ; Times: 99
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 3
+	Date: 2015-05-06 ; Times: 4
+	Date: 2015-05-07 ; Times: 2
+	Date: 2015-05-08 ; Times: 7
+	Date: 2015-05-11 ; Times: 23
+	Date: 2015-05-12 ; Times: 7
+	Date: 2015-05-13 ; Times: 2
+	Date: 2015-05-16 ; Times: 3
+	Date: 2015-05-17 ; Times: 5
+	Date: 2015-05-18 ; Times: 4
+	Date: 2015-05-20 ; Times: 4
+	Date: 2015-05-22 ; Times: 5
+	Date: 2015-05-23 ; Times: 14
+	Date: 2015-05-24 ; Times: 1
+	Date: 2015-05-25 ; Times: 3
+	Date: 2015-05-26 ; Times: 4
+	Date: 2015-05-27 ; Times: 10
+	Date: 2015-05-28 ; Times: 2
+	Date: 2015-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "thamnophis sirtalis nebraska" ; Times: 1
+	Query: "11092" ; Times: 1
+	Query: "10270" ; Times: 1
+	Query: "specificepithet:cheoah genus:plethodon" ; Times: 1
+	Query: "Lampropeltis pyromelana Arizona" ; Times: 1
+	Query: "30758" ; Times: 1
+	Query: ""charina bottae" stateprovince:"california"" ; Times: 1
+	Query: "crotalus viridus" ; Times: 3
+	Query: "Thamnophis elegans idaho" ; Times: 18
+	Query: "leptodeira maculata" ; Times: 1
+	Query: "Hydromantes shastae catalognumber:6711" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Alabama)" ; Times: 1
+	Query: "Charina bottae" ; Times: 7
+	Query: "thamnophis sirtalis san joaquin" ; Times: 1
+	Query: "Uma notata county:"Imperial"" ; Times: 1
+	Query: "Echis carinatus" ; Times: 1
+	Query: "Hydromantes shastae" ; Times: 3
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "genus:Regina (tissue)" ; Times: 2
+	Query: "henshawi county:"Riverside" class:reptilia" ; Times: 1
+	Query: "catalognumber:30758" ; Times: 1
+	Query: "Gambelia wislizenii idaho" ; Times: 1
+	Query: "gerrhonotus stateprovince:"texas"" ; Times: 2
+	Query: "Pituophis catenifer idaho" ; Times: 1
+	Query: "Thamnophis sirtalis idaho" ; Times: 1
+	Query: "thamnophis elegans san joaquin" ; Times: 1
+	Query: "Lichanura" ; Times: 3
+	Query: "genus:Loxocemus" ; Times: 1
+	Query: "genus:charina" ; Times: 1
+	Query: "bufo alvarius" ; Times: 2
+	Query: "thamnophis elegans contra costa" ; Times: 1
+	Query: "Tantilla wilcoxi arizona" ; Times: 1
+	Query: "Medford stateprovince:"Oregon" class:Reptilia" ; Times: 1
+	Query: "crotalus basiliscus" ; Times: 1
+	Query: "thamnophis sirtalis nebraska tissue:1" ; Times: 1
+	Query: "county:"churchill" class:amphibia" ; Times: 1
+	Query: "gambelia wislizenii idaho" ; Times: 1
+	Query: ""table rock" stateprovince:"Oregon" class:Reptilia" ; Times: 1
+	Query: "stateprovince:"sinaloa" country:"mexico" specificepithet:basiliscus genus:Crotalus" ; Times: 1
+	Query: "pituophis catenifer idaho" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "thamnophis sirtalis idaho" ; Times: 2
+	Query: "county:"Terrell" stateprovince:"Texas" country:"United States" genus:lampropeltis" ; Times: 1
+	Query: "Lampropeltis county:"Jackson" stateprovince:"Oregon" class:Reptilia" ; Times: 1
+	Query: "rubber boa" ; Times: 1
+	Query: ""table rock" stateprovince:"Oregon"" ; Times: 1
+	Query: "Plethodon teyahalee" ; Times: 2
+	Query: "charina county:"curry"" ; Times: 4
+	Query: "Ensatina county:"San Bernardino" stateprovince:"California" country:"United"" ; Times: 1
+	Query: "plethodon cheoah" ; Times: 4
+	Query: "52375" ; Times: 1
+	Query: "crotalus willardi" ; Times: 1
+	Query: "Plethodon aureolus" ; Times: 2
+	Query: "Tantilla tissue:1" ; Times: 2
+	Query: "thamnophis elegans bannock idaho" ; Times: 2
+	Query: "country:"Mexico" genus:Loxocemus" ; Times: 2
+	Query: "stateprovince:"Nayarit" country:"Mexico" genus:Loxocemus" ; Times: 1
+	Query: "plethodon amplus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 88 (out of 976 download events in this period)
+Total number of records downloaded: 14868 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 13574
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 10
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 73
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-06 ; Times: 3
+	Date: 2015-05-07 ; Times: 8
+	Date: 2015-05-09 ; Times: 1
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-12 ; Times: 1
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-15 ; Times: 1
+	Date: 2015-05-18 ; Times: 4
+	Date: 2015-05-20 ; Times: 3
+	Date: 2015-05-21 ; Times: 23
+	Date: 2015-05-22 ; Times: 3
+	Date: 2015-05-23 ; Times: 3
+	Date: 2015-05-24 ; Times: 3
+	Date: 2015-05-25 ; Times: 15
+	Date: 2015-05-26 ; Times: 8
+	Date: 2015-05-27 ; Times: 2
+	Date: 2015-05-28 ; Times: 1
+	Date: 2015-05-29 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "ambystoma" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "Plethodon fourchensis" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Plethodon yonahlossee" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "bufo terrestris" ; Times: 1
+	Query: "agamidae" ; Times: 2
+	Query: "Echis carinatus" ; Times: 1
+	Query: "Pseudacris regilla mappable:1" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: ""plethodon virginia"" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 1
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "ambystoma gracile" ; Times: 1
+	Query: "Charina bottae" ; Times: 2
+	Query: "squamata (durango OR coahuila OR zacatecas OR chihuahua) mappable:1" ; Times: 1
+	Query: "elapidae" ; Times: 3
+	Query: "country:"Mexico" specificepithet:molossus genus:Crotalus" ; Times: 1
+	Query: "Plethodon caddoensis" ; Times: 1
+	Query: "Bufo alvarius" ; Times: 1
+	Query: "callisaurus draconoides" ; Times: 1
+	Query: "Plethodon ouachitae" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "Underwood" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "stateprovince:"jalisco" country:"mexico" class:reptilia" ; Times: 1
+	Query: "crotaphytus collaris" ; Times: 1
+	Query: "phrynosoma platyrhinos" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "cnemidophorus tigris" ; Times: 1
+	Query: "Charina" ; Times: 1
+	Query: "Hydromantes shastae" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "Ensatina mappable:1" ; Times: 1
+	Query: "Plethodon nettingi" ; Times: 1
+	Query: "charina bottae" ; Times: 2
+	Query: "Lichanura" ; Times: 1
+	Query: "Desmognathus imitator" ; Times: 1
+	Query: "Eumeces" ; Times: 1
+	Query: "plethodon hoffmani" ; Times: 1
+	Query: "pelamis" ; Times: 1
+	Query: "ambystoma gracile stateprovince:"washington"" ; Times: 1
+	Query: "bufo alvarius" ; Times: 2
+	Query: "Desmognathus fuscus" ; Times: 1
+	Query: "Plethodon welleri" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "hyla cinerea" ; Times: 1
+	Query: "arizona elegans" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "masticophis flagellum" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 2
+	Query: "thamnophis sirtalis idaho" ; Times: 1
+	Query: "genus:crotalus class:reptilia" ; Times: 1
+	Query: "Plethodon punctatus" ; Times: 1
+	Query: "sceloporus magister" ; Times: 1
+	Query: "ambystoma gracile stateprovince:"Oregon"" ; Times: 1
+	Query: "Plethodon teyahalee" ; Times: 1
+	Query: "Pseudacris regilla country:"Mexico"" ; Times: 1
+	Query: "stateprovince:"Sonora" country:"Mexico" class:reptilia" ; Times: 1
+	Query: "bufo boreas Utah type:specimen" ; Times: 1
+	Query: "salvadora hexalepis" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "Plethodon hubrichti" ; Times: 1
+	Query: "Plethodon aureolus" ; Times: 1
+	Query: "bufo cognatus" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Plethodon websteri" ; Times: 1
+	Query: "Plethodon petraeus" ; Times: 1
+	Query: "bufo punctatus" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Desmognathus ochrophaeus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 118
+Total number of records retrieved from searches: 2065
+Number of download events that retrieved data from the resource: 113
+Total number of records downloaded: 37341
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 118
+Total number of records retrieved from searches: 2065
+Number of download events that retrieved data from the resource: 113
+Total number of records downloaded: 37341
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
