@@ -1,0 +1,220 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 74
+Number of records retrieved in searches: 437
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: France ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 61
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 10
+	Date: 2015-07-02 ; Times: 1
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-05 ; Times: 1
+	Date: 2015-07-06 ; Times: 5
+	Date: 2015-07-07 ; Times: 5
+	Date: 2015-07-08 ; Times: 5
+	Date: 2015-07-09 ; Times: 2
+	Date: 2015-07-10 ; Times: 1
+	Date: 2015-07-12 ; Times: 2
+	Date: 2015-07-13 ; Times: 3
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 7
+	Date: 2015-07-16 ; Times: 11
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-20 ; Times: 3
+	Date: 2015-07-22 ; Times: 2
+	Date: 2015-07-23 ; Times: 2
+	Date: 2015-07-26 ; Times: 1
+	Date: 2015-07-27 ; Times: 6
+	Date: 2015-07-29 ; Times: 2
+	Date: 2015-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:500" ; Times: 1
+	Query: "Reptilia moffat Colorado" ; Times: 3
+	Query: "22774" ; Times: 1
+	Query: "crotalus mitchellii nevada" ; Times: 1
+	Query: "lateralis county:"Tulare"" ; Times: 1
+	Query: "catalognumber:21655" ; Times: 1
+	Query: "Crotalus tigris stateprovince:"Arizona" country:"United States"" ; Times: 1
+	Query: "Reptilia la plata Colorado" ; Times: 4
+	Query: "specificepithet:bilineatus genus:agkistrodon" ; Times: 2
+	Query: "Ambystoma opacum stateprovince:"Alabama" country:"United States" year >= 1950 year <= 2015" ; Times: 1
+	Query: "51472" ; Times: 1
+	Query: "27802" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 2
+	Query: "lateralis county:"Tulare" stateprovince:"California" country:"United States"" ; Times: 1
+	Query: "36223" ; Times: 1
+	Query: "36084" ; Times: 1
+	Query: "Tantilla wilcoxi" ; Times: 4
+	Query: "county:"kern" stateprovince:"California" genus:Rhinocheilus" ; Times: 1
+	Query: "county:"Aiken" stateprovince:"South Carolina" class:Reptilia" ; Times: 1
+	Query: "Trionyx ferox" ; Times: 1
+	Query: "14470" ; Times: 1
+	Query: "nerodia harteri" ; Times: 1
+	Query: "Xantusia vigilis Utah" ; Times: 3
+	Query: "county:"Sonoma" stateprovince:"California" year >= 2000 year <= 2000" ; Times: 1
+	Query: "16002" ; Times: 1
+	Query: "catalognumber:28045" ; Times: 1
+	Query: "14299" ; Times: 4
+	Query: "couchii county:"Tulare"" ; Times: 3
+	Query: "Crotalus willardi willardi" ; Times: 1
+	Query: "virginia valeria" ; Times: 1
+	Query: "14280 type:specimen" ; Times: 2
+	Query: "5280" ; Times: 1
+	Query: "81805" ; Times: 1
+	Query: "33625" ; Times: 1
+	Query: "Crotalus willardi country:"United States"" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 6
+	Query: "cryptobranchus north carolina transylvania" ; Times: 1
+	Query: "Plethodon larselli" ; Times: 1
+	Query: "catalognumber:38002" ; Times: 1
+	Query: "county:"Mono" class:Reptilia year >= 2005 year <= 2015" ; Times: 1
+	Query: "taricha rivularis year >= 1990 year <= 2001" ; Times: 1
+	Query: "26305" ; Times: 1
+	Query: "33125" ; Times: 1
+	Query: "Agkistrodon bilineatus Nayarit" ; Times: 1
+	Query: "Crotalus Willardi" ; Times: 1
+	Query: "thamnophis chapala" ; Times: 1
+	Query: "aiken colubridae" ; Times: 1
+	Query: "stateprovince:"California" class:Reptilia year >= 2014 year <= 2015" ; Times: 1
+	Query: "50293" ; Times: 1
+	Query: "24633" ; Times: 1
+	Query: "rhinocheilus lecontei (CA)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 78 (out of 1084 download events in this period)
+Total number of records downloaded: 9647 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 8516
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: France ; Times: 5
+	Country: Mexico ; Times: 4
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 66
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 7
+	Date: 2015-07-06 ; Times: 1
+	Date: 2015-07-07 ; Times: 1
+	Date: 2015-07-08 ; Times: 4
+	Date: 2015-07-09 ; Times: 4
+	Date: 2015-07-10 ; Times: 3
+	Date: 2015-07-13 ; Times: 6
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 4
+	Date: 2015-07-16 ; Times: 2
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-18 ; Times: 1
+	Date: 2015-07-20 ; Times: 3
+	Date: 2015-07-21 ; Times: 4
+	Date: 2015-07-22 ; Times: 8
+	Date: 2015-07-24 ; Times: 2
+	Date: 2015-07-28 ; Times: 11
+	Date: 2015-07-29 ; Times: 5
+	Date: 2015-07-30 ; Times: 8
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "plethodon serratus" ; Times: 1
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 2
+	Query: "sternotherus odoratus" ; Times: 1
+	Query: "county:"sonoma" year >= 1930 year <= 1975" ; Times: 1
+	Query: "Eublepharidae" ; Times: 1
+	Query: "county:"Grand" stateprovince:"Utah"" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "bufonidae" ; Times: 1
+	Query: "bufo valliceps" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "Xantusiidae" ; Times: 2
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "country:"Mexico" class:Amphibia" ; Times: 1
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "chrysemys (belli OR picta OR marginata)" ; Times: 1
+	Query: "plethodon cylindraceus" ; Times: 1
+	Query: "plethodon montanus" ; Times: 1
+	Query: "Trionyx ferox" ; Times: 1
+	Query: "nerodia harteri" ; Times: 1
+	Query: "Xantusia vigilis Utah" ; Times: 1
+	Query: "county:"Sonoma" stateprovince:"California" year >= 2000 year <= 2000" ; Times: 1
+	Query: "plethodon nettingi" ; Times: 2
+	Query: "plethodon richmondi" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "aneides aeneus" ; Times: 2
+	Query: "Sternotherus odoratus" ; Times: 1
+	Query: "cryptobranchus alleganiensis" ; Times: 1
+	Query: "country:"Mexico" class:Reptilia" ; Times: 1
+	Query: "plethodon kentucki" ; Times: 2
+	Query: "iguana iguana" ; Times: 1
+	Query: "plethodon ventralis" ; Times: 4
+	Query: "zacatecas" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Dicamptodon tenebrosus" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "callisaurus" ; Times: 1
+	Query: "thamnophis couchii" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "genus:Trimorphodon" ; Times: 1
+	Query: "arizona elegans type:specimen" ; Times: 1
+	Query: "aiken colubridae" ; Times: 1
+	Query: "plethodon metcalfi" ; Times: 1
+	Query: "county:"Wasatch" stateprovince:"Utah"" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "crotalus viridis viridis" ; Times: 1
+	Query: "Terrapene (ornata OR luteola)" ; Times: 1
+	Query: "county:"Utah" stateprovince:"Utah"" ; Times: 1
+	Query: "Rana areolata year >= 1900 year <= 2013" ; Times: 1
+	Query: "plethodon electromorphus" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "Porthidium" ; Times: 1
+	Query: "Trachemys (scripta OR elegans OR troosti)" ; Times: 1
+	Query: "plethodon welleri" ; Times: 1
+	Query: "hemidactylium" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "thamnophis atratus" ; Times: 1
+	Query: "regina rigida" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "Kinosternon subrubrum" ; Times: 1
+	Query: "type:specimen (bufonidae OR Rhinella OR Atelopus) tissue:1" ; Times: 1
+	Query: "Apalone ferox" ; Times: 1
+	Query: "thamnophis rufipunctatus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 263
+Total number of records retrieved from searches: 2791
+Number of download events that retrieved data from the resource: 232
+Total number of records downloaded: 66308
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 263
+Total number of records retrieved from searches: 2791
+Number of download events that retrieved data from the resource: 232
+Total number of records downloaded: 66308
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
