@@ -1,0 +1,192 @@
+Report for Institution Code OS, Resource Herps
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 102
+Number of records retrieved in searches: 680
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 102
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-02 ; Times: 4
+	Date: 2015-08-03 ; Times: 9
+	Date: 2015-08-04 ; Times: 2
+	Date: 2015-08-05 ; Times: 2
+	Date: 2015-08-06 ; Times: 3
+	Date: 2015-08-08 ; Times: 4
+	Date: 2015-08-10 ; Times: 1
+	Date: 2015-08-11 ; Times: 3
+	Date: 2015-08-12 ; Times: 6
+	Date: 2015-08-13 ; Times: 3
+	Date: 2015-08-14 ; Times: 3
+	Date: 2015-08-15 ; Times: 6
+	Date: 2015-08-17 ; Times: 4
+	Date: 2015-08-18 ; Times: 2
+	Date: 2015-08-19 ; Times: 1
+	Date: 2015-08-20 ; Times: 1
+	Date: 2015-08-21 ; Times: 2
+	Date: 2015-08-22 ; Times: 4
+	Date: 2015-08-24 ; Times: 6
+	Date: 2015-08-25 ; Times: 5
+	Date: 2015-08-26 ; Times: 3
+	Date: 2015-08-27 ; Times: 7
+	Date: 2015-08-28 ; Times: 11
+	Date: 2015-08-29 ; Times: 5
+	Date: 2015-08-30 ; Times: 2
+	Date: 2015-08-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Coluber constrictor (California) tissue:1" ; Times: 1
+	Query: "plethodon sherando" ; Times: 5
+	Query: "Plethodon jordani year >= 1990 year <= 2015" ; Times: 1
+	Query: ""plethodon sherando"" ; Times: 2
+	Query: "Thamnophis couchii stateprovince:"California" year >= 2010 year <= 2015" ; Times: 1
+	Query: "Diadophis stateprovince:"Oregon" year >= 2000 year <= 2015" ; Times: 1
+	Query: "Plethodon asupak year <= 2015" ; Times: 1
+	Query: "plethodon shermani" ; Times: 1
+	Query: "Plethodon angusticlavius stateprovince:"Arkansas" country:"United States"" ; Times: 2
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "Pituophis stateprovince:"California" year >= 2010 year <= 2015" ; Times: 1
+	Query: "Plethodon variolatus year >= 1990 year <= 2015" ; Times: 1
+	Query: "catalognumber:8479" ; Times: 3
+	Query: "stateprovince:"California" class:reptilia year >= 2014 year <= 2015" ; Times: 2
+	Query: "UTA 6046" ; Times: 1
+	Query: "27999" ; Times: 1
+	Query: "stateprovince:"California" genus:Pituophis tissue:1" ; Times: 2
+	Query: "county:"humboldt" stateprovince:"california" class:reptilia year >= 2000 year <= 2015" ; Times: 1
+	Query: "34677" ; Times: 1
+	Query: "willardi" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "Eleutherodactylus augusti stateprovince:"Texas"" ; Times: 2
+	Query: "Eurycea longicauda stateprovince:"New Jersey"" ; Times: 3
+	Query: "4380" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "willardi stateprovince:"arizona"" ; Times: 1
+	Query: "Plethodon yonahlossee stateprovince:"Virginia"" ; Times: 1
+	Query: "27167" ; Times: 1
+	Query: "stateprovince:"california" genus:charina class:reptilia AND (NOT thamnophis) year >= 1990 year <= 2015" ; Times: 2
+	Query: "7754" ; Times: 2
+	Query: "catalognumber:21324" ; Times: 1
+	Query: "Thamnophis rufipunctatus stateprovince:"Arizona" year >= 1970 year <= 2015" ; Times: 1
+	Query: "eumeces tetragrammus brevilineatus" ; Times: 1
+	Query: "Plethodon jordani year >= 2000 year <= 2015" ; Times: 1
+	Query: "Aneides vagrans stateprovince:"California"" ; Times: 2
+	Query: "gerrhonotus liocephalus" ; Times: 1
+	Query: "stateprovince:"California" (Aneides vagrans)" ; Times: 2
+	Query: "county:"Esmeralda" stateprovince:"Nevada" class:reptilia year >= 2000 year <= 2015" ; Times: 1
+	Query: "Sceloporus county:"Fresno" class:Reptilia" ; Times: 2
+	Query: "imantodes tenuissimus" ; Times: 6
+	Query: "catalognumber:31491" ; Times: 1
+	Query: "county:"del norte" stateprovince:"california" class:reptilia AND (NOT thamnophis) year >= 1990 year <= 2015" ; Times: 1
+	Query: "echis carinatus" ; Times: 2
+	Query: "Ambystoma opacum stateprovince:"South Carolina" country:"United States"" ; Times: 1
+	Query: "19463" ; Times: 1
+	Query: "Thamnophis elegans Oregon Jackson" ; Times: 2
+	Query: "Rana county:"Fresno" class:amphibia" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "catalognumber: 4725" ; Times: 1
+	Query: "Thamnophis ordinoides year >= 2000 year <= 2015" ; Times: 1
+	Query: "Desmognathus aeneus stateprovince:"Georgia"" ; Times: 2
+	Query: "porthidium yucatanicum" ; Times: 2
+	Query: "catalognumber:8568" ; Times: 1
+	Query: "Plethodon amplus" ; Times: 2
+	Query: "Trimorphodon stateprovince:"Arizona" year >= 1985 year <= 2015" ; Times: 1
+	Query: "29475" ; Times: 1
+	Query: "Thamnophis atratus stateprovince:"California" year >= 2010 year <= 2015" ; Times: 1
+	Query: "Thamnophis sirtalis Oregon Jackson" ; Times: 1
+	Query: "Caudata stateprovince:"Alberta" year <= 2015" ; Times: 1
+	Query: "hypsiglena lassen" ; Times: 3
+	Query: "Thamnophis elegans stateprovince:"California" year >= 2010 year <= 2015" ; Times: 1
+	Query: "Nogales class:Reptilia year >= 1400 year <= 2015" ; Times: 1
+	Query: "Hypsiglena county:"Lassen"" ; Times: 3
+	Query: "Sonora stateprovince:"Oregon" year <= 2015" ; Times: 1
+	Query: "Plethodon welleri stateprovince:"Virginia"" ; Times: 1
+	Query: "catalognumber:52495" ; Times: 1
+	Query: "canorus county:"Fresno" class:amphibia" ; Times: 1
+	Query: "Rana boylii county:"Fresno" class:amphibia" ; Times: 1
+	Query: "county:"humboldt" stateprovince:"california" class:reptilia year >= 1990 year <= 2015" ; Times: 1
+	Query: "boscai" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1138 download events in this period)
+Total number of records downloaded: 15293 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 5742
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 31
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-02 ; Times: 1
+	Date: 2015-08-03 ; Times: 1
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-05 ; Times: 2
+	Date: 2015-08-07 ; Times: 1
+	Date: 2015-08-09 ; Times: 1
+	Date: 2015-08-10 ; Times: 1
+	Date: 2015-08-13 ; Times: 2
+	Date: 2015-08-17 ; Times: 7
+	Date: 2015-08-21 ; Times: 1
+	Date: 2015-08-24 ; Times: 1
+	Date: 2015-08-26 ; Times: 1
+	Date: 2015-08-28 ; Times: 2
+	Date: 2015-08-29 ; Times: 2
+	Date: 2015-08-30 ; Times: 3
+	Date: 2015-08-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Coluber constrictor (California) tissue:1" ; Times: 1
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Plethodon" ; Times: 1
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "pituophis melanoleucus year >= 1700 year <= 2015" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "riverside county" ; Times: 1
+	Query: "Mabuya" ; Times: 1
+	Query: "Rana boylii" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "type:specimen country:"Mexico" genus:Crotalus" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "specificepithet:kentucki genus:plethodon" ; Times: 1
+	Query: "genus:Plethodon" ; Times: 2
+	Query: "imantodes tenuissimus" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "specificepithet:punctatus genus:necturus" ; Times: 1
+	Query: "specificepithet:punctatus genus:plethodon" ; Times: 1
+	Query: "bufo exsul" ; Times: 1
+	Query: "Morelia class:Reptilia year >= 1400 year <= 2015" ; Times: 1
+	Query: "nevada class:reptilia" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "cnemidophorus sexlineatus" ; Times: 1
+	Query: "Pituophis catenifer (California) tissue:1" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 102
+Total number of records retrieved from searches: 680
+Number of download events that retrieved data from the resource: 31
+Total number of records downloaded: 15293
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 102
+Total number of records retrieved from searches: 680
+Number of download events that retrieved data from the resource: 31
+Total number of records downloaded: 15293
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
