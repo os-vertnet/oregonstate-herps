@@ -1,0 +1,185 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 87
+Number of records retrieved in searches: 668
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Philippines ; Times: 1
+	Country: South Africa ; Times: 3
+	Country: Papua New Guinea ; Times: 1
+	Country: United States ; Times: 64
+	Country: Germany ; Times: 3
+	Country: Russia ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-22 ; Times: 1
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-10 ; Times: 2
+	Date: 2015-09-11 ; Times: 5
+	Date: 2015-09-12 ; Times: 5
+	Date: 2015-09-14 ; Times: 2
+	Date: 2015-09-17 ; Times: 5
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-30 ; Times: 10
+	Date: 2015-09-29 ; Times: 3
+	Date: 2015-09-07 ; Times: 6
+	Date: 2015-09-06 ; Times: 2
+	Date: 2015-09-05 ; Times: 1
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-03 ; Times: 10
+	Date: 2015-09-02 ; Times: 1
+	Date: 2015-09-01 ; Times: 8
+	Date: 2015-09-25 ; Times: 4
+	Date: 2015-09-24 ; Times: 2
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-26 ; Times: 6
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-23 ; Times: 3
+	Date: 2015-09-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "tantilla wilcoxi arizona" ; Times: 1
+	Query: "distance(location,geopoint(25.7802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "catalognumber:30513" ; Times: 2
+	Query: "thamnophis sirtalis tissue:1" ; Times: 1
+	Query: "class:Reptilia county:&#34;Rawlins&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-111.149505705))&lt;10000" ; Times: 1
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "specificepithet:virginia genus:Plethodon" ; Times: 1
+	Query: "thamnophis melanogaster" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; class:reptilia year &gt;= 2014 year &lt;= 2015" ; Times: 2
+	Query: "distance(location,geopoint(25.6802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "thamnophis eques" ; Times: 1
+	Query: "Masticophis taeniatus stateprovince:&#34;Nevada&#34;" ; Times: 5
+	Query: "class:Reptilia catalognumber:5861" ; Times: 1
+	Query: "type:specimen genus:Cerastes family:Viperidae" ; Times: 2
+	Query: "specificepithet:horridus genus:crotalus tissue:1" ; Times: 1
+	Query: "wizard" ; Times: 8
+	Query: "elf" ; Times: 4
+	Query: "xantusia utah" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "R.30826" ; Times: 1
+	Query: "specificepithet:kentucki genus:plethodon" ; Times: 2
+	Query: "anguis fragilis" ; Times: 2
+	Query: "stateprovince:&#34;Utah&#34; genus:Coleonyx" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34; year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "Crotalus willardi willardi 1" ; Times: 2
+	Query: "distance(location,geopoint(25.8802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "pig tissue:1" ; Times: 2
+	Query: "Masticophis taeniatus stateprovince:&#34;Nevada&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Butastur" ; Times: 1
+	Query: "county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; genus:Sauromalus" ; Times: 1
+	Query: "Masticophis taeniatus stateprovince:&#34;Nevada&#34; country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "reptilia catalognumber:21327" ; Times: 1
+	Query: "Agkistrodon mexico" ; Times: 1
+	Query: "heloderma horridum" ; Times: 3
+	Query: "specificepithet:hubrichti genus:plethodon year &gt;= 1965 year &lt;= 2015" ; Times: 1
+	Query: "thamnophis stateprovince:&#34;montana&#34; tissue:1" ; Times: 1
+	Query: "reptilia catalognumber:6380" ; Times: 1
+	Query: "regina tissue:1" ; Times: 5
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "distance(location,geopoint(25.7802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "Leslie Canyon" ; Times: 1
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "thamnophis stateprovince:&#34;iowa&#34;" ; Times: 1
+	Query: "specificepithet:savannah genus:plethodon" ; Times: 3
+	Query: "reptilia catalognumber:30516" ; Times: 1
+	Query: "27176" ; Times: 1
+	Query: "reptilia catalognumber:30513" ; Times: 1
+	Query: "crotalus willardi" ; Times: 1
+	Query: "distance(location,geopoint(25.8802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "distance(location,geopoint(25.7802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "genus:Trimorphodon stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "(leslie canyon)" ; Times: 1
+	Query: "plethodon punctatus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 1045 download events in this period)
+Total number of records downloaded: 6979
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 3
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-25 ; Times: 5
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 3
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-11 ; Times: 4
+	Date: 2015-09-12 ; Times: 1
+	Date: 2015-09-29 ; Times: 4
+	Date: 2015-09-03 ; Times: 7
+	Date: 2015-09-28 ; Times: 2
+	Date: 2015-09-01 ; Times: 3
+	Date: 2015-09-22 ; Times: 5
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-08 ; Times: 5
+	Date: 2015-09-26 ; Times: 1
+	Date: 2015-09-15 ; Times: 1
+	Date: 2015-09-30 ; Times: 3
+	Date: 2015-09-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "thamnophis sirtalis tissue:1" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 3
+	Query: "Heloderma mexico" ; Times: 1
+	Query: "batrachoseps los angeles" ; Times: 1
+	Query: "Spea" ; Times: 2
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "Necturus" ; Times: 1
+	Query: "Rana pipiens" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "genus:Hemidactylus" ; Times: 1
+	Query: "country:&#34;guam&#34; class:reptilia" ; Times: 1
+	Query: "necturus punctatus" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Bothrops mexico" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "specificepithet:variolatus genus:plethodon year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "Spea type:specimen" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "tigrinum" ; Times: 1
+	Query: "Micrurus mexico" ; Times: 1
+	Query: "Masticophis taeniatus stateprovince:&#34;Nevada&#34; country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "country:&#34;guam&#34; class:amphibia" ; Times: 1
+	Query: "Scaphiopus" ; Times: 3
+	Query: "Agkistrodon mexico" ; Times: 1
+	Query: "bufo marinus" ; Times: 1
+	Query: "specificepithet:hubrichti genus:plethodon year &gt;= 1965 year &lt;= 2015" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Elaphe obsoleta" ; Times: 2
+	Query: "ascaphus" ; Times: 2
+	Query: "phrynosoma" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; specificepithet:woodhousii genus:Bufo" ; Times: 1
+	Query: "Spea Hammondii stateprovince:&#34;California&#34; year &gt;= 1951 year &lt;= 1999" ; Times: 1
+	Query: "specificepithet:savannah genus:plethodon" ; Times: 1
+	Query: "Masticophis taeniatus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "Chinemys" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+
+
+End of report.
