@@ -1,0 +1,178 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 354
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 33
+	Country: Germany ; Times: 2
+	Country: Russia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-14 ; Times: 5
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-13 ; Times: 2
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-29 ; Times: 3
+	Date: 2015-10-28 ; Times: 4
+	Date: 2015-10-27 ; Times: 3
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-23 ; Times: 2
+	Date: 2015-10-22 ; Times: 2
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 2
+	Date: 2015-10-05 ; Times: 3
+	Date: 2015-10-07 ; Times: 5
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-01 ; Times: 3
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "32700" ; Times: 1
+	Query: "genus:gastrophryne stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 2
+	Query: "12739" ; Times: 1
+	Query: "specificepithet:Willardi genus:Crotalus" ; Times: 1
+	Query: "Rana pipiens type:specimen stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Tennessee&#34; month &gt;= 9 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "wizard" ; Times: 5
+	Query: "elf" ; Times: 3
+	Query: "catalognumber:27542" ; Times: 1
+	Query: "gerrhonotus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "thamnophis eques stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Plethodon yonahlossee stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "thamnophis country:&#34;Mexico&#34; tissue:1" ; Times: 1
+	Query: "catalognumber:29329" ; Times: 1
+	Query: "23218" ; Times: 1
+	Query: "22250" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 2
+	Query: "catalognumber:30246" ; Times: 1
+	Query: "27542" ; Times: 1
+	Query: "catalognumber:30039" ; Times: 1
+	Query: "Plethodon kiamichi Plethodon kiamichi" ; Times: 1
+	Query: "type:specimen specificepithet:pipiens class:Amphibia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Thamnophis sumichrasti" ; Times: 1
+	Query: "Plethodon kiamichi" ; Times: 1
+	Query: "cryptobranchus" ; Times: 2
+	Query: "Masticophis taeniatus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "catalognumber:33095" ; Times: 1
+	Query: "amphibia fossil" ; Times: 1
+	Query: "plethodon larselli" ; Times: 1
+	Query: "lygosoma new guinea" ; Times: 1
+	Query: "genus:ambystoma stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "genus:Thamnophis stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "elapidae state of mexico" ; Times: 1
+	Query: "specificepithet:kiamichi genus:Plethodon" ; Times: 1
+	Query: "type:specimen catalognumber:29329" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 823 download events in this period)
+Total number of records downloaded: 24709
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 58
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 7
+	Date: 2015-10-05 ; Times: 3
+	Date: 2015-10-07 ; Times: 2
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-01 ; Times: 3
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-09 ; Times: 3
+	Date: 2015-10-14 ; Times: 3
+	Date: 2015-10-19 ; Times: 7
+	Date: 2015-10-30 ; Times: 1
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-29 ; Times: 9
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-23 ; Times: 4
+	Date: 2015-10-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni NOT stickeli NOT woodfordi NOT papuae NOT cinereus NOT concinnatus NOT aignanus NOT derooyae NOT muelleri NOT forbesi NOT papuensis NOT nigriventris NOT wollastoni NOT leptofasciatus NOT forbesii NOT granulatus NOT aruensis NOT latifasciatus NOT meyeri NOT tanneri NOT undulatus NOT fasciatus NOT aruensi NOT darlingtoni NOT nigraventra NOT flavipes NOT oligolepis NOT schultzei NOT nigrolineatus NOT annectens NOT fuscolineatus NOT fragilis NOT nigrolineata NOT megaspila NOT longicaudatus NOT Daru)" ; Times: 1
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni NOT stickeli NOT woodfordi NOT papuae NOT cinereus NOT concinnatus NOT aignanus NOT derooyae NOT muelleri NOT forbesi NOT papuensis NOT nigriventris NOT wollastoni NOT leptofasciatus NOT forbesii NOT granulatus NOT aruensis NOT latifasciatus NOT meyeri NOT tanneri NOT undulatus )" ; Times: 1
+	Query: "thamnophis sirtalis tissue:1" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "Thamnophis elegans stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 1
+	Query: "specificepithet:virginia genus:Plethodon" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;California&#34; mappable:1 tissue:1" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 2
+	Query: "apalone ferox" ; Times: 2
+	Query: "thamnophis radix" ; Times: 1
+	Query: "type:specimen class:Amphibia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "Xantusia riversiana" ; Times: 1
+	Query: "contia tenuis" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "Phyllorhynchus decurtatus" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "boiga irregularis" ; Times: 1
+	Query: "elgaria kingii" ; Times: 1
+	Query: "Sceloporus poinsettii" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "Sphenomorphus New Guinea" ; Times: 1
+	Query: "Salvadora hexalepis" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "elapidae mexico" ; Times: 1
+	Query: "Sceloporus occidentalis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 3
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "type:specimen specificepithet:pipiens class:Amphibia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "specificepithet:punctatus genus:Plethodon" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Phyllorhynchus browni" ; Times: 1
+	Query: "Callisaurus draconoides stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "thamnophis rufipunctatus" ; Times: 1
+	Query: "Amboy" ; Times: 1
+	Query: "type:specimen class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "specificepithet:kiamichi genus:Plethodon" ; Times: 1
+	Query: "Sceloporus stateprovince:&#34;Nevada&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "Uta stansburiana stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Gambelia wislizenii stateprovince:&#34;Nevada&#34;" ; Times: 1
+
+
+End of report.
