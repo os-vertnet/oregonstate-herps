@@ -1,0 +1,122 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 555
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: Denmark ; Times: 16
+	Country: Russia ; Times: 12
+	Country: Switzerland ; Times: 3
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 2
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-01 ; Times: 2
+	Date: 2015-12-06 ; Times: 1
+	Date: 2015-12-05 ; Times: 12
+	Date: 2015-12-04 ; Times: 5
+	Date: 2015-12-20 ; Times: 9
+	Date: 2015-12-22 ; Times: 1
+	Date: 2015-12-24 ; Times: 1
+	Date: 2015-12-27 ; Times: 2
+	Date: 2015-12-26 ; Times: 1
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-31 ; Times: 1
+	Date: 2015-12-14 ; Times: 6
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-17 ; Times: 3
+	Date: 2015-12-10 ; Times: 4
+	Date: 2015-12-11 ; Times: 2
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-18 ; Times: 1
+	Date: 2015-12-19 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "wizard" ; Times: 8
+	Query: "OS 12625" ; Times: 1
+	Query: "class:Amphibia county:&#34;Leavenworth&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "OS 18758" ; Times: 1
+	Query: "OS 18323" ; Times: 1
+	Query: "OS 12591" ; Times: 1
+	Query: "OS 12590" ; Times: 1
+	Query: "elf" ; Times: 8
+	Query: "OS 5039" ; Times: 1
+	Query: "OS 18349" ; Times: 1
+	Query: "OS 18632" ; Times: 1
+	Query: "genus:Rana specificepithet:areolata" ; Times: 1
+	Query: "OS 18368" ; Times: 1
+	Query: "thamnophis gigas" ; Times: 1
+	Query: "OS 18346" ; Times: 1
+	Query: "OS 18361" ; Times: 1
+	Query: "plethodon kentucki" ; Times: 1
+	Query: "catalognumber:51891" ; Times: 1
+	Query: "Taricha rivularis" ; Times: 2
+	Query: "plethodon idahoensis" ; Times: 1
+	Query: "Plethodon larselli" ; Times: 16
+	Query: "plethodon vandykei stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 4
+	Query: "Plethodon vandykei" ; Times: 3
+	Query: "OS 18772" ; Times: 1
+	Query: "crotalus willardi" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 889 download events in this period)
+Total number of records downloaded: 7688
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Unknown ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 2
+	Date: 2015-12-01 ; Times: 6
+	Date: 2015-12-05 ; Times: 1
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-17 ; Times: 9
+	Date: 2015-12-10 ; Times: 3
+	Date: 2015-12-24 ; Times: 1
+	Date: 2015-12-27 ; Times: 1
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-18 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Gyrinophilus porphyriticus" ; Times: 5
+	Query: "Nerodia cyclopion" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+	Query: "gyrinophilus porphyriticus" ; Times: 1
+	Query: "Bufo boreas" ; Times: 1
+	Query: "Nerodia taxispilota" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "Masticophis flagellum" ; Times: 1
+	Query: "quintana roo" ; Times: 1
+	Query: "Nerodia sipedon" ; Times: 1
+	Query: "Kinosternon" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "Plethodon larselli" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "Gehyra" ; Times: 1
+	Query: "Pseudobranchus" ; Times: 1
+	Query: "Masticophis taeniatus" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "scaphiopus" ; Times: 1
+	Query: "Nerodia rhombifer" ; Times: 1
+	Query: "Hyla regilla" ; Times: 1
+	Query: "Lampropeltis getula" ; Times: 1
+	Query: "spea" ; Times: 1
+	Query: "Sceloporus undulatus" ; Times: 1
+
+
+End of report.
