@@ -1,0 +1,129 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 752
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Russia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 3
+	Date: 2016-01-05 ; Times: 3
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 4
+	Date: 2016-01-26 ; Times: 5
+	Date: 2016-01-01 ; Times: 3
+	Date: 2016-01-24 ; Times: 3
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-29 ; Times: 1
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-19 ; Times: 2
+	Date: 2016-01-07 ; Times: 1
+	Date: 2016-01-12 ; Times: 3
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-10 ; Times: 6
+	Date: 2016-01-17 ; Times: 4
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-31 ; Times: 1
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "33490" ; Times: 1
+	Query: "marion missouri" ; Times: 1
+	Query: "Dicamptodon ensatus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Tantilla wilcoxi" ; Times: 2
+	Query: "Batrachoseps wrighti stateprovince:&#34;Oregon&#34;" ; Times: 3
+	Query: "OS 14865" ; Times: 1
+	Query: "Plethodon kentucki" ; Times: 2
+	Query: "12113" ; Times: 1
+	Query: "Imantodes tenuissimus" ; Times: 1
+	Query: "OS 18758" ; Times: 1
+	Query: "wizard" ; Times: 4
+	Query: "elf" ; Times: 6
+	Query: "OS 19442" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-111.147516))&lt;15000" ; Times: 1
+	Query: "Ambystoma andersoni" ; Times: 2
+	Query: "ascaphus tissue:1" ; Times: 1
+	Query: "OS 18346" ; Times: 1
+	Query: "Crotalus mitchellii Nevada" ; Times: 1
+	Query: "Pythonidae tissue:1" ; Times: 2
+	Query: "21381" ; Times: 1
+	Query: "psammophis sibilans" ; Times: 1
+	Query: "family:Helodermatidae stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Plethodon angusticlavius" ; Times: 1
+	Query: "Macroprotodon cucullatus" ; Times: 1
+	Query: "Dicamptodon OS" ; Times: 3
+	Query: "Cryptobranchus alleganiensis stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "elaphe flavirufa" ; Times: 2
+	Query: "Xantusia vigilis stateprovince:Utah" ; Times: 1
+	Query: "OS 18642" ; Times: 1
+	Query: "OS 18666" ; Times: 1
+	Query: "type:specimen specificepithet:emoryi genus:elaphe" ; Times: 1
+	Query: "Spea intermontana stateprovince:&#34;Oregon&#34;" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 507 download events in this period)
+Total number of records downloaded: 52098
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-30 ; Times: 3
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-27 ; Times: 3
+	Date: 2016-01-28 ; Times: 5
+	Date: 2016-01-29 ; Times: 2
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-19 ; Times: 2
+	Date: 2016-01-13 ; Times: 3
+	Date: 2016-01-12 ; Times: 2
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia stateprovince:Oregon" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "Crotalus viridis Nevada" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "genus:Plethodon class:Amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "genus:Rana class:Amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "genus:Batrachoseps class:Amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "order:CAudata country:&#34;United States&#34;" ; Times: 4
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Masticophis flagellum Nevada" ; Times: 1
+	Query: "Crotalus mitchellii Nevada" ; Times: 1
+	Query: "genus:Rana class:Amphibia stateprovince:Oregon" ; Times: 1
+	Query: "genus:Rhyacotriton class:Amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "lichanura trivirgata" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "lichanura" ; Times: 1
+	Query: "Masticophis taeniatus Nevada" ; Times: 1
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: "Boidae tissue:1" ; Times: 1
+	Query: "&#34;naja naja&#34;" ; Times: 1
+	Query: "order:caudata continent:north america" ; Times: 1
+	Query: "Taricha stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
