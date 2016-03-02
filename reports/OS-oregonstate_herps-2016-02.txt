@@ -1,0 +1,131 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 57
+Number of records retrieved in searches: 559
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Russia ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-28 ; Times: 1
+	Date: 2016-02-22 ; Times: 3
+	Date: 2016-02-29 ; Times: 3
+	Date: 2016-02-16 ; Times: 2
+	Date: 2016-02-04 ; Times: 9
+	Date: 2016-02-21 ; Times: 4
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-09 ; Times: 14
+	Date: 2016-02-08 ; Times: 2
+	Date: 2016-02-18 ; Times: 2
+	Date: 2016-02-19 ; Times: 2
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 3
+	Date: 2016-02-25 ; Times: 2
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-17 ; Times: 1
+	Date: 2016-02-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "30149" ; Times: 1
+	Query: "ascaphus institutioncode:OS" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "sowell" ; Times: 1
+	Query: "Platyceps rogersi" ; Times: 1
+	Query: "82074" ; Times: 1
+	Query: "Tantilla wilcoxi" ; Times: 1
+	Query: "38377" ; Times: 1
+	Query: "wizard" ; Times: 7
+	Query: "specificepithet:flavirufa" ; Times: 1
+	Query: "NERODIA CYCLOPION" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 2
+	Query: "Heloderma horridum" ; Times: 3
+	Query: "tantilla wilcoxi" ; Times: 9
+	Query: "80729" ; Times: 2
+	Query: "specificepithet:sherando genus:plethodon" ; Times: 1
+	Query: "33903" ; Times: 1
+	Query: "class:reptilia county:&#34;grand&#34; stateprovince:&#34;utah&#34; AND (NOT cnemidophorus NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla NOT sceloporus NOT undulatus NOT cophosaurus)" ; Times: 1
+	Query: "crotalus molossus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "ambystoma opacum stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "crotalus willardi" ; Times: 13
+	Query: "33755" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 512 download events in this period)
+Total number of records downloaded: 103931
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: United Kingdom ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-02 ; Times: 5
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-15 ; Times: 1
+	Date: 2016-02-17 ; Times: 3
+	Date: 2016-02-23 ; Times: 4
+	Date: 2016-02-22 ; Times: 3
+	Date: 2016-02-18 ; Times: 1
+	Date: 2016-02-19 ; Times: 1
+	Date: 2016-02-26 ; Times: 12
+	Date: 2016-02-25 ; Times: 3
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-04 ; Times: 1
+	Date: 2016-02-14 ; Times: 1
+	Date: 2016-02-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:electromorphus genus:plethodon" ; Times: 1
+	Query: "Gymnophiona" ; Times: 1
+	Query: "class:reptilia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "Dicamptodon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cnemidophorus tigris" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:reptilia mappable:1 stateprovince:Nevada" ; Times: 1
+	Query: "sculpin" ; Times: 1
+	Query: "genus:thamnophis" ; Times: 1
+	Query: "genus:Plethodon specificepithet:kentucki" ; Times: 1
+	Query: "notophthalmus viridescens mappable:1" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "rufipunctatus" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:Washington" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:California" ; Times: 3
+	Query: "Masticophis flagellum Nevada" ; Times: 1
+	Query: "class:reptilia mappable:1 stateprovince:California" ; Times: 5
+	Query: "specificepithet:sherando genus:plethodon" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "trachemys scripta type:specimen" ; Times: 1
+	Query: "county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Scaphiopus specificepithet:holbrookii" ; Times: 1
+	Query: "class:reptilia mappable:1 stateprovince:Washington" ; Times: 1
+	Query: "county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Bufo nelsoni Nevada" ; Times: 1
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 2
+	Query: "varanus niloticus" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "Ambystoma gracile" ; Times: 1
+
+
+End of report.
