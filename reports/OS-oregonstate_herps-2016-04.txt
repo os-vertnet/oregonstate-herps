@@ -1,0 +1,174 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 139
+Number of records retrieved in searches: 1904
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 3
+	Country: United States ; Times: 91
+	Country: Unknown ; Times: 6
+	Country: Puerto Rico ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 33
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 4
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-07 ; Times: 7
+	Date: 2016-04-06 ; Times: 6
+	Date: 2016-04-05 ; Times: 9
+	Date: 2016-04-04 ; Times: 10
+	Date: 2016-04-21 ; Times: 4
+	Date: 2016-04-20 ; Times: 2
+	Date: 2016-04-23 ; Times: 4
+	Date: 2016-04-08 ; Times: 3
+	Date: 2016-04-25 ; Times: 10
+	Date: 2016-04-09 ; Times: 3
+	Date: 2016-04-27 ; Times: 5
+	Date: 2016-04-26 ; Times: 2
+	Date: 2016-04-22 ; Times: 2
+	Date: 2016-04-18 ; Times: 7
+	Date: 2016-04-19 ; Times: 4
+	Date: 2016-04-14 ; Times: 5
+	Date: 2016-04-15 ; Times: 2
+	Date: 2016-04-17 ; Times: 14
+	Date: 2016-04-11 ; Times: 8
+	Date: 2016-04-12 ; Times: 13
+	Date: 2016-04-13 ; Times: 10
+	Date: 2016-04-03 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Plethodon specificepithet:savannah" ; Times: 4
+	Query: "21026" ; Times: 1
+	Query: "class:Reptilia county:&#34;deschutes&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "pyromelana" ; Times: 1
+	Query: "reptilia stateprovince:&#34;California&#34; year &gt;= 2015 year &lt;= 2016" ; Times: 1
+	Query: "class:Reptilia county:&#34;deschutes&#34; stateprovince:&#34;oregon&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "genus:Plethodon specificepithet:cheoah" ; Times: 8
+	Query: "(Crotalus willardi)" ; Times: 1
+	Query: "38875" ; Times: 2
+	Query: "38774" ; Times: 1
+	Query: "16438 tissue:1" ; Times: 1
+	Query: "class:Reptilia county:&#34;deschutes&#34; stateprovince:&#34;oregon&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "Plaskett class:Reptilia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (willardi)" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 2
+	Query: "12470 tissue:1" ; Times: 2
+	Query: "sceloporus blair" ; Times: 2
+	Query: "specificepithet:tigris genus:Crotalus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "thamnophis rufipunctatus tissue:1" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (pyromelana)" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "26214" ; Times: 1
+	Query: "Plaskett stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "38758" ; Times: 1
+	Query: "Lichanura riverside" ; Times: 1
+	Query: "wizard" ; Times: 16
+	Query: "elf" ; Times: 20
+	Query: "28423" ; Times: 1
+	Query: "porthidium quintana roo" ; Times: 1
+	Query: "12216" ; Times: 3
+	Query: "Plaskett class:Reptilia county:&#34;Glenn&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:serratus genus:plethodon tissue:1" ; Times: 1
+	Query: "Eumeces schneideri" ; Times: 2
+	Query: "tantilla wilcoxi" ; Times: 9
+	Query: "Tantilla wilcoxi Arizona" ; Times: 2
+	Query: "plethodon wehrlei distance(location,geopoint(38.231276443808234,-81.650390625))&lt;100000" ; Times: 1
+	Query: "specificepithet:sequoyah genus:plethodon tissue:1" ; Times: 1
+	Query: "crotalus benton oregon" ; Times: 1
+	Query: "Crotalus viridis Apache Arizona" ; Times: 4
+	Query: "plethodon welleri AND (NOT virginia) mappable:1" ; Times: 1
+	Query: "spea washoe county" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-111.997516))&lt;15000" ; Times: 1
+	Query: "thamnophis sirtalis (Nebraska)" ; Times: 1
+	Query: "38882" ; Times: 1
+	Query: "24268" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-109.957516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.787516))&lt;15000" ; Times: 1
+	Query: "Dundee Falls" ; Times: 1
+	Query: "35651" ; Times: 1
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "Plethodon metcalfi year &gt;= 1970 year &lt;= 2016 mappable:1" ; Times: 2
+	Query: "R-15469" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (lepidus)" ; Times: 1
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "Carphophis tissue:1" ; Times: 2
+	Query: "plethodon welleri" ; Times: 1
+	Query: "Dicamptodon ensatus Lake County" ; Times: 1
+	Query: "Dicamptodon county:&#34;Glenn&#34;" ; Times: 6
+	Query: "19404" ; Times: 1
+	Query: "20587" ; Times: 1
+	Query: "Crotalus Apache Arizona" ; Times: 1
+	Query: "elaphe emoryi" ; Times: 1
+	Query: "Plaskett class:Amphibia county:&#34;Glenn&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Thamnophis sumichrasti" ; Times: 2
+	Query: "class:Reptilia locality:totontepec" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1312 download events in this period)
+Total number of records downloaded: 17228
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-13 ; Times: 1
+	Date: 2016-04-22 ; Times: 2
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-03 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-06 ; Times: 1
+	Date: 2016-04-05 ; Times: 5
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-08 ; Times: 4
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Tropidoclonion lineatum" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "batrachoseps wrighti" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Rana cascadae" ; Times: 1
+	Query: "Plethodon metcalfi mappable:1" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "Plethodon jordani year &gt;= 1970 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Plethodon metcalfi year &gt;= 1970 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "Plethodon montanus year &gt;= 1970 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "genus:Ambystoma opacum" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "Dicamptodon ensatus Lake County" ; Times: 1
+	Query: "Rhyacotriton kezeri" ; Times: 1
+
+
+End of report.
