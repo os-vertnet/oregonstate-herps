@@ -1,0 +1,109 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 315
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 2
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-21 ; Times: 5
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-03 ; Times: 2
+	Date: 2016-05-04 ; Times: 2
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-11 ; Times: 2
+	Date: 2016-05-07 ; Times: 3
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 5
+	Date: 2016-05-23 ; Times: 3
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-22 ; Times: 3
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-10 ; Times: 1
+	Date: 2016-05-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Agkistrodon bilineatus" ; Times: 4
+	Query: "Plethodon sherando" ; Times: 1
+	Query: "Rubber Boa" ; Times: 3
+	Query: "Viperidae family:Viperidae county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Crotalus family:Viperidae county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Plethodon specificepithet:idahoensis" ; Times: 2
+	Query: "family:Viperidae county:&#34;Apache&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "thamnophis sirtalis (nebraska)" ; Times: 1
+	Query: "specificepithet:guttolineata genus:Eurycea county:&#34;Macon&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "Ambystoma opacum stateprovince:&#34;South Carolina&#34;" ; Times: 3
+	Query: "Heterodon Cochise county" ; Times: 3
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "Taeniatus washoe county" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "family:Viperidae county:&#34;La Paz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Anguis" ; Times: 2
+	Query: "rhinocheilus lassen" ; Times: 2
+	Query: "reptilia stateprovince:&#34;California&#34; year &gt;= 2014 year &lt;= 2015" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 327 download events in this period)
+Total number of records downloaded: 2414
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: United Kingdom ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 2
+	Date: 2016-05-19 ; Times: 5
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-07 ; Times: 1
+	Date: 2016-05-31 ; Times: 13
+	Date: 2016-05-30 ; Times: 2
+	Date: 2016-05-20 ; Times: 3
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Phrynosoma platyrhinos Idaho" ; Times: 2
+	Query: "crotalus oreganus" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Ambystoma macrodactylum" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 5
+	Query: "Sceloporus jarrovii" ; Times: 1
+	Query: "Anguis" ; Times: 2
+	Query: "plethodon welleri" ; Times: 1
+	Query: "plethodon hubrichti" ; Times: 2
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "uta stansburiana" ; Times: 1
+	Query: "heloderma horridum" ; Times: 4
+	Query: "Plethodon hubrichti" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "Dicamptodon" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 1
+	Query: "Phrynosoma platyrhinos CA" ; Times: 2
+	Query: "Eurycea" ; Times: 1
+	Query: "Aneides vagrans" ; Times: 1
+	Query: "plethodon punctatus" ; Times: 1
+
+
+End of report.
