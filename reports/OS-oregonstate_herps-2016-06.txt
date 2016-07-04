@@ -1,0 +1,257 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 214
+Number of records retrieved in searches: 3192
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 171
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 5
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 1
+	Country: Finland ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Fiji ; Times: 2
+	Country: Russia ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 11
+	Date: 2016-06-24 ; Times: 2
+	Date: 2016-06-23 ; Times: 3
+	Date: 2016-06-08 ; Times: 6
+	Date: 2016-06-21 ; Times: 7
+	Date: 2016-06-20 ; Times: 7
+	Date: 2016-06-05 ; Times: 19
+	Date: 2016-06-07 ; Times: 5
+	Date: 2016-06-06 ; Times: 2
+	Date: 2016-06-01 ; Times: 12
+	Date: 2016-06-03 ; Times: 53
+	Date: 2016-06-02 ; Times: 22
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-22 ; Times: 4
+	Date: 2016-06-18 ; Times: 3
+	Date: 2016-06-19 ; Times: 4
+	Date: 2016-06-16 ; Times: 11
+	Date: 2016-06-17 ; Times: 3
+	Date: 2016-06-14 ; Times: 12
+	Date: 2016-06-15 ; Times: 4
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-13 ; Times: 11
+	Date: 2016-06-10 ; Times: 8
+	Date: 2016-06-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Reptilia 19708" ; Times: 1
+	Query: "tantilla wilcoxi arizona" ; Times: 1
+	Query: "30753" ; Times: 1
+	Query: "14852" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis institutioncode:OS" ; Times: 6
+	Query: "26378" ; Times: 1
+	Query: "53562" ; Times: 1
+	Query: "34808" ; Times: 1
+	Query: "distance(location,geopoint(37,-122))&lt;1" ; Times: 1
+	Query: "distance(location,geopoint(37,-122))&lt;0" ; Times: 1
+	Query: "Thamnophis ordinoides tissue:1" ; Times: 1
+	Query: "wizard" ; Times: 7
+	Query: "elf" ; Times: 8
+	Query: "regina tissue:1" ; Times: 1
+	Query: "Reptilia 21632" ; Times: 1
+	Query: "Reptilia 15902" ; Times: 1
+	Query: "Reptilia 8516" ; Times: 1
+	Query: "Reptilia 4058" ; Times: 4
+	Query: "batrachoseps wrighti" ; Times: 2
+	Query: "Reptilia 18280" ; Times: 2
+	Query: "35018" ; Times: 1
+	Query: "Chamaeleo chamaeleon 1" ; Times: 5
+	Query: "14352" ; Times: 1
+	Query: "genus:thamnophis class:Reptilia county:&#34;travis&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:augusti stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Reptilia 3459" ; Times: 1
+	Query: "Reptilia 6124" ; Times: 1
+	Query: "Reptilia 6606" ; Times: 1
+	Query: "13164 reptilia" ; Times: 1
+	Query: "38682" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus institutioncode:OS" ; Times: 1
+	Query: "Reptilia 37842" ; Times: 1
+	Query: "Crotalus willardi stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Reptilia 1794" ; Times: 2
+	Query: "Reptilia 20454" ; Times: 1
+	Query: "Reptilia 22338" ; Times: 1
+	Query: "plethodon amplus" ; Times: 1
+	Query: "reptilia county:&#34;Mono&#34; stateprovince:&#34;California&#34; year &gt;= 2001 year &lt;= 2017" ; Times: 2
+	Query: "Reptilia 3447" ; Times: 1
+	Query: "&#34;plethodon sherando&#34;" ; Times: 3
+	Query: "plethodon vandykei" ; Times: 3
+	Query: "Cochise county heterodon" ; Times: 1
+	Query: "neurergus" ; Times: 1
+	Query: "11139" ; Times: 7
+	Query: "family:bufonidae order:anura county:&#34;lake&#34; stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "Reptilia catalognumber:8894" ; Times: 1
+	Query: "Reptilia 1003" ; Times: 1
+	Query: "micrurus yucatan" ; Times: 2
+	Query: "14299" ; Times: 1
+	Query: "macrodactylum idaho" ; Times: 1
+	Query: "Reptilia 18384" ; Times: 1
+	Query: "Reptilia 53799" ; Times: 1
+	Query: "specificepithet:sumichrasti genus:Thamnophis" ; Times: 1
+	Query: "Reptilia 19711" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:Ambystoma county:&#34;deschutes&#34;" ; Times: 1
+	Query: "Reptilia 35998" ; Times: 1
+	Query: "11714" ; Times: 2
+	Query: "Santa Cruz Island AND Herps AND 1950" ; Times: 3
+	Query: "Reptilia 82666" ; Times: 1
+	Query: "reptilia county:&#34;Mono&#34; stateprovince:&#34;California&#34; year &gt;= 1951 year &lt;= 2000" ; Times: 1
+	Query: "Reptilia 82664" ; Times: 1
+	Query: "11899" ; Times: 4
+	Query: "specificepithet:macrodactylum genus:Ambystoma stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Reptilia 18258" ; Times: 1
+	Query: "Varanus niloticus " ; Times: 1
+	Query: "Masticophis taeniatus Nevada" ; Times: 2
+	Query: "27097" ; Times: 1
+	Query: "35723" ; Times: 1
+	Query: "Reptilia 82663" ; Times: 1
+	Query: "plethodon sherando" ; Times: 1
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "catalognumber:35344" ; Times: 2
+	Query: "Reptilia 20872" ; Times: 1
+	Query: "Reptilia 13651" ; Times: 1
+	Query: "53440" ; Times: 1
+	Query: "80106" ; Times: 1
+	Query: "34844" ; Times: 1
+	Query: "Crotalus tigris stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 2
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "Reptilia 24183" ; Times: 1
+	Query: "distance(location,geopoint(37,-122))&lt;10" ; Times: 1
+	Query: "Reptilia 13523" ; Times: 1
+	Query: "urosaurus ornatus Arizona year &gt;= 1985 year &lt;= 2016" ; Times: 2
+	Query: "38590" ; Times: 1
+	Query: "Reptilia 24643" ; Times: 2
+	Query: "coluber constrictor stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Phrynosoma solare AZ" ; Times: 1
+	Query: "39534" ; Times: 1
+	Query: "Reptilia 26302" ; Times: 1
+	Query: "Reptilia 81506" ; Times: 1
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "Reptilia 20167" ; Times: 1
+	Query: "Reptilia 20166" ; Times: 1
+	Query: "Reptilia 23998" ; Times: 1
+	Query: "Reptilia 2490" ; Times: 1
+	Query: "Reptilia 3460" ; Times: 1
+	Query: "Reptilia 3462" ; Times: 1
+	Query: "Reptilia 27353" ; Times: 1
+	Query: "Reptilia 23129" ; Times: 1
+	Query: "Reptilia 11091" ; Times: 1
+	Query: "Crotalus lepidus stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "29961" ; Times: 2
+	Query: "Reptilia 14694" ; Times: 1
+	Query: "Reptilia 28641" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Reptilia 80106" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 2
+	Query: "Reptilia 29476" ; Times: 1
+	Query: "Reptilia 14056" ; Times: 2
+	Query: "Reptilia catalognumber:16754" ; Times: 1
+	Query: "gbifdatasetid:02242d2f-b43f-44d1-8e53-4c51af461f5b" ; Times: 12
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "Reptilia 16156" ; Times: 1
+	Query: "50388" ; Times: 1
+	Query: "Thamnophis eques stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "Tantilla nigriceps stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "elgaria kingii huachuca" ; Times: 1
+	Query: "34780" ; Times: 1
+	Query: "29872" ; Times: 1
+	Query: "34959" ; Times: 2
+	Query: "Reptilia 19393" ; Times: 1
+	Query: "Reptilia 27579" ; Times: 1
+	Query: "bothrops quintana" ; Times: 1
+	Query: "Reptilia 25158" ; Times: 1
+	Query: "Reptilia 8223" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:ambystoma county:&#34;deschutes&#34;" ; Times: 5
+	Query: "Reptilia 12883" ; Times: 1
+	Query: "Reptilia 16642" ; Times: 1
+	Query: "CROTALUS WILLARDI" ; Times: 1
+	Query: "specificepithet:pyromelana class:Reptilia county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "reptilia county:&#34;Mono&#34;" ; Times: 4
+	Query: "Reptilia 16084" ; Times: 1
+	Query: "crotalus mitchellii county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Reptilia 12882" ; Times: 1
+	Query: "Reptilia 37377" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1052 download events in this period)
+Total number of records downloaded: 2805
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-21 ; Times: 1
+	Date: 2016-06-19 ; Times: 3
+	Date: 2016-06-16 ; Times: 4
+	Date: 2016-06-17 ; Times: 2
+	Date: 2016-06-14 ; Times: 5
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-01 ; Times: 10
+	Date: 2016-06-03 ; Times: 5
+	Date: 2016-06-02 ; Times: 4
+	Date: 2016-06-05 ; Times: 1
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-20 ; Times: 1
+	Date: 2016-06-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus (San Bernardino)" ; Times: 1
+	Query: "specificepithet:augusti stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "elgaria coerulea" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "porthidium yucatanicum type:specimen" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Iguana iguana AND (NOT California NOT Fiji NOT Florida NOT Arizona NOT Nevada NOT Sinaloa )" ; Times: 1
+	Query: "trimorphodon" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "Phrynosoma platyrhinos Idaho" ; Times: 8
+	Query: "&#34;Travis County&#34; order:Anura" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "genus:Nerodia mappable:1" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "crotalus basiliscus" ; Times: 3
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 2
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "order:Squamata class:Reptilia country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "Masticophis taeniatus Nevada" ; Times: 3
+	Query: "Gopherus" ; Times: 1
+	Query: "specificepithet:marmorata family:Emydidae" ; Times: 1
+	Query: "crotalus (county: san bernardino)" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "Chinemys" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+
+
+End of report.
