@@ -1,0 +1,155 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 78
+Number of records retrieved in searches: 2360
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 57
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 6
+	Country: India ; Times: 2
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 3
+	Date: 2016-07-25 ; Times: 7
+	Date: 2016-07-13 ; Times: 2
+	Date: 2016-07-12 ; Times: 5
+	Date: 2016-07-06 ; Times: 3
+	Date: 2016-07-21 ; Times: 2
+	Date: 2016-07-22 ; Times: 3
+	Date: 2016-07-05 ; Times: 1
+	Date: 2016-07-19 ; Times: 2
+	Date: 2016-07-18 ; Times: 3
+	Date: 2016-07-08 ; Times: 14
+	Date: 2016-07-09 ; Times: 5
+	Date: 2016-07-29 ; Times: 2
+	Date: 2016-07-26 ; Times: 1
+	Date: 2016-07-10 ; Times: 2
+	Date: 2016-07-27 ; Times: 3
+	Date: 2016-07-17 ; Times: 1
+	Date: 2016-07-15 ; Times: 12
+	Date: 2016-07-20 ; Times: 2
+	Date: 2016-07-14 ; Times: 1
+	Date: 2016-07-07 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "30033" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana" ; Times: 1
+	Query: "micruroides cochise" ; Times: 2
+	Query: "Thamnophis eques stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "catalognumber:18873" ; Times: 1
+	Query: "Macroprotodon cucullatus 1" ; Times: 1
+	Query: "type:specimen catalognumber:3956" ; Times: 1
+	Query: "Phrynosoma cornutum arizona" ; Times: 1
+	Query: "Thamnophis eques county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Salamandrina" ; Times: 1
+	Query: "22406" ; Times: 1
+	Query: "Trimorphodon county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 1
+	Query: "gbifdatasetid:02242d2f-b43f-44d1-8e53-4c51af461f5b" ; Times: 13
+	Query: "class:Reptilia county:&#34;Aiken&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "OS HERPS SJA" ; Times: 2
+	Query: "Crotalus tigris stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "genus:Charina institutioncode:OS" ; Times: 1
+	Query: "Thamnophis radix" ; Times: 1
+	Query: "16884 tissue:1" ; Times: 2
+	Query: "anguis fragilis" ; Times: 1
+	Query: "willardi arizona" ; Times: 4
+	Query: "specificepithet:taxispilota genus:Nerodia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Chamaeleo chamaeleon 1" ; Times: 1
+	Query: "29865" ; Times: 1
+	Query: "16893 tissue:1" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Apache&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "33274" ; Times: 1
+	Query: "Naja naja" ; Times: 1
+	Query: "Thamnophis eques AZ" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "Tantilla wilcoxi county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Heterodon Cochise county" ; Times: 2
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "41533" ; Times: 1
+	Query: "reptilia warner mountains" ; Times: 1
+	Query: "SJA" ; Times: 1
+	Query: "52755" ; Times: 1
+	Query: "36259" ; Times: 1
+	Query: "genus:Elaphe stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "THAMNOPHIS EQUES cochise" ; Times: 1
+	Query: "genus:Dicamptodon institutioncode:OS" ; Times: 3
+	Query: "catalognumber:1215" ; Times: 1
+	Query: "catalognumber:80029" ; Times: 2
+	Query: "catalognumber:13734" ; Times: 1
+	Query: "Thamnophis melanogaster" ; Times: 2
+	Query: "21839 tissue:1" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "Thamnophis couchii distance(location,geopoint(40.65563874006115,-121.3934326171875))&lt;100000" ; Times: 1
+	Query: "36294" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1219 download events in this period)
+Total number of records downloaded: 9139
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-24 ; Times: 1
+	Date: 2016-07-25 ; Times: 1
+	Date: 2016-07-26 ; Times: 3
+	Date: 2016-07-09 ; Times: 1
+	Date: 2016-07-20 ; Times: 1
+	Date: 2016-07-07 ; Times: 4
+	Date: 2016-07-16 ; Times: 1
+	Date: 2016-07-19 ; Times: 1
+	Date: 2016-07-08 ; Times: 4
+	Date: 2016-07-23 ; Times: 1
+	Date: 2016-07-28 ; Times: 2
+	Date: 2016-07-29 ; Times: 1
+	Date: 2016-07-11 ; Times: 1
+	Date: 2016-07-06 ; Times: 2
+	Date: 2016-07-15 ; Times: 2
+	Date: 2016-07-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "micruroides cochise" ; Times: 1
+	Query: "Ambystoma tissue:1" ; Times: 1
+	Query: "rhyacotriton variegatus" ; Times: 1
+	Query: "agamidae" ; Times: 1
+	Query: "specificepithet:flavipunctatus genus:Aneides" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "Rana clamitans" ; Times: 1
+	Query: "boidae" ; Times: 1
+	Query: "(glaphyromorphus OR sphenomorphus)" ; Times: 1
+	Query: "reptilia Mexico Nayarit" ; Times: 1
+	Query: "haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34;" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Leptotyphlops humilis" ; Times: 1
+	Query: "elaphe guttata" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34; and &#34;California&#34;" ; Times: 1
+	Query: "Crotalus AND oreganus AND (NOT helleri NOT nuntius NOT abyssus NOT cerberus NOT lutosus)" ; Times: 1
+	Query: "reptilia Mexico" ; Times: 6
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "&#34;Crotalus viridis&#34; AND (NOT helleri NOT nuntius NOT abyssus NOT cerberus NOT concolor NOT lutosus ) mappable:1" ; Times: 1
+	Query: "order:Anura haslength:1" ; Times: 1
+	Query: "Taricha granulosa" ; Times: 1
+
+
+End of report.
