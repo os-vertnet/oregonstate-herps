@@ -1,0 +1,85 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 191
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Portugal ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-12 ; Times: 1
+	Date: 2016-09-11 ; Times: 4
+	Date: 2016-09-10 ; Times: 1
+	Date: 2016-09-09 ; Times: 6
+	Date: 2016-09-23 ; Times: 1
+	Date: 2016-09-14 ; Times: 5
+	Date: 2016-09-30 ; Times: 1
+	Date: 2016-09-05 ; Times: 1
+	Date: 2016-09-07 ; Times: 3
+	Date: 2016-09-01 ; Times: 2
+	Date: 2016-09-02 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "21963" ; Times: 1
+	Query: "Plethodon sherando" ; Times: 2
+	Query: "Tantilla planiceps" ; Times: 1
+	Query: "Macroprotodon cucullatus 1" ; Times: 1
+	Query: "Thamnophis hammondii" ; Times: 1
+	Query: "Plethodon vandykei" ; Times: 2
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "elf" ; Times: 1
+	Query: "specificepithet:boreas family:Bufonidae county:&#34;Nye&#34; stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "Plethodon idahoensis" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 5
+	Query: "catalognumber:12498" ; Times: 1
+	Query: "Chamaeleo chamaeleon 1" ; Times: 2
+	Query: "27582" ; Times: 1
+	Query: "Salamandrina" ; Times: 1
+	Query: "Aneides flavipunctatus stateprovince:&#34;California&#34; year &gt;= 1950 year &lt;= 1960" ; Times: 1
+	Query: "Aneides flavipunctatus stateprovince:&#34;California&#34; year &gt;= 1945 year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:tigris genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "13921" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 811 download events in this period)
+Total number of records downloaded: 819
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 1
+	Date: 2016-09-12 ; Times: 1
+	Date: 2016-09-09 ; Times: 7
+	Date: 2016-09-02 ; Times: 2
+	Date: 2016-09-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "rana pipiens" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "Phrynosoma douglasii" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "tadpole" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "Rhyacotriton variegatus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "order:Testudines stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "bufo woodhousii" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Scaphiopus intermontana" ; Times: 1
+
+
+End of report.
