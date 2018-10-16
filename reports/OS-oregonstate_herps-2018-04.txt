@@ -1,0 +1,217 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 78
+Number of records retrieved in searches: 530
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 58
+	Country: Mexico ; Times: 5
+	Country: France ; Times: 8
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 2
+	Date: 2018-04-28 ; Times: 9
+	Date: 2018-04-23 ; Times: 2
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-21 ; Times: 7
+	Date: 2018-04-20 ; Times: 2
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-25 ; Times: 3
+	Date: 2018-04-24 ; Times: 1
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 4
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-04 ; Times: 6
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-09 ; Times: 4
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-12 ; Times: 10
+	Date: 2018-04-13 ; Times: 4
+	Date: 2018-04-11 ; Times: 3
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-17 ; Times: 5
+	Date: 2018-04-14 ; Times: 1
+	Date: 2018-04-15 ; Times: 2
+	Date: 2018-04-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:4361 institutioncode:OS" ; Times: 1
+	Query: "26781" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 4
+	Query: "genus:Agkistrodon country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:shastae" ; Times: 1
+	Query: "specificepithet:vandykei genus:Plethodon county:&#34;lewis&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "catalognumber:4360 institutioncode:OS" ; Times: 1
+	Query: "plethodon cheoah" ; Times: 1
+	Query: "cyrtopsis genus:Thamnophis stateprovince:&#34;Arizona&#34; mappable:1" ; Times: 5
+	Query: "family:Testudinidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "Masticophis taeniatus oregon" ; Times: 1
+	Query: "34929" ; Times: 2
+	Query: "genus:Contia stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "elf" ; Times: 3
+	Query: "specificepithet:cenchoa genus:imantodes country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:cascadae genus:rana county:&#34;tehama&#34;" ; Times: 1
+	Query: "scaphiopus hammondii" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "29110" ; Times: 1
+	Query: "Plethodon Amplus" ; Times: 1
+	Query: "specificepithet:elegans genus:thamnophis stateprovince:&#34;baja california&#34;" ; Times: 2
+	Query: "specificepithet:hubrichti genus:plethodon" ; Times: 2
+	Query: "35872" ; Times: 1
+	Query: "genus:Thamnophis (cyrtopsis) hasmass:1" ; Times: 1
+	Query: "san joaquin crotalus" ; Times: 1
+	Query: "imantodes tenuissimus" ; Times: 7
+	Query: "family:Elapidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "genus:Tropidoclonion sex:male OR female" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 2
+	Query: "genus:crotalus county:&#34;washoe&#34;" ; Times: 1
+	Query: "gbifdatasetid:02242d2f-b43f-44d1-8e53-4c51af461f5b" ; Times: 2
+	Query: "Necturus punctatus" ; Times: 3
+	Query: "catalognumber:11351 institutioncode:OS" ; Times: 1
+	Query: "plethodon vandykei stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: "36218" ; Times: 1
+	Query: "genus:scincella stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "specificepithet:vandykei genus:plethodon" ; Times: 1
+	Query: "Uta Washoe County" ; Times: 1
+	Query: "13989" ; Times: 2
+	Query: "29688" ; Times: 1
+	Query: "chameleo" ; Times: 1
+	Query: "plethodon jordani sevier" ; Times: 1
+	Query: "genus:Hydromantes locality:gray rocks" ; Times: 1
+	Query: "family:Boidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "genus:crotalus county:&#34;lassen&#34;" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "genus:Charina county:&#34;Mendocino&#34;" ; Times: 1
+	Query: "genus:hydromantes county:&#34;shasta&#34;" ; Times: 2
+	Query: "plethodon amplus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 87 (out of 1359 download events in this period)
+Total number of records downloaded: 35686
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 80
+	Country: Unknown ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 15
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-10 ; Times: 3
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-09 ; Times: 3
+	Date: 2018-04-15 ; Times: 4
+	Date: 2018-04-03 ; Times: 3
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-28 ; Times: 2
+	Date: 2018-04-17 ; Times: 7
+	Date: 2018-04-19 ; Times: 2
+	Date: 2018-04-23 ; Times: 18
+	Date: 2018-04-22 ; Times: 5
+	Date: 2018-04-20 ; Times: 8
+	Date: 2018-04-27 ; Times: 2
+	Date: 2018-04-26 ; Times: 2
+	Date: 2018-04-25 ; Times: 4
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Teiidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "Scaphiopus hurterii" ; Times: 1
+	Query: "leptodeira maculata" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "Reptilia Zacatecas" ; Times: 2
+	Query: "genus:storeria sex:male OR female" ; Times: 1
+	Query: "Gastrophryne olivacea" ; Times: 1
+	Query: "genus:Opheodrys sex:male OR female" ; Times: 2
+	Query: "genus:Trimorphodon sex:male OR female" ; Times: 1
+	Query: "genus:lampropeltis sex:male OR female" ; Times: 1
+	Query: "genus:anniella stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Colubridae (stomach)" ; Times: 1
+	Query: "genus:crotalus sex:male OR female" ; Times: 1
+	Query: "distance(location,geopoint(33.40123,-97.57))&lt;50000" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 2
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "genus:Regina sex:male OR female" ; Times: 1
+	Query: "genus:Rhinocheilus sex:male OR female" ; Times: 1
+	Query: "family:Testudinidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "genus:Thamnophis sex:male OR female" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Gastrophryne stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "genus:Coluber sex:male OR female" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "Masticophis taeniatus oregon" ; Times: 2
+	Query: "family:Phrynosomatidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "genus:charina sex:male OR female" ; Times: 1
+	Query: "distance(location,geopoint(33.37859,-97.78226))&lt;50000" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "scaphiopus hammondii" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "genus:carphophis sex:male OR female" ; Times: 1
+	Query: "genus:diadophis sex:male OR female" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "genus:Thamnophis (cyrtopsis) hasmass:1" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "genus:pituophis sex:male OR female" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Zacatecas&#34;" ; Times: 1
+	Query: "genus:masticophis sex:male OR female" ; Times: 1
+	Query: "family:Elapidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "genus:Uta sex:male OR female" ; Times: 1
+	Query: "genus:Contia sex:Male OR Female" ; Times: 1
+	Query: "Gastrophryne carolinensis" ; Times: 2
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "genus:Sceloporus sex:male OR female" ; Times: 1
+	Query: "Spea multiplicata" ; Times: 1
+	Query: "Rana areolata" ; Times: 1
+	Query: "genus:Crotalus sex:Male OR Female" ; Times: 1
+	Query: "specificepithet:vandykei genus:plethodon" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "plethodon vandykei stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "genus:clemmys sex:male OR female" ; Times: 1
+	Query: "genus:thamnophis sex:male OR female" ; Times: 1
+	Query: "genus:Heterodon sex:Male OR Female" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "bufo boreas" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "genus:opheodrys sex:male OR female" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 2
+	Query: "family:Boidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "genus:Lampropeltis sex:male OR female" ; Times: 1
+	Query: "genus:Chelydra sex:male OR female" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "genus:Virginia sex:male OR female" ; Times: 1
+	Query: "genus:agkistrodon sex:male OR female" ; Times: 2
+	Query: "Eleutherodactylus marnockii" ; Times: 1
+	Query: "genus:Elgaria sex:male OR female" ; Times: 1
+	Query: "Hyla squirella" ; Times: 1
+	Query: "family:Iguanidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "distance(location,geopoint(38.24833,-109.38827))&lt;50000" ; Times: 1
+
+
+End of report.
