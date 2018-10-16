@@ -1,0 +1,161 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 98
+Number of records retrieved in searches: 1077
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 84
+	Country: Sweden ; Times: 1
+	Country: China ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-05 ; Times: 4
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-29 ; Times: 3
+	Date: 2017-12-31 ; Times: 3
+	Date: 2017-12-11 ; Times: 3
+	Date: 2017-12-22 ; Times: 8
+	Date: 2017-12-21 ; Times: 7
+	Date: 2017-12-06 ; Times: 13
+	Date: 2017-12-16 ; Times: 4
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-07 ; Times: 9
+	Date: 2017-12-15 ; Times: 2
+	Date: 2017-12-01 ; Times: 7
+	Date: 2017-12-13 ; Times: 6
+	Date: 2017-12-10 ; Times: 4
+	Date: 2017-12-26 ; Times: 8
+	Date: 2017-12-12 ; Times: 11
+	Date: 2017-12-09 ; Times: 1
+	Date: 2017-12-08 ; Times: 2
+	Date: 2017-12-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Crotaphytidae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "catalognumber:30409" ; Times: 1
+	Query: "catalognumber:30411" ; Times: 1
+	Query: "catalognumber:30410" ; Times: 1
+	Query: "Nerodia harteri" ; Times: 3
+	Query: "catalognumber:39249" ; Times: 2
+	Query: "pseudotriton ruber stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "thamnophis melanogaster" ; Times: 1
+	Query: "genus:Cryptobranchus alleganiensis stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "1990 Idaho reptilia" ; Times: 3
+	Query: "16622" ; Times: 1
+	Query: "Plethodon angusticlavius year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "Plethodon asupak" ; Times: 8
+	Query: "gbifdatasetid:02242d2f-b43f-44d1-8e53-4c51af461f5b" ; Times: 2
+	Query: "pseudotriton ruber stateprovince:&#34;New york&#34;" ; Times: 1
+	Query: "pseudotriton ruber new york" ; Times: 1
+	Query: "family:Elapidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "vntype:specimen (Idaho Reptilia ) year &gt;= 1990 year &lt;= 2017" ; Times: 2
+	Query: "wizard" ; Times: 2
+	Query: "elf" ; Times: 2
+	Query: "specificepithet:eques genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "genus:Tantilla year &gt;= 2000" ; Times: 2
+	Query: "34420" ; Times: 1
+	Query: "genus:Crotalus catalognumber:2438" ; Times: 2
+	Query: "genus:Crotalus catalognumber:2437" ; Times: 2
+	Query: "19403" ; Times: 1
+	Query: "genus:Plethodon specificepithet:cheoah" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Nerodia harteri Palo Pinto" ; Times: 1
+	Query: "creek family:Crotaphytidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Lampropeltis getula stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:ornata stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "pseudotriton ruber stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "class:reptilia locality:ferguson basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "41234" ; Times: 1
+	Query: "32738" ; Times: 1
+	Query: "&#34;Plethodon savannah&#34;" ; Times: 4
+	Query: "(Idaho Reptilia) year &gt;= 1990 year &lt;= 2017" ; Times: 2
+	Query: "catalognumber:9995" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CCBER NOT CAS NOT LACM NOT MVZ)" ; Times: 2
+	Query: "creek family:Anguidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:larselli genus:plethodon county:&#34;multnomah&#34;" ; Times: 1
+	Query: "specificepithet:aeneus genus:aneides hastissue:1" ; Times: 1
+	Query: "specificepithet:solare genus:Phrynosoma stateprovince:&#34;Arizona&#34; country:&#34;United States&#34; month &lt;= 520" ; Times: 1
+	Query: "19598" ; Times: 1
+	Query: "creek family:Elapidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "catalognumber:6 institutioncode:OS" ; Times: 1
+	Query: "37061" ; Times: 1
+	Query: "Thamnophis morelia" ; Times: 1
+	Query: "family:Viperidae county:&#34;Pinal&#34;" ; Times: 1
+	Query: "thamnophis melanogaster mexico zacatecas" ; Times: 1
+	Query: "29809" ; Times: 1
+	Query: "32745" ; Times: 1
+	Query: "22094" ; Times: 2
+	Query: "catalognumber:17194" ; Times: 1
+	Query: "genus:Drymobius class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:OS" ; Times: 1
+	Query: "thamnophis durango" ; Times: 9
+	Query: "specificepithet:larselli genus:plethodon" ; Times: 2
+	Query: "genus:Regina stateprovince:&#34;Illinois&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 674 download events in this period)
+Total number of records downloaded: 958
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: China ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-26 ; Times: 3
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-05 ; Times: 2
+	Date: 2017-12-04 ; Times: 3
+	Date: 2017-12-06 ; Times: 2
+	Date: 2017-12-01 ; Times: 3
+	Date: 2017-12-13 ; Times: 14
+	Date: 2017-12-12 ; Times: 1
+	Date: 2017-12-08 ; Times: 1
+	Date: 2017-12-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Yucatan&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Teiidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Scincidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "reptilia quintana roo" ; Times: 1
+	Query: "family:Elapidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "vntype:specimen (Idaho Reptilia ) year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "creek family:Scincidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "1990 Idaho" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Naja naja" ; Times: 1
+	Query: "genus:Naja" ; Times: 1
+	Query: "Sceloporus jarrovii" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Charina trivirgata" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "eumeces laticeps" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "thamnophis melanogaster mexico zacatecas" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Arizona&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "cnemidophorus" ; Times: 1
+
+
+End of report.
