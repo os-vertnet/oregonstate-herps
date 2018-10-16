@@ -1,0 +1,228 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 179
+Number of records retrieved in searches: 2953
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 43
+	Country: United Kingdom ; Times: 10
+	Country: Israel ; Times: 3
+	Country: Iran ; Times: 5
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 1
+	Country: United States ; Times: 99
+	Country: Belgium ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-08 ; Times: 8
+	Date: 2018-02-03 ; Times: 1
+	Date: 2018-02-02 ; Times: 7
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-06 ; Times: 7
+	Date: 2018-02-05 ; Times: 2
+	Date: 2018-02-04 ; Times: 3
+	Date: 2018-02-21 ; Times: 11
+	Date: 2018-02-20 ; Times: 6
+	Date: 2018-02-23 ; Times: 3
+	Date: 2018-02-22 ; Times: 34
+	Date: 2018-02-25 ; Times: 5
+	Date: 2018-02-24 ; Times: 2
+	Date: 2018-02-27 ; Times: 16
+	Date: 2018-02-26 ; Times: 8
+	Date: 2018-02-28 ; Times: 2
+	Date: 2018-02-14 ; Times: 5
+	Date: 2018-02-15 ; Times: 5
+	Date: 2018-02-16 ; Times: 3
+	Date: 2018-02-10 ; Times: 4
+	Date: 2018-02-11 ; Times: 3
+	Date: 2018-02-12 ; Times: 22
+	Date: 2018-02-13 ; Times: 10
+	Date: 2018-02-18 ; Times: 3
+	Date: 2018-02-19 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Plethodon dunni county:&#34;del norte&#34;" ; Times: 1
+	Query: "plethodon teyahalee" ; Times: 1
+	Query: "specificepithet:viridis genus:crotalus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "Heloderma suspectum Sonora" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "elf" ; Times: 2
+	Query: "OS 18369" ; Times: 1
+	Query: "35931" ; Times: 1
+	Query: "specificepithet:vipera genus:Cerastes" ; Times: 1
+	Query: "Elaphe guttata mappable:1" ; Times: 2
+	Query: "catalognumber:29771" ; Times: 1
+	Query: "catalognumber:1508" ; Times: 1
+	Query: "rhyacotriton county:&#34;siskiyou&#34;" ; Times: 1
+	Query: "catalognumber:666 institutioncode:OS" ; Times: 1
+	Query: "catalognumber:6660 institutioncode:OS" ; Times: 1
+	Query: "crotalus lepidus arizona" ; Times: 5
+	Query: "Crotalus molossus Sonora" ; Times: 1
+	Query: "15928" ; Times: 1
+	Query: "paramesotriton" ; Times: 1
+	Query: "thamnophis hammondi stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:stormi genus:plethodon month &gt;= 3 month &lt;= 3" ; Times: 1
+	Query: "specificepithet:richmondi genus:plethodon stateprovince:&#34;virginia&#34; year &gt;= 1980" ; Times: 3
+	Query: "genus:Neurergus specificepithet:kaiseri" ; Times: 5
+	Query: "specificepithet:shermani genus:Plethodon stateprovince:&#34;North Carolina&#34; year &gt;= 1980 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "OS 18775" ; Times: 1
+	Query: "OS 18777" ; Times: 1
+	Query: "OS 18776" ; Times: 1
+	Query: "catalognumber:23926" ; Times: 1
+	Query: "OS 18779" ; Times: 1
+	Query: "OS 18778" ; Times: 1
+	Query: "genus:drymobius stateprovince:&#34;guerrero&#34;" ; Times: 1
+	Query: "toscana" ; Times: 1
+	Query: "catalognumber:434" ; Times: 1
+	Query: "OS 18795" ; Times: 1
+	Query: "catalognumber:35240" ; Times: 1
+	Query: "catalognumber:14911" ; Times: 1
+	Query: "19848" ; Times: 1
+	Query: "micruroides euryxanthus az" ; Times: 1
+	Query: "catalognumber:7902" ; Times: 1
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "OS 18317" ; Times: 1
+	Query: "plethodon larselli" ; Times: 1
+	Query: "OS 18311" ; Times: 1
+	Query: "OS 18310" ; Times: 1
+	Query: "OS 18319" ; Times: 1
+	Query: "catalognumber:447" ; Times: 1
+	Query: "genus:elaphe year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "Tantilla wilcoxi" ; Times: 1
+	Query: "13778" ; Times: 1
+	Query: "50129" ; Times: 1
+	Query: "OS 18325" ; Times: 1
+	Query: "Malpolon monspessulanus" ; Times: 3
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "specificepithet:stormi genus:plethodon" ; Times: 2
+	Query: "specificepithet:aeneus genus:aneides hastissue:1" ; Times: 1
+	Query: "Heloderma horridum Sonora" ; Times: 1
+	Query: "psammophis sibilans" ; Times: 2
+	Query: "specificepithet:dunni county:&#34;Del norte&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Thamnophis elegans lifestage:adult haslifestage:1 hassex:1 haslength:1 mappable:1" ; Times: 1
+	Query: "OS 18726" ; Times: 1
+	Query: "specificepithet:elegans genus:thamnophis lifestage:adult hassex:1 haslength:1" ; Times: 13
+	Query: "pituophis deppei" ; Times: 1
+	Query: "specificepithet:elegans genus:thamnophis lifestage:adult hassex:1 haslength:1 mappable:1" ; Times: 1
+	Query: "Pseudotriton stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "gbifdatasetid:02242d2f-b43f-44d1-8e53-4c51af461f5b" ; Times: 23
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "family:Colubridae catalognumber:1322" ; Times: 2
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Masticophis flagellum Sonora" ; Times: 1
+	Query: "Reptilia Montgomery county Tennessee" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis lifestage:adult hassex:1 haslength:1" ; Times: 1
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "tantilla wilcoxi" ; Times: 24
+	Query: "OS 18312" ; Times: 2
+	Query: "genus:Triturus specificepithet:marmoratus" ; Times: 1
+	Query: "Clark county Nevada Crotalus" ; Times: 1
+	Query: "Toscana" ; Times: 1
+	Query: "catalognumber:31071" ; Times: 1
+	Query: "Thamnophis rufipunctatus" ; Times: 7
+	Query: "specificepithet:punctatus genus:plethodon" ; Times: 1
+	Query: "specificepithet:asupak genus:plethodon" ; Times: 1
+	Query: "Reptilia New Mexico guadalupe vaughn" ; Times: 2
+	Query: "crotalus willardi willardi" ; Times: 1
+	Query: "genus:Tropidoclonion hassex:1" ; Times: 1
+	Query: "rubber boa" ; Times: 1
+	Query: "Oxybelis aeneus Sonora" ; Times: 1
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "OS 18794" ; Times: 2
+	Query: "cerastes vipera" ; Times: 1
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "genus:Tantilla institutioncode:OS" ; Times: 1
+	Query: "Agama pallida" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 1892 download events in this period)
+Total number of records downloaded: 9076
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 5
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-11 ; Times: 3
+	Date: 2018-02-12 ; Times: 4
+	Date: 2018-02-20 ; Times: 1
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-23 ; Times: 2
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-27 ; Times: 3
+	Date: 2018-02-03 ; Times: 7
+	Date: 2018-02-02 ; Times: 6
+	Date: 2018-02-01 ; Times: 4
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-05 ; Times: 2
+	Date: 2018-02-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus graciosus graciosus" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "genus:storeria hassex:1" ; Times: 1
+	Query: "specificepithet:major genus:Batrachoseps county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "specificepithet:jordani genus:Plethodon stateprovince:&#34;North Carolina&#34; year &gt;= 1980 year &lt;= 2017 mappable:1" ; Times: 2
+	Query: "Anniella pulchra pulchra" ; Times: 1
+	Query: "taricha granulosa" ; Times: 1
+	Query: "notophthalmus viridescens" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "ambystoma gracile" ; Times: 1
+	Query: "specificepithet:shermani genus:Plethodon stateprovince:&#34;North Carolina&#34; year &gt;= 1980 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "Ambystoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "ambystoma jeffersonianum" ; Times: 1
+	Query: "Batrachoseps major stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "seminatrix pygaea" ; Times: 1
+	Query: "Echis carinatus" ; Times: 1
+	Query: "specificepithet:valliceps stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "plethodon richmondi" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "family:Bufonidae haslength:1 mappable:1" ; Times: 1
+	Query: "specificepithet:sipedon genus:nerodia hassex:1" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "specificepithet:marnockii stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:crotalus" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Macroprotodon cucullatus" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Taricha torosa torosa stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "aneides vagrans" ; Times: 1
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "plethodon" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "clemmys marmorata" ; Times: 1
+	Query: "rana areolata" ; Times: 1
+	Query: "plethodon jordani" ; Times: 1
+	Query: "regina rigida" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "order:Squamata lengthtype:snout-vent length haslength:1" ; Times: 1
+
+
+End of report.
