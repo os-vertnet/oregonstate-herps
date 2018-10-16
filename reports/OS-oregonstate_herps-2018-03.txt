@@ -1,0 +1,196 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 184
+Number of records retrieved in searches: 1844
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 14
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: China ; Times: 3
+	Country: Peru ; Times: 1
+	Country: United States ; Times: 154
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 18
+	Date: 2018-03-29 ; Times: 7
+	Date: 2018-03-16 ; Times: 3
+	Date: 2018-03-15 ; Times: 3
+	Date: 2018-03-14 ; Times: 5
+	Date: 2018-03-13 ; Times: 3
+	Date: 2018-03-12 ; Times: 3
+	Date: 2018-03-11 ; Times: 1
+	Date: 2018-03-27 ; Times: 18
+	Date: 2018-03-31 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-19 ; Times: 8
+	Date: 2018-03-18 ; Times: 3
+	Date: 2018-03-01 ; Times: 1
+	Date: 2018-03-02 ; Times: 3
+	Date: 2018-03-03 ; Times: 7
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-05 ; Times: 4
+	Date: 2018-03-06 ; Times: 12
+	Date: 2018-03-07 ; Times: 11
+	Date: 2018-03-08 ; Times: 2
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-24 ; Times: 1
+	Date: 2018-03-25 ; Times: 5
+	Date: 2018-03-22 ; Times: 3
+	Date: 2018-03-23 ; Times: 7
+	Date: 2018-03-20 ; Times: 5
+	Date: 2018-03-21 ; Times: 11
+	Date: 2018-03-26 ; Times: 36
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Heloderma specificepithet:horridum" ; Times: 5
+	Query: "specificepithet:suspectum genus:Heloderma country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Tarentola specificepithet:annularis" ; Times: 3
+	Query: "genus:Elaphe specificepithet:vulpina" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus hastissue:1" ; Times: 1
+	Query: "genus:Bronchocela specificepithet:cristatella" ; Times: 5
+	Query: "specificepithet:elegans genus:Thamnophis lifestage:Adult haslifestage:1 hassex:1 haslength:1 mappable:1" ; Times: 3
+	Query: "wizard" ; Times: 2
+	Query: "elf" ; Times: 4
+	Query: "catalognumber:7360" ; Times: 2
+	Query: "genus:Imantodes specificepithet:cenchoa" ; Times: 2
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "52261" ; Times: 1
+	Query: "21570" ; Times: 1
+	Query: "catalognumber:38102 hastissue:1" ; Times: 1
+	Query: "thamnophis elegans county:&#34;alameda&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "16577" ; Times: 1
+	Query: "catalognumber:36325 collectioncode:Herps" ; Times: 3
+	Query: "catalognumber:5477" ; Times: 1
+	Query: "genus:Acrochordus specificepithet:javanicus" ; Times: 5
+	Query: "genus:Tantilla specificepithet:hobartsmithi" ; Times: 5
+	Query: "catalognumber:6660 institutioncode:OS" ; Times: 1
+	Query: "genus:Masticophis specificepithet:lateralis" ; Times: 2
+	Query: "16171" ; Times: 1
+	Query: "OS 18376" ; Times: 1
+	Query: "tantilla maricopa" ; Times: 1
+	Query: "genus:Elaphe hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Lampropeltis specificepithet:pyromelana" ; Times: 6
+	Query: "specificepithet:cheoah genus:plethodon" ; Times: 1
+	Query: "OS 18781" ; Times: 1
+	Query: "specificepithet:scutulatus county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "OS 18380" ; Times: 2
+	Query: "OS 18770" ; Times: 1
+	Query: "genus:Crotalus specificepithet:molossus" ; Times: 2
+	Query: "35919" ; Times: 1
+	Query: "genus:Drymarchon specificepithet:corais" ; Times: 2
+	Query: "specificepithet:cucullatus genus:Macroprotodon country:&#34;Egypt&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis lifestage:Adult haslifestage:1 hassex:1 haslength:1 mappable:1" ; Times: 4
+	Query: "specificepithet:viridis genus:Crotalus hasmass:1" ; Times: 1
+	Query: "genus:Pleurodeles specificepithet:waltl" ; Times: 5
+	Query: "genus:Varanus specificepithet:niloticus" ; Times: 5
+	Query: "genus:Oxybelis specificepithet:aeneus" ; Times: 2
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 5
+	Query: "specificepithet:scutulatus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "53539" ; Times: 1
+	Query: "thamnophis elegans county:&#34;contra costa&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Pinal county crotalus" ; Times: 1
+	Query: "OS 18312" ; Times: 1
+	Query: "genus:hypsiglena stateprovince:&#34;california&#34; year &gt;= 1986" ; Times: 1
+	Query: "34047" ; Times: 1
+	Query: "26861" ; Times: 1
+	Query: "genus:Contia specificepithet:tenuis" ; Times: 2
+	Query: "genus:rana catalognumber:1901" ; Times: 2
+	Query: "50204" ; Times: 1
+	Query: "tantilla Maricopa" ; Times: 1
+	Query: "genus:Charina specificepithet:bottae" ; Times: 2
+	Query: "catalognumber:7081 collectioncode:Herps" ; Times: 2
+	Query: "genus:plethodon dunni county:&#34;del norte&#34;" ; Times: 1
+	Query: "16003" ; Times: 1
+	Query: "after birth" ; Times: 1
+	Query: "genus:Drymobius specificepithet:margaritiferus" ; Times: 2
+	Query: "genus:Tantilla specificepithet:wilcoxi" ; Times: 5
+	Query: "leslie canyon class:Reptilia" ; Times: 1
+	Query: "genus:Masticophis specificepithet:taeniatus" ; Times: 2
+	Query: "genus:Tantilla specificepithet:nigriceps" ; Times: 2
+	Query: "Tantilla maricopa" ; Times: 1
+	Query: "specificepithet:dunni county:&#34;del norte&#34;" ; Times: 2
+	Query: "vntype:specimen order:Anura institutioncode:OS" ; Times: 1
+	Query: "OS 18337" ; Times: 1
+	Query: "genus:Conophis specificepithet:lineatus" ; Times: 5
+	Query: "thamnophis ordinoides institutioncode:OS hastissue:1" ; Times: 4
+	Query: "catalognumber:27577" ; Times: 1
+	Query: "specificepithet:elegans genus:thamnophis lifestage:adult hassex:1 haslength:1" ; Times: 4
+	Query: "catalognumber:20841" ; Times: 1
+	Query: "genus:necturus stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "10273" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis lifestage:Adult institutioncode:OS haslifestage:1 haslength:1 mappable:1" ; Times: 1
+	Query: "catalognumber:26157" ; Times: 1
+	Query: "thamnophis ordinoides institutioncode:OS mappable:1 hastissue:1" ; Times: 1
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 2
+	Query: "26356" ; Times: 1
+	Query: "genus:Toluca" ; Times: 3
+	Query: "gbifdatasetid:02242d2f-b43f-44d1-8e53-4c51af461f5b" ; Times: 2
+	Query: "genus:hypsiglena stateprovince:&#34;California&#34; year &gt;= 1931 year &lt;= 1975" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis hasmass:1" ; Times: 1
+	Query: "genus:Cryptobranchus specificepithet:alleganiensis" ; Times: 5
+	Query: "class:Amphibia catalognumber:1200" ; Times: 1
+	Query: "genus:Storeria year &gt;= 1993 year &lt;= 1993" ; Times: 2
+	Query: "genus:Rhineura specificepithet:floridana" ; Times: 2
+	Query: "sceloporus graciosus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "tantilla wilcoxi" ; Times: 1
+	Query: "specificepithet:horridum genus:Heloderma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:getula genus:lampropeltis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis lifestage:Adult haslifestage:1 haslength:1 mappable:1" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:&#34;north carolina&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1284 download events in this period)
+Total number of records downloaded: 7824
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 2
+	Date: 2018-03-07 ; Times: 1
+	Date: 2018-03-08 ; Times: 2
+	Date: 2018-03-15 ; Times: 2
+	Date: 2018-03-03 ; Times: 1
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-28 ; Times: 1
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-26 ; Times: 1
+	Date: 2018-03-27 ; Times: 4
+	Date: 2018-03-25 ; Times: 2
+	Date: 2018-03-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Anura county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus hastissue:1" ; Times: 1
+	Query: "Plethodon teyahalee" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "Crotalus triseriatus triseriatus" ; Times: 1
+	Query: "vntype:specimen order:Anura institutioncode:OS" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 2
+	Query: "Diadophis punctatus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "python regius" ; Times: 1
+	Query: "specificepithet:cheoah genus:plethodon" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:shermani genus:plethodon" ; Times: 1
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "specificepithet:jordani genus:plethodon AND NOT specificepithet:shermani AND NOT specificepithet:metcalfi AND NOT specificepithet:montanus AND NOT specificepithet:clemsonae AND NOT specificepithet:amplus AND NOT specificepithet:meridianus AND NOT specificepithet:cheoah" ; Times: 1
+	Query: "thamnophis ordinoides institutioncode:OS hastissue:1" ; Times: 1
+	Query: "specificepithet:meridianus genus:plethodon" ; Times: 1
+
+
+End of report.
