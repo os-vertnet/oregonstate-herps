@@ -1,0 +1,265 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 112
+Number of records retrieved in searches: 3497
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 96
+	Country: Unknown ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 7
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-21 ; Times: 3
+	Date: 2018-05-23 ; Times: 21
+	Date: 2018-05-24 ; Times: 20
+	Date: 2018-05-25 ; Times: 4
+	Date: 2018-05-26 ; Times: 3
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-04 ; Times: 2
+	Date: 2018-05-05 ; Times: 2
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-01 ; Times: 3
+	Date: 2018-05-08 ; Times: 6
+	Date: 2018-05-30 ; Times: 2
+	Date: 2018-05-15 ; Times: 2
+	Date: 2018-05-14 ; Times: 3
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-16 ; Times: 18
+	Date: 2018-05-11 ; Times: 3
+	Date: 2018-05-10 ; Times: 4
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-19 ; Times: 3
+	Date: 2018-05-18 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Neurergus kaiseri" ; Times: 1
+	Query: "39454" ; Times: 1
+	Query: "heloderma horridum" ; Times: 2
+	Query: "specificepithet:truei genus:Ascaphus institutioncode:OS" ; Times: 4
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla institutioncode:OS" ; Times: 3
+	Query: "specificepithet:bufo genus:Bufo institutioncode:OS" ; Times: 3
+	Query: "specificepithet:molossus genus:Crotalus locality:Huachuca county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "genus:crotalus county:&#34;madera&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "cyrtopsis genus:Thamnophis stateprovince:&#34;Arizona&#34; mappable:1" ; Times: 2
+	Query: "specificepithet:catesbeiana genus:Rana institutioncode:OS" ; Times: 3
+	Query: "specificepithet:willardi genus:Crotalus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:meridianus genus:plethodon" ; Times: 3
+	Query: "specificepithet:angusticlavius genus:plethodon stateprovince:&#34;arkansas&#34;" ; Times: 2
+	Query: "specificepithet:marnockii genus:Eleutherodactylus institutioncode:OS" ; Times: 3
+	Query: "specificepithet:multiplicata genus:Spea institutioncode:OS" ; Times: 3
+	Query: "36458" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "specificepithet:holbrookii genus:Scaphiopus institutioncode:OS" ; Times: 3
+	Query: "class:amphibia county:&#34;Imperial&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Lassen&#34;" ; Times: 1
+	Query: "35076" ; Times: 1
+	Query: "Proteus anguinus" ; Times: 1
+	Query: "Ambystoma andersoni" ; Times: 1
+	Query: "31227" ; Times: 2
+	Query: "Heloderma horridum" ; Times: 6
+	Query: "oregon masticophis" ; Times: 1
+	Query: "gambelia washoe county" ; Times: 2
+	Query: "catalognumber:4607 institutioncode:OS" ; Times: 1
+	Query: "thamnophis hammondii county:&#34;Monterey&#34;" ; Times: 4
+	Query: "buena vista specificepithet:macrodactylum genus:ambystoma" ; Times: 1
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 3
+	Query: "Plethodon cheoah" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "specificepithet:olivacea genus:Gastrophryne institutioncode:OS" ; Times: 3
+	Query: "27634" ; Times: 1
+	Query: "specificepithet:intermontana genus:Spea institutioncode:OS" ; Times: 3
+	Query: "Plethodon angusticlavius" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:crepitans genus:Acris institutioncode:OS" ; Times: 6
+	Query: "specificepithet:angusticlavius genus:plethodon stateprovince:&#34;arkansas&#34; AND (NOT &#34;AR route 14&#34;)" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla institutioncode:OS" ; Times: 3
+	Query: "Plethodon amplus" ; Times: 1
+	Query: "Plethodon sherando" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;humboldt&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "oregon flagellum" ; Times: 2
+	Query: "37232" ; Times: 1
+	Query: "Masticophis taeniatus Nevada" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus institutioncode:OS" ; Times: 3
+	Query: "specificepithet:willardi genus:Crotalus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Giles&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "50785" ; Times: 2
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana institutioncode:OS" ; Times: 3
+	Query: "short tail snake" ; Times: 1
+	Query: "genus:rhyacotriton county:&#34;del norte&#34;" ; Times: 1
+	Query: "Gambelia Washoe county" ; Times: 1
+	Query: "Euproctus montanus" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:&#34;north carolina&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 123 (out of 1178 download events in this period)
+Total number of records downloaded: 17626
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Canada ; Times: 2
+	Country: Spain ; Times: 86
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 4
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-20 ; Times: 3
+	Date: 2018-05-21 ; Times: 15
+	Date: 2018-05-22 ; Times: 8
+	Date: 2018-05-23 ; Times: 3
+	Date: 2018-05-24 ; Times: 6
+	Date: 2018-05-25 ; Times: 8
+	Date: 2018-05-26 ; Times: 9
+	Date: 2018-05-06 ; Times: 5
+	Date: 2018-05-07 ; Times: 8
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 9
+	Date: 2018-05-31 ; Times: 1
+	Date: 2018-05-30 ; Times: 6
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-16 ; Times: 6
+	Date: 2018-05-13 ; Times: 4
+	Date: 2018-05-19 ; Times: 12
+	Date: 2018-05-18 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Plethodon montanus" ; Times: 1
+	Query: "Eurycea longicauda" ; Times: 1
+	Query: "Plethodon dunni" ; Times: 1
+	Query: "Paramesotriton hongkongensis" ; Times: 1
+	Query: "Plethodon yonahlossee" ; Times: 1
+	Query: "Plethodon variolatus" ; Times: 1
+	Query: "class:Amphibia county:&#34;Giles&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Batrachoseps wrighti" ; Times: 1
+	Query: "Plethodon mississippi" ; Times: 1
+	Query: "Hydromantes shastae" ; Times: 1
+	Query: "Plethodon ouachitae" ; Times: 1
+	Query: "Plethodon idahoensis" ; Times: 2
+	Query: "Euproctus platycephalus" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "ensatina" ; Times: 1
+	Query: "Plethodon welleri" ; Times: 1
+	Query: "Plethodon grobmani" ; Times: 2
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Plethodon kisatchie" ; Times: 2
+	Query: "Bufo punctatus" ; Times: 1
+	Query: "Plethodon punctatus" ; Times: 1
+	Query: "Plethodon sherando" ; Times: 1
+	Query: "Imantodes gemmistratus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Giles&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Atropoides OR Cerrophidion OR Bothriechis OR Lachesis OR Mixcoatlus OR Ophryacus OR porthidium" ; Times: 1
+	Query: "Thamnophis sumichrasti" ; Times: 1
+	Query: "Hydromantes platycephalus" ; Times: 1
+	Query: "Neurergus kaiseri" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Thamnophis proximus" ; Times: 1
+	Query: "vntype:specimen class:Amphibia haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Plethodon savannah" ; Times: 1
+	Query: "Plethodon hoffmani" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 1
+	Query: "Eurycea bislineata" ; Times: 1
+	Query: "Plethodon kentucki" ; Times: 1
+	Query: "Amphiuma means" ; Times: 1
+	Query: "Plethodon ventralis" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Eurycea cirrigera" ; Times: 1
+	Query: "thamnophis hammondii county:&#34;Monterey&#34;" ; Times: 1
+	Query: "Plethodon electromorphus" ; Times: 1
+	Query: "Plethodon petraeus" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "genus:nerodia sex:male OR female" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Dipsosaurus" ; Times: 1
+	Query: "Plethodon teyahalee" ; Times: 1
+	Query: "Plethodon vandykei" ; Times: 1
+	Query: "Plethodon virginia" ; Times: 1
+	Query: "specificepithet:punctatus genus:Bufo" ; Times: 1
+	Query: "Eurycea wilderae" ; Times: 1
+	Query: "dicamptodon ensatus" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Hynobius nebulosus" ; Times: 1
+	Query: "genus:rhinocheilus sex:male OR female" ; Times: 1
+	Query: "Plethodon wehrlei" ; Times: 1
+	Query: "class:REPTILIA stateprovince:&#34;SINALOA&#34;" ; Times: 1
+	Query: "pituophis deppei" ; Times: 1
+	Query: "Plethodon cylindraceus" ; Times: 1
+	Query: "Plethodon elongatus" ; Times: 1
+	Query: "Plethodon chattahoochee" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 2
+	Query: "Proteus anguinus" ; Times: 1
+	Query: "Thamnophis cyrtopsis" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "vntype:specimen class:reptilia haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "Bolitoglossa rostrata" ; Times: 1
+	Query: "Plethodon angusticlavius" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "Plethodon albagula" ; Times: 1
+	Query: "Plethodon richmondi" ; Times: 1
+	Query: "Thamnophis marcianus" ; Times: 1
+	Query: "Plethodon kiamichi" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "genus:trimorphodon sex:male OR female" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "Thamnophis eques" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "Pleurodeles waltl" ; Times: 1
+	Query: "Pseudoeurycea goebeli" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "Desmognathus imitator" ; Times: 1
+	Query: "Plethodon caddoensis" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Necturus maculosus" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Plethodon nettingi" ; Times: 1
+	Query: "Leptodeira maculata" ; Times: 1
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "Plethodon cheoah" ; Times: 1
+	Query: "Plethodon jordani" ; Times: 1
+	Query: "Necturus punctatus" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "Plethodon shermani" ; Times: 1
+	Query: "Plethodon amplus" ; Times: 1
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "Plethodon chlorobryonis" ; Times: 1
+	Query: "Eurycea quadridigitata" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: "Plethodon sequoyah" ; Times: 1
+	Query: "Euproctus montanus" ; Times: 1
+	Query: "Desmognathus wrighti" ; Times: 1
+	Query: "Plethodon hubrichti" ; Times: 1
+	Query: "Desmognathus quadramaculatus" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 1
+	Query: "Dicamptodon tenebrosus" ; Times: 2
+
+
+End of report.
