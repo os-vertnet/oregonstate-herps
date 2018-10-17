@@ -1,0 +1,215 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 108
+Number of records retrieved in searches: 764
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 78
+	Country: Netherlands ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 5
+	Country: Finland ; Times: 1
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 5
+	Date: 2018-06-06 ; Times: 7
+	Date: 2018-06-05 ; Times: 14
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-29 ; Times: 5
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-25 ; Times: 12
+	Date: 2018-06-27 ; Times: 3
+	Date: 2018-06-26 ; Times: 8
+	Date: 2018-06-20 ; Times: 3
+	Date: 2018-06-22 ; Times: 2
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 2
+	Date: 2018-06-12 ; Times: 2
+	Date: 2018-06-13 ; Times: 5
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-15 ; Times: 1
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-17 ; Times: 8
+	Date: 2018-06-18 ; Times: 6
+	Date: 2018-06-19 ; Times: 2
+	Date: 2018-06-30 ; Times: 4
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-28 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Neurergus kaiseri" ; Times: 1
+	Query: "pituophis deppei" ; Times: 2
+	Query: "specificepithet:mitchellii genus:crotalus stateprovince:&#34;california&#34; country:&#34;united states&#34;" ; Times: 2
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 3
+	Query: "family:Chamaeleonidae institutioncode:OS" ; Times: 1
+	Query: "class:amphibia county:&#34;Inyo&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "micruroides stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Nerodia harteri" ; Times: 10
+	Query: "19696" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 2
+	Query: "plethodon aureolus" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "genus:thamnophis county:&#34;klickitat&#34;" ; Times: 1
+	Query: "specificepithet:kisatchie genus:plethodon" ; Times: 1
+	Query: "Rana Hemphill year &gt;= 1940" ; Times: 1
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Phrynosoma stateprovince:&#34;Idaho&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:couchii genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; AND (NOT SCELOPORUS NOT UTA NOT XANTUSIA NOT ELGARIA)" ; Times: 1
+	Query: "UTA 446" ; Times: 2
+	Query: "wizard" ; Times: 1
+	Query: "nerodia harteri" ; Times: 1
+	Query: "genus:Batrachoseps county:&#34;Nevada&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "28940" ; Times: 1
+	Query: "Crotalus basiliscus" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; AND (NOT SCELOPORUS NOT UTA NOT XANTUSIA NOT ELGARIA)" ; Times: 2
+	Query: "Proteus anguinus" ; Times: 1
+	Query: "39043" ; Times: 3
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "family:Agamidae locality:New Guinea" ; Times: 1
+	Query: "specificepithet:eques stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "50623" ; Times: 4
+	Query: "Batrachoseps attenuatus (Nevada)" ; Times: 1
+	Query: "Plethodon institutioncode:OS" ; Times: 3
+	Query: "genus:Triturus specificepithet:marmoratus" ; Times: 1
+	Query: "crotalus molossus stateprovince:&#34;arizona&#34;" ; Times: 2
+	Query: "specificepithet:couchii genus:scaphiopus stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Crotalus bernalillo" ; Times: 2
+	Query: "specificepithet:couchii genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CAS NOT LACM NOT MVZ NOT CCBER NOT SBMNH)" ; Times: 1
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "16262" ; Times: 1
+	Query: "genus:Trimorphodon county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Triturus marmoratus" ; Times: 1
+	Query: "36384`1" ; Times: 1
+	Query: "39047" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CAS NOT LACM NOT MVZ NOT CCBER)" ; Times: 1
+	Query: "Salamandrina terdigitata" ; Times: 2
+	Query: "52549" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 2
+	Query: "Taricha granulosa county:&#34;linn&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "50785" ; Times: 1
+	Query: "rubber boa" ; Times: 2
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "catalognumber:50355" ; Times: 1
+	Query: "specificepithet:couchii genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:OS" ; Times: 1
+	Query: "order:squamata stateprovince:&#34;virginia&#34; (&#34;Montgomery&#34; OR &#34;Pulaski&#34; OR &#34;Floyd&#34; OR &#34;Roanoke&#34; OR &#34;Giles&#34; OR &#34;Craig&#34; OR &#34;Franklin&#34;)" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CAS NOT LACM NOT MVZ)" ; Times: 1
+	Query: "Euproctus montanus" ; Times: 2
+	Query: "genus:Ascaphus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "locality:Shultz Creek" ; Times: 3
+	Query: "crotalus tigris" ; Times: 1
+	Query: "21294" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 2
+	Query: "proteus anguinus" ; Times: 2
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:OS" ; Times: 1
+	Query: "genus:Bronchocela locality:New Guinea" ; Times: 3
+	Query: "crotalus willardi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 76 (out of 1169 download events in this period)
+Total number of records downloaded: 8361
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: Brazil ; Times: 1
+	Country: Spain ; Times: 12
+	Country: Mexico ; Times: 24
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-23 ; Times: 3
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-06 ; Times: 19
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-07 ; Times: 9
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-05 ; Times: 10
+	Date: 2018-06-04 ; Times: 4
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-02 ; Times: 2
+	Date: 2018-06-16 ; Times: 2
+	Date: 2018-06-25 ; Times: 5
+	Date: 2018-06-03 ; Times: 9
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-08 ; Times: 2
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pituophis deppei" ; Times: 5
+	Query: "Rhyacotriton variegatus" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 2
+	Query: "Plethodon dunni" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "Taricha granulosa granulosa" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Pseudoeurycea goebeli" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+	Query: "taricha granulosa" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;Yucatan&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:cascadae genus:Rana stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Crotalus triseriatus" ; Times: 2
+	Query: "Triturus cristatus" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:reptilia locality:baker" ; Times: 2
+	Query: "nerodia harteri" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Phrynosoma cornutum" ; Times: 2
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "Taricha torosa" ; Times: 1
+	Query: "Crotalus viridis; CO" ; Times: 1
+	Query: "Crotalus basiliscus" ; Times: 1
+	Query: "specificepithet:boylii genus:rana stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Rhyacotriton olympicus" ; Times: 2
+	Query: "Porthidium yucatanicum" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Quintana Roo&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Taricha rivularis" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "proteus anguinus" ; Times: 1
+	Query: "Rhyacotriton cascadae" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "Salamandrina terdigitata" ; Times: 1
+	Query: "specificepithet:cascadae genus:rana stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Taricha granulosa county:&#34;linn&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "rubber boa" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "valliceps" ; Times: 1
+	Query: "Cougar" ; Times: 1
+	Query: "specificepithet:lineatum genus:Tropidoclonion" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "chihuahua reptilia" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "class:Reptilia county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "rhyacotriton cascadae" ; Times: 1
+	Query: "Hyla regilla" ; Times: 1
+	Query: "Taricha granulosa" ; Times: 3
+	Query: "Dicamptodon tenebrosus" ; Times: 1
+	Query: "crotalus basiliscus" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "Rhyacotriton kezeri" ; Times: 1
+
+
+End of report.
