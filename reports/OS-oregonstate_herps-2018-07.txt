@@ -1,0 +1,165 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 81
+Number of records retrieved in searches: 928
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 69
+	Country: Unknown ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: China ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-27 ; Times: 2
+	Date: 2018-07-02 ; Times: 2
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-09 ; Times: 10
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-07 ; Times: 2
+	Date: 2018-07-26 ; Times: 3
+	Date: 2018-07-01 ; Times: 3
+	Date: 2018-07-24 ; Times: 5
+	Date: 2018-07-03 ; Times: 4
+	Date: 2018-07-13 ; Times: 2
+	Date: 2018-07-12 ; Times: 3
+	Date: 2018-07-11 ; Times: 2
+	Date: 2018-07-10 ; Times: 10
+	Date: 2018-07-17 ; Times: 8
+	Date: 2018-07-16 ; Times: 2
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-14 ; Times: 1
+	Date: 2018-07-31 ; Times: 10
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-18 ; Times: 4
+	Date: 2018-07-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "53355" ; Times: 1
+	Query: "30999" ; Times: 1
+	Query: "29884" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;SOUTH CAROLINA&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "catalognumber:9359" ; Times: 1
+	Query: "catalognumber:20886" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "thamnophis catalognumber:27771" ; Times: 1
+	Query: "19692" ; Times: 1
+	Query: "34490" ; Times: 1
+	Query: "Arizona elegans Cochise" ; Times: 1
+	Query: "specificepithet:boylii genus:Rana year &gt;= 2000 year &lt;= 2005" ; Times: 1
+	Query: "genus:pituophis stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "19982" ; Times: 1
+	Query: "gbifdatasetid:02242d2f-b43f-44d1-8e53-4c51af461f5b" ; Times: 1
+	Query: "14616" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Oregon&#34;" ; Times: 3
+	Query: "24679" ; Times: 2
+	Query: "Hydromantes Sonora pass" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "elf" ; Times: 5
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "37260" ; Times: 1
+	Query: "catalognumber:52844" ; Times: 1
+	Query: "18420" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;SOUTH CAROLINA&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 3
+	Query: "class:Amphibia county:&#34;Hardin&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:atratus genus:Thamnophis county:&#34;trinity&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "39041" ; Times: 1
+	Query: "39043" ; Times: 1
+	Query: "14651" ; Times: 1
+	Query: "32613" ; Times: 1
+	Query: "catalognumber:27771" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;Alpine&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:24164" ; Times: 1
+	Query: "53348" ; Times: 1
+	Query: "20167" ; Times: 1
+	Query: "plethodon idahoensis" ; Times: 1
+	Query: "specificepithet:cyrtopsis genus:Thamnophis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 5
+	Query: "specificepithet:sylvatica county:&#34;kenai&#34; stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "26817" ; Times: 2
+	Query: "genus:Uta stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "26423" ; Times: 1
+	Query: "specificepithet:pyromelana genus:lampropeltis county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "class:amphibia county:&#34;kenai&#34; stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "13625" ; Times: 1
+	Query: "32863" ; Times: 2
+	Query: "Cryptobranchus carolina" ; Times: 1
+	Query: "29686" ; Times: 1
+	Query: "mountain goat" ; Times: 2
+	Query: "genus:Bronchocela country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Baker&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:eques genus:Thamnophis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "14764" ; Times: 1
+	Query: "29140" ; Times: 1
+	Query: "20055" ; Times: 1
+	Query: "genus:gerrhonotus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 977 download events in this period)
+Total number of records downloaded: 24476
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: France ; Times: 5
+	Country: South Africa ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 7
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-11 ; Times: 4
+	Date: 2018-07-17 ; Times: 3
+	Date: 2018-07-09 ; Times: 3
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-31 ; Times: 5
+	Date: 2018-07-06 ; Times: 5
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-25 ; Times: 2
+	Date: 2018-07-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus oreganus" ; Times: 1
+	Query: "plethodon richmondi" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "rana pretiosa" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "dipsadoboa" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "specificepithet:rufipunctatus genus:Thamnophis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "order:Squamata hasmass:1" ; Times: 1
+	Query: "order:Squamata lengthtype:snout-vent length haslength:1" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;SOUTH CAROLINA&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "plethodon hoffmani" ; Times: 1
+	Query: "aneides aeneus" ; Times: 1
+	Query: "Crotalus mitchellii" ; Times: 1
+	Query: "egg family:Plethodontidae" ; Times: 1
+	Query: "genus:Ambystoma (egg)" ; Times: 1
+	Query: "plethodon ventralis" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "specificepithet:cyrtopsis genus:Thamnophis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "egg order:Caudata" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "specificepithet:eques genus:Thamnophis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "thamnophis validus" ; Times: 1
+	Query: "order:Squamata year &gt;= 1960 year &lt;= 2017 lengthtype:total length haslength:1" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+
+
+End of report.
