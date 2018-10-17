@@ -1,0 +1,185 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 101
+Number of records retrieved in searches: 524
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 32
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 2
+	Country: United States ; Times: 58
+	Country: Sweden ; Times: 1
+	Country: China ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 6
+	Date: 2018-09-14 ; Times: 10
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-30 ; Times: 2
+	Date: 2018-09-05 ; Times: 5
+	Date: 2018-09-13 ; Times: 2
+	Date: 2018-09-24 ; Times: 5
+	Date: 2018-09-25 ; Times: 3
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-20 ; Times: 5
+	Date: 2018-09-21 ; Times: 2
+	Date: 2018-09-17 ; Times: 30
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 5
+	Date: 2018-09-06 ; Times: 5
+	Date: 2018-09-08 ; Times: 8
+	Date: 2018-09-09 ; Times: 4
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "genus:Crotalus hassex:1 hasmass:1" ; Times: 2
+	Query: "specificepithet:cornutum genus:Phrynosoma stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "OS 18779" ; Times: 1
+	Query: "Micruroides euryxanthus" ; Times: 1
+	Query: "specificepithet:eques genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Illinois&#34;" ; Times: 2
+	Query: "genus:Elgaria stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Bufo boreas Alaska Island" ; Times: 1
+	Query: "specificepithet:hubrichti year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "gbifdatasetid:02242d2f-b43f-44d1-8e53-4c51af461f5b" ; Times: 1
+	Query: "OS 19546" ; Times: 2
+	Query: "OS 18209" ; Times: 1
+	Query: "Bufo boreas Alaska &#34;Prince of Wales&#34;" ; Times: 1
+	Query: "OS 19543" ; Times: 2
+	Query: "OS 18772" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; (marmorata)" ; Times: 1
+	Query: "wizard" ; Times: 4
+	Query: "elf" ; Times: 3
+	Query: "OS 18778" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Heterodon Arizona" ; Times: 4
+	Query: "OS 18269" ; Times: 1
+	Query: "OS 19391" ; Times: 1
+	Query: "Elaphe emoryi" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus hasmass:1" ; Times: 2
+	Query: "OS 19398" ; Times: 2
+	Query: "34893-1" ; Times: 1
+	Query: "OS 19665" ; Times: 2
+	Query: "24094" ; Times: 1
+	Query: "specificepithet:angusticlavius genus:plethodon" ; Times: 1
+	Query: "OS 18799" ; Times: 1
+	Query: "specificepithet:gilberti genus:eumeces stateprovince:&#34;California&#34; year &gt;= 1951 year &lt;= 1975" ; Times: 1
+	Query: "genus:Proteus specificepithet:anguinus" ; Times: 2
+	Query: "14042" ; Times: 1
+	Query: "specificepithet:gilberti genus:eumeces stateprovince:&#34;California&#34; year &gt;= 1950 year &lt;= 1975" ; Times: 1
+	Query: "OS 18792" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus hassex:1 hasmass:1" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "specificepithet:cinereus genus:Plethodon lengthinmm &gt;= 33 lengthinmm &lt;= 54 lengthtype:snout-vent length haslength:1" ; Times: 1
+	Query: "OS 19548" ; Times: 2
+	Query: "Plethodon angusticlavius" ; Times: 5
+	Query: "33106" ; Times: 1
+	Query: "R 15654" ; Times: 1
+	Query: "specificepithet:Willardi genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "OS 19540" ; Times: 2
+	Query: "specificepithet:savannah genus:Plethodon" ; Times: 1
+	Query: "genus:phrynosoma stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "OS 18747" ; Times: 1
+	Query: "specificepithet:sherando genus:plethodon" ; Times: 1
+	Query: "OS 19572" ; Times: 3
+	Query: "genus:Heterodon stateprovince:&#34;Arizona&#34;" ; Times: 6
+	Query: "specificepithet:eques genus:Thamnophis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:horridum genus:Heloderma" ; Times: 1
+	Query: "OS 19724" ; Times: 2
+	Query: "OS 18311" ; Times: 1
+	Query: "OS 18310" ; Times: 1
+	Query: "27792" ; Times: 1
+	Query: "OS 19701" ; Times: 2
+	Query: "catalognumber:41858" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:andersoni" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 50 (out of 846 download events in this period)
+Total number of records downloaded: 17579
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 44
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 4
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-12 ; Times: 2
+	Date: 2018-09-07 ; Times: 7
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-19 ; Times: 12
+	Date: 2018-09-18 ; Times: 15
+	Date: 2018-09-28 ; Times: 1
+	Date: 2018-09-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus magister" ; Times: 1
+	Query: "specificepithet:cinereus genus:plethodon" ; Times: 1
+	Query: "specificepithet:chattahoochee genus:Plethodon" ; Times: 1
+	Query: "specificepithet:dorsalis genus:plethodon" ; Times: 1
+	Query: "specificepithet:grobmani genus:Plethodon" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 2
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "Uma notata" ; Times: 1
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "specificepithet:serratus genus:plethodon" ; Times: 1
+	Query: "Conophis lineatus" ; Times: 2
+	Query: "specificepithet:websteri genus:plethodon" ; Times: 1
+	Query: "specificepithet:mississippi genus:Plethodon" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "specificepithet:cinereus genus:Plethodon haslength:1" ; Times: 1
+	Query: "specificepithet:savannah genus:Plethodon" ; Times: 1
+	Query: "specificepithet:ventralis genus:plethodon" ; Times: 1
+	Query: "Urosaurus ornatus" ; Times: 1
+	Query: "specificepithet:sherando genus:plethodon" ; Times: 1
+	Query: "cryptobranchus alleganiensis" ; Times: 1
+	Query: "class:Reptilia hassex:1 hasmass:1" ; Times: 1
+	Query: "Crotalus triseriatus triseriatus" ; Times: 1
+	Query: "specificepithet:chlorobryonis genus:Plethodon" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Chamaeleonidae" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "Phrynosoma douglasii" ; Times: 1
+	Query: "specificepithet:vehiculum genus:plethodon" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "specificepithet:angusticlavius genus:plethodon" ; Times: 1
+	Query: "specificepithet:variolatus genus:Plethodon" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:dunni genus:plethodon" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 2
+	Query: "Drymobius margaritiferus margaritiferus" ; Times: 1
+
+
+End of report.
