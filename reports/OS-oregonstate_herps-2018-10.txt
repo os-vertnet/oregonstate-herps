@@ -1,0 +1,169 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 105
+Number of records retrieved in searches: 2338
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 80
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 6
+	Country: China ; Times: 3
+	Country: Ireland ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 11
+	Date: 2018-10-06 ; Times: 3
+	Date: 2018-10-01 ; Times: 2
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-03 ; Times: 4
+	Date: 2018-10-04 ; Times: 4
+	Date: 2018-10-05 ; Times: 2
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-21 ; Times: 22
+	Date: 2018-10-26 ; Times: 4
+	Date: 2018-10-27 ; Times: 5
+	Date: 2018-10-24 ; Times: 4
+	Date: 2018-10-25 ; Times: 3
+	Date: 2018-10-28 ; Times: 2
+	Date: 2018-10-29 ; Times: 4
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 18
+	Date: 2018-10-12 ; Times: 2
+	Date: 2018-10-11 ; Times: 6
+	Date: 2018-10-10 ; Times: 1
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen collectioncode:Herps institutioncode:OS" ; Times: 1
+	Query: "vntype:specimen collectioncode:Herps institutioncode:OS nerodia taxispilota" ; Times: 1
+	Query: "20614" ; Times: 2
+	Query: "genus:masticophis county:&#34;marion&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "18237" ; Times: 2
+	Query: "22350" ; Times: 1
+	Query: "(38429)" ; Times: 1
+	Query: "genus:pituophis stateprovince:&#34;michoacan&#34;" ; Times: 1
+	Query: "thamnophis elegans vntype:specimen collectioncode:Herps AND (thamnophis) institutioncode:OS" ; Times: 2
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "heterodon platirhinos basisofrecord:PreservedSpecimen haslength:1" ; Times: 2
+	Query: "gbifdatasetid:02242d2f-b43f-44d1-8e53-4c51af461f5b" ; Times: 3
+	Query: "Eleutherodactylus augusti stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen collectioncode:Herps institutioncode:OS NOT thamnophis NOT taxispilota" ; Times: 5
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Texas&#34; catalognumber:2588 institutioncode:OS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "52230" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; recordedby:&#34;Arnold&#34; year &gt;= 1975 year &lt;= 2017" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "elf" ; Times: 4
+	Query: "genus:Pituophis stateprovince:&#34;Michoacan&#34;" ; Times: 1
+	Query: "Proteus anguinus" ; Times: 2
+	Query: "Brian Arnold" ; Times: 21
+	Query: "class:Reptilia stateprovince:&#34;Tennessee&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "53280" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Pecos&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "17776" ; Times: 1
+	Query: "17713" ; Times: 1
+	Query: "genus:pituophis country:&#34;mexico&#34; institutioncode:OS" ; Times: 1
+	Query: "specificepithet:bottae genus:Charina stateprovince:&#34;California&#34; year &gt;= 1990" ; Times: 1
+	Query: "catalognumber:26827" ; Times: 1
+	Query: "country:&#34;United States&#34; recordedby:B Arnold year &gt;= 1976 year &lt;= 2017" ; Times: 2
+	Query: "thamnophis elegans vntype:specimen collectioncode:Herps institutioncode:OS" ; Times: 2
+	Query: "genus:Charina stateprovince:&#34;California&#34; year &gt;= 1990" ; Times: 1
+	Query: "snake vntype:specimen institutioncode:OS" ; Times: 2
+	Query: "15546" ; Times: 1
+	Query: "catalognumber:26454" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "53793" ; Times: 1
+	Query: "Hypsiglena slevini" ; Times: 1
+	Query: "vntype:specimen collectioncode:Herps institutioncode:OS NOT thamnophis" ; Times: 1
+	Query: "catalognumber:4470" ; Times: 1
+	Query: "specificepithet:asupak genus:plethodon" ; Times: 1
+	Query: "Rubber Boa" ; Times: 1
+	Query: "23926" ; Times: 1
+	Query: "specificepithet:mississippi genus:Plethodon hastissue:1" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "Thamnophis radix stateprovince:&#34;Nebraska&#34; year &gt;= 1971" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:Ambystoma county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:savannah genus:plethodon" ; Times: 6
+	Query: "specificepithet:boreas genus:Bufo stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:boreas stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "OSUMNH 10274" ; Times: 2
+	Query: "specificepithet:kisatchie genus:Plethodon hastissue:1" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Walker&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atratus genus:Thamnophis county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "02242d2f-b43f-44d1-8e53-4c51af461f5b" ; Times: 1
+	Query: "specificepithet:larselli genus:plethodon" ; Times: 1
+	Query: "vntype:specimen collectioncode:Herps institutioncode:OS thamnophis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 1300 download events in this period)
+Total number of records downloaded: 24821
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 3
+	Date: 2018-10-22 ; Times: 2
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-01 ; Times: 3
+	Date: 2018-10-24 ; Times: 3
+	Date: 2018-10-03 ; Times: 3
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-08 ; Times: 7
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-19 ; Times: 2
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-12 ; Times: 1
+	Date: 2018-10-25 ; Times: 4
+	Date: 2018-10-10 ; Times: 2
+	Date: 2018-10-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Xantusia henshawi" ; Times: 2
+	Query: "heterodon platirhinos basisofrecord:PreservedSpecimen haslength:1" ; Times: 2
+	Query: "genus:Cnemidophorus" ; Times: 1
+	Query: "Desmognathus carolinensis" ; Times: 4
+	Query: "specificepithet:macrodactylum genus:Ambystoma stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "desmognathus ochrophaeus" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Michoacan&#34;" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 2
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "heterodon platirhinos vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "thamnophis elegans vntype:specimen collectioncode:Herps institutioncode:OS" ; Times: 1
+	Query: "Desmognathus fuscus" ; Times: 2
+	Query: "Desmognathus orestes" ; Times: 1
+	Query: "Hypsiglena slevini" ; Times: 2
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "Thamnophis radix stateprovince:&#34;Nebraska&#34; year &gt;= 1971" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "Desmognathus wrighti" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "Sonora semiannulata" ; Times: 1
+	Query: "alaska specificepithet:sylvatica" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "nerodia" ; Times: 1
+	Query: "Micrurus Mexico" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Batrachoseps wrighti" ; Times: 1
+
+
+End of report.
