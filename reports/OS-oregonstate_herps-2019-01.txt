@@ -1,0 +1,151 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 105
+Number of records retrieved in searches: 1522
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Netherlands ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 30
+	Country: United States ; Times: 43
+	Country: Sweden ; Times: 4
+	Country: Belgium ; Times: 8
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-19 ; Times: 5
+	Date: 2019-01-14 ; Times: 8
+	Date: 2019-01-16 ; Times: 8
+	Date: 2019-01-17 ; Times: 4
+	Date: 2019-01-10 ; Times: 4
+	Date: 2019-01-11 ; Times: 5
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-29 ; Times: 1
+	Date: 2019-01-28 ; Times: 5
+	Date: 2019-01-07 ; Times: 3
+	Date: 2019-01-05 ; Times: 2
+	Date: 2019-01-04 ; Times: 6
+	Date: 2019-01-21 ; Times: 7
+	Date: 2019-01-20 ; Times: 24
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-08 ; Times: 3
+	Date: 2019-01-25 ; Times: 4
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-27 ; Times: 4
+	Date: 2019-01-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "class:amphibia county:&#34;clatsop&#34; stateprovince:&#34;oregon&#34;" ; Times: 4
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "T. proximus" ; Times: 1
+	Query: "class:Amphibia county:&#34;columbia&#34; stateprovince:&#34;oregon&#34;" ; Times: 2
+	Query: "( Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:OS" ; Times: 5
+	Query: "specificepithet:willardi genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:ambystoma county:&#34;santa cruz&#34;" ; Times: 1
+	Query: "class:amphibia county:&#34;Clark&#34; stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "16565" ; Times: 1
+	Query: "genus:Neurergus specificepithet:kaiseri" ; Times: 1
+	Query: "family:colubridae catalognumber:11956" ; Times: 1
+	Query: "13917" ; Times: 1
+	Query: "class:amphibia county:&#34;washington&#34; stateprovince:&#34;oregon&#34;" ; Times: 2
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;oregon&#34; distance(location,geopoint(45.75540448071565,-123.48449740558863))&lt;46245" ; Times: 1
+	Query: "Plethodon kentucki" ; Times: 1
+	Query: "specificepithet:dunni county:&#34;Del Norte&#34;" ; Times: 1
+	Query: "20371" ; Times: 1
+	Query: "genus:Crotalus willardi stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "nettingi WV" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "elf" ; Times: 1
+	Query: "family:colubridae locality:alamos country:&#34;Mexico&#34;" ; Times: 1
+	Query: "35292" ; Times: 1
+	Query: "catalognumber:11956" ; Times: 3
+	Query: "genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 17
+	Query: "81173" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;oregon&#34; distance(location,geopoint(45.75540448071565,-123.48449740558863))&lt;46245" ; Times: 4
+	Query: "specificepithet:tigris genus:Crotalus county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "16464" ; Times: 1
+	Query: "genus:Proteus specificepithet:anguinus" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "plethodon stormi" ; Times: 2
+	Query: "18466" ; Times: 1
+	Query: "class:reptilia county:&#34;multnomah&#34; stateprovince:&#34;oregon&#34;" ; Times: 2
+	Query: "class:reptilia county:&#34;washington&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "31794" ; Times: 1
+	Query: "specificepithet:aureolus genus:Plethodon" ; Times: 1
+	Query: "16264" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: "26287" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "class:reptilia county:&#34;Clark&#34; stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "22121" ; Times: 1
+	Query: "class:reptilia locality:fresnillo stateprovince:&#34;Zacatecas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;Cowlitz&#34; stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "16408" ; Times: 1
+	Query: "catalognumber:5622" ; Times: 1
+	Query: "Plethodon sherando" ; Times: 1
+	Query: "specificepithet:savannah genus:Plethodon" ; Times: 1
+	Query: "15059" ; Times: 1
+	Query: "class:amphibia county:&#34;Wahkiakum&#34;" ; Times: 4
+	Query: "81094" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:reptilia county:&#34;clatsop&#34; stateprovince:&#34;oregon&#34;" ; Times: 4
+	Query: "genus:Gerrhonotus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "virginia valeria" ; Times: 2
+	Query: "Rhyacotriton kezeri" ; Times: 3
+	Query: "nettingi wv" ; Times: 1
+	Query: "35646" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 962 download events in this period)
+Total number of records downloaded: 509
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: United Kingdom ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 1
+	Date: 2019-01-08 ; Times: 4
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-21 ; Times: 1
+	Date: 2019-01-20 ; Times: 2
+	Date: 2019-01-16 ; Times: 4
+	Date: 2019-01-17 ; Times: 5
+	Date: 2019-01-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:longicauda genus:Eurycea" ; Times: 1
+	Query: "specificepithet:richmondi genus:Plethodon" ; Times: 1
+	Query: "Gymnophiona" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Plethodon" ; Times: 1
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "class:amphibia county:&#34;Riverside&#34;" ; Times: 1
+	Query: "plethodon meridianus" ; Times: 2
+	Query: "class:amphibia county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "specificepithet:aureolus genus:Plethodon" ; Times: 1
+	Query: "Tropidoclonion" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis hastissue:1" ; Times: 2
+	Query: "specificepithet:savannah genus:Plethodon" ; Times: 1
+	Query: "class:Amphibia county:&#34;multnomah&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "specificepithet:chlorobryonis genus:Plethodon" ; Times: 1
+	Query: "genus:Opheodrys aestivus" ; Times: 1
+	Query: "class:reptilia locality:fresnillo stateprovince:&#34;Zacatecas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;los angeles&#34;" ; Times: 1
+	Query: "specificepithet:wehrlei genus:Plethodon" ; Times: 1
+
+
+End of report.
