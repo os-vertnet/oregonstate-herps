@@ -1,0 +1,147 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 93
+Number of records retrieved in searches: 602
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 76
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Belgium ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 2
+	Date: 2019-02-05 ; Times: 5
+	Date: 2019-02-11 ; Times: 2
+	Date: 2019-02-10 ; Times: 12
+	Date: 2019-02-13 ; Times: 10
+	Date: 2019-02-12 ; Times: 5
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-19 ; Times: 6
+	Date: 2019-02-18 ; Times: 3
+	Date: 2019-02-24 ; Times: 2
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-26 ; Times: 2
+	Date: 2019-02-01 ; Times: 5
+	Date: 2019-02-06 ; Times: 5
+	Date: 2019-02-07 ; Times: 4
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-28 ; Times: 8
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-25 ; Times: 5
+	Date: 2019-02-20 ; Times: 9
+	Date: 2019-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:30040" ; Times: 2
+	Query: "catalognumber:7941 institutioncode:OS" ; Times: 2
+	Query: "Ensatina eschscholtzii institutioncode:OS basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:Dunni genus:plethodon county:&#34;Del norte&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 2
+	Query: "genus:Plethodon stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "genus:thamnophis county:&#34;travis&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "32115" ; Times: 1
+	Query: "specificepithet:Dunni county:&#34;Del Norte&#34;" ; Times: 2
+	Query: "31887" ; Times: 2
+	Query: "14262" ; Times: 1
+	Query: "gbifdatasetid:02242d2f-b43f-44d1-8e53-4c51af461f5b" ; Times: 1
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "elf" ; Times: 1
+	Query: "Plethodon idahoensis" ; Times: 1
+	Query: "19576" ; Times: 2
+	Query: "Ambystoma andersoni" ; Times: 1
+	Query: "32402" ; Times: 1
+	Query: "UTA 7322" ; Times: 1
+	Query: "plethodon asupak" ; Times: 1
+	Query: "18081" ; Times: 1
+	Query: "thamnophis eques stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "UTA 6358" ; Times: 2
+	Query: "UTA 6359" ; Times: 2
+	Query: "genus:Ambystoma county:&#34;Coos&#34;" ; Times: 1
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "hydromantes shastae" ; Times: 1
+	Query: "Ptyodactylus hasselquistii country:&#34;egypt&#34;" ; Times: 1
+	Query: "32777" ; Times: 2
+	Query: "catesbeiana haslength:1" ; Times: 2
+	Query: "genus:Scaphiopus stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "25217" ; Times: 1
+	Query: "35018" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 31
+	Query: "rubber boa" ; Times: 1
+	Query: "30596" ; Times: 1
+	Query: "catalognumber:15144" ; Times: 1
+	Query: "specificepithet:scincus genus:Scincus" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "UTA 5114" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Washoe&#34; stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "crotalus tigris" ; Times: 1
+	Query: "27799" ; Times: 1
+	Query: "UTA 9631" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "UTA 6121" ; Times: 1
+	Query: "collaris stateprovince:&#34;Nevada&#34; year &gt;= 1951 year &lt;= 1962" ; Times: 1
+	Query: "catalognumber:2569 institutioncode:OS" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1227 download events in this period)
+Total number of records downloaded: 797
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Brazil ; Times: 2
+	Country: Israel ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-11 ; Times: 9
+	Date: 2019-02-13 ; Times: 3
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-06 ; Times: 3
+	Date: 2019-02-21 ; Times: 1
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-16 ; Times: 2
+	Date: 2019-02-19 ; Times: 3
+	Date: 2019-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "porcupine" ; Times: 1
+	Query: "specificepithet:Aestivus genus:Opheodrys" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Alligator mississippiensis vntype:specimen" ; Times: 1
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "order:Anura haslifestage:1 hassex:1 haslength:1" ; Times: 1
+	Query: "Echis carinatus" ; Times: 1
+	Query: "Plethodon electromorphus" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "plethodon stormi" ; Times: 1
+	Query: "desmognathus imitator" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "genus:Sauromalus" ; Times: 11
+	Query: "Desmognathus aeneus" ; Times: 1
+	Query: "specificepithet:biscutatus genus:Trimorphodon" ; Times: 1
+	Query: "Ensatina eschscholtzii institutioncode:OS basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
