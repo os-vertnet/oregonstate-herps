@@ -1,0 +1,311 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 198
+Number of records retrieved in searches: 1585
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 138
+	Country: Netherlands ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 40
+	Country: Sweden ; Times: 5
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 4
+	Date: 2019-03-26 ; Times: 7
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-24 ; Times: 1
+	Date: 2019-03-23 ; Times: 1
+	Date: 2019-03-08 ; Times: 9
+	Date: 2019-03-21 ; Times: 8
+	Date: 2019-03-20 ; Times: 4
+	Date: 2019-03-05 ; Times: 2
+	Date: 2019-03-09 ; Times: 2
+	Date: 2019-03-07 ; Times: 20
+	Date: 2019-03-06 ; Times: 17
+	Date: 2019-03-01 ; Times: 7
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-22 ; Times: 2
+	Date: 2019-03-15 ; Times: 36
+	Date: 2019-03-31 ; Times: 5
+	Date: 2019-03-03 ; Times: 2
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-19 ; Times: 2
+	Date: 2019-03-16 ; Times: 6
+	Date: 2019-03-17 ; Times: 1
+	Date: 2019-03-14 ; Times: 14
+	Date: 2019-03-28 ; Times: 8
+	Date: 2019-03-12 ; Times: 3
+	Date: 2019-03-13 ; Times: 14
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-11 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:regilla genus:pseudacris county:&#34;curry&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "specificepithet:dunni genus:plethodon stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;Butte&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Nerodia harteri" ; Times: 1
+	Query: "catalognumber:16779 institutioncode:OS" ; Times: 1
+	Query: "Hypsiglena slevini" ; Times: 1
+	Query: "catalognumber:2859 institutioncode:OS" ; Times: 1
+	Query: "20284" ; Times: 2
+	Query: "genus:pseudacris county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "genus:ascaphus county:&#34;curry&#34;" ; Times: 1
+	Query: "Merrill 1887" ; Times: 1
+	Query: "Tantilla hobartsmithi" ; Times: 1
+	Query: "Psammophis sibilans" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "&#34;HWY 40&#34; KM stateprovince:&#34;DURANGO&#34; country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "specificepithet:dunni genus:plethodon county:&#34;josephine&#34;" ; Times: 1
+	Query: "Cryptobranchus alleganiensis transylvania" ; Times: 1
+	Query: "specificepithet:asupak genus:Plethodon" ; Times: 4
+	Query: "order:caudata 30045" ; Times: 1
+	Query: "specificepithet:vehiculum genus:plethodon county:&#34;josephine&#34;" ; Times: 1
+	Query: "Amphibia Mississippi scott" ; Times: 1
+	Query: "genus:Salamandrina" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "catalognumber:2858 institutioncode:OS" ; Times: 1
+	Query: "specificepithet:ensatus stateprovince:&#34;oregon&#34;" ; Times: 2
+	Query: "Macroprotodon cucullatus" ; Times: 1
+	Query: "catalognumber:16793 institutioncode:OS" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:ambystoma county:&#34;jackson&#34;" ; Times: 1
+	Query: "Imantodes gemmistratus" ; Times: 1
+	Query: "genus:batrachoseps county:&#34;curry&#34;" ; Times: 1
+	Query: "Thamnophis melanogaster" ; Times: 1
+	Query: "specificepithet:douglasii genus:Phrynosoma stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Thamnophis sumichrasti" ; Times: 1
+	Query: "genus:ascaphus stateprovince:&#34;oregon&#34; year &gt;= 2001 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:vehiculum genus:plethodon county:&#34;coos&#34;" ; Times: 1
+	Query: "genus:pseudacris county:&#34;curry&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "specificepithet:granulosa genus:taricha county:&#34;josephine&#34;" ; Times: 1
+	Query: "Boiga dendrophila" ; Times: 1
+	Query: "eleutherodactylus marnockii" ; Times: 1
+	Query: "genus:pseudacris county:&#34;josephine&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "specificepithet:ensatus county:&#34;curry&#34;" ; Times: 1
+	Query: "specificepithet:elongatus genus:plethodon county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "catalognumber:16887 institutioncode:OS" ; Times: 1
+	Query: "catalognumber:2855 institutioncode:OS" ; Times: 1
+	Query: "specificepithet:vehiculum county:&#34;josephine&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "genus:pseudacris county:&#34;del norte&#34;" ; Times: 1
+	Query: "Crotalus basiliscus" ; Times: 1
+	Query: "Pseudotriton ruber county:&#34;Sevier&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Porthidium yucatanicum" ; Times: 1
+	Query: "specificepithet:dunni genus:plethodon county:&#34;coos&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Acrochordus javanicus" ; Times: 1
+	Query: "catalognumber:4957" ; Times: 1
+	Query: "Psammophis schokari" ; Times: 1
+	Query: "catalognumber:13717 institutioncode:OS" ; Times: 1
+	Query: "family:Ambystomatidae stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Loxocemus bicolor" ; Times: 1
+	Query: "23317" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 32
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "Plethodon vandykei" ; Times: 2
+	Query: "specificepithet:attenuatus genus:batrachoseps stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "specificepithet:vehiculum stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:vehiculum county:&#34;curry&#34; stateprovince:&#34;oregon&#34;" ; Times: 3
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Walker&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:flavipunctatus genus:aneides stateprovince:&#34;oregon&#34;" ; Times: 2
+	Query: "Imantodes cenchoa" ; Times: 1
+	Query: "class:Reptilia county:&#34;Teton&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 3
+	Query: "wizard" ; Times: 3
+	Query: "catalognumber:16909 institutioncode:OS" ; Times: 2
+	Query: "specificepithet:vehiculum genus:plethodon county:&#34;curry&#34;" ; Times: 1
+	Query: "genus:rana county:&#34;josephine&#34;" ; Times: 1
+	Query: "catalognumber:2856 institutioncode:OS" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "Echis carinatus" ; Times: 1
+	Query: "catalognumber:50694" ; Times: 1
+	Query: "33977" ; Times: 1
+	Query: "specificepithet:regilla genus:pseudacris county:&#34;del norte&#34;" ; Times: 1
+	Query: "specificepithet:Coerulea genus:Elgaria county:&#34;Shasta&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "catalognumber:16780 institutioncode:OS" ; Times: 1
+	Query: "Thamnophis gigas" ; Times: 1
+	Query: "Tantilla wilcoxi" ; Times: 1
+	Query: "51438" ; Times: 1
+	Query: "Thamnophis butleri" ; Times: 1
+	Query: "Pseudacris blair" ; Times: 2
+	Query: "Malpolon monspessulanus" ; Times: 1
+	Query: "genus:ensatina county:&#34;jackson&#34; stateprovince:&#34;oregon&#34;" ; Times: 2
+	Query: "Lichanura trivirgata" ; Times: 1
+	Query: "37157" ; Times: 1
+	Query: "specificepithet:macrodactylum county:&#34;Jackson&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:pseudacris county:&#34;del norte&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:aurora genus:rana county:&#34;curry&#34;" ; Times: 3
+	Query: "catalognumber:16781 institutioncode:OS" ; Times: 1
+	Query: "catalognumber:2902 institutioncode:OS" ; Times: 1
+	Query: "Cerastes vipera" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "catalognumber:2860 institutioncode:OS" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: "specificepithet:stormi" ; Times: 2
+	Query: "Python regius" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "Phyllorhynchus browni" ; Times: 1
+	Query: "genus:Masticophis stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "specificepithet:coerulea genus:Elgaria county:&#34;Shasta&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:hydromantes county:&#34;shasta&#34;" ; Times: 1
+	Query: "specificepithet:aurora genus:rana county:&#34;douglas&#34;" ; Times: 2
+	Query: "Tantilla planiceps" ; Times: 1
+	Query: "catalognumber:4090 institutioncode:OS" ; Times: 1
+	Query: "catalognumber:27781" ; Times: 3
+	Query: "catalognumber:16908 institutioncode:OS" ; Times: 1
+	Query: "25563" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "specificepithet:Sherando genus:Plethodon" ; Times: 1
+	Query: "genus:coluber county:&#34;josephine&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Crotalus triseriatus" ; Times: 1
+	Query: "genus:pseudacris county:&#34;jackson&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "specificepithet:stormi genus:Plethodon" ; Times: 2
+	Query: "Micruroides euryxanthus" ; Times: 1
+	Query: "Tropidoclonion lineatum" ; Times: 1
+	Query: "Conophis lineatus" ; Times: 1
+	Query: "larselli" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "specificepithet:granulosa genus:taricha county:&#34;jackson&#34;" ; Times: 1
+	Query: "genus:Ambystoma county:&#34;Santa cruz&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "39771" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Masticophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:zonata stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "pleurodeles waltl" ; Times: 1
+	Query: "Thamnophis rufipunctatus" ; Times: 1
+	Query: "specificepithet:asupak genus:plethodon" ; Times: 2
+	Query: "Tantilla nigriceps" ; Times: 1
+	Query: "Imantodes tenuissimus" ; Times: 1
+	Query: "catalognumber:5586" ; Times: 2
+	Query: "Leptodeira maculata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 93 (out of 1281 download events in this period)
+Total number of records downloaded: 4444
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 91
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-05 ; Times: 3
+	Date: 2019-03-11 ; Times: 15
+	Date: 2019-03-19 ; Times: 1
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-20 ; Times: 2
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-07 ; Times: 24
+	Date: 2019-03-06 ; Times: 31
+	Date: 2019-03-13 ; Times: 5
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-08 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhyacotriton variegatus" ; Times: 1
+	Query: "specificepithet:dunni genus:plethodon stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:ascaphus stateprovince:&#34;oregon&#34; year &gt;= 1976 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:flavipunctatus genus:aneides" ; Times: 1
+	Query: "specificepithet:gracile genus:ambystoma stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "genus:rhyacotriton stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:ascaphus county:&#34;curry&#34;" ; Times: 1
+	Query: "specificepithet:elongatus genus:plethodon county:&#34;del norte&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:rhyacotriton county:&#34;curry&#34;" ; Times: 2
+	Query: "specificepithet:dunni genus:plethodon county:&#34;curry&#34;" ; Times: 1
+	Query: "specificepithet:vagrans genus:aneides" ; Times: 1
+	Query: "genus:ascaphus stateprovince:&#34;oregon&#34; year &gt;= 1800 year &lt;= 1975" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "Eumeces septentrionalis" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:ambystoma county:&#34;jackson&#34;" ; Times: 1
+	Query: "Plethodon richmondi" ; Times: 1
+	Query: "Plethodon welleri" ; Times: 2
+	Query: "catesbeiana haslength:1" ; Times: 1
+	Query: "specificepithet:cascadae genus:rana stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:tenebrosus genus:dicamptodon stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "genus:pseudacris county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;wayne&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "specificepithet:cascadae genus:Rana" ; Times: 1
+	Query: "specificepithet:vehiculum genus:plethodon county:&#34;coos&#34;" ; Times: 1
+	Query: "genus:pseudacris county:&#34;curry&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "specificepithet:marmorata family:emydidae" ; Times: 1
+	Query: "specificepithet:granulosa genus:taricha county:&#34;josephine&#34;" ; Times: 1
+	Query: "Plethodon hoffmani" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "eleutherodactylus marnockii" ; Times: 1
+	Query: "genus:pseudacris county:&#34;josephine&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "specificepithet:elongatus genus:plethodon county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "elapidae Mexico" ; Times: 1
+	Query: "specificepithet:boylii genus:rana stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:dunni genus:plethodon county:&#34;coos&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "specificepithet:granulosa genus:taricha county:&#34;curry&#34;" ; Times: 1
+	Query: "specificepithet:ferreus genus:aneides" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "specificepithet:boreas genus:bufo county:&#34;siskiyou&#34;" ; Times: 1
+	Query: "specificepithet:boylii genus:rana stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "specificepithet:boreas genus:bufo county:&#34;humboldt&#34;" ; Times: 1
+	Query: "genus:batrachoseps county:&#34;humboldt&#34; year &gt;= 1800 year &lt;= 1959" ; Times: 1
+	Query: "specificepithet:elongatus genus:plethodon stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "specificepithet:attenuatus genus:batrachoseps county:&#34;humboldt&#34;" ; Times: 1
+	Query: "specificepithet:attenuatus genus:batrachoseps stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "plethodon kentucki" ; Times: 1
+	Query: "specificepithet:flavipunctatus genus:aneides stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Plethodon wehrlei" ; Times: 1
+	Query: "specificepithet:vehiculum genus:plethodon county:&#34;curry&#34;" ; Times: 1
+	Query: "genus:ensatina county:&#34;siskiyou&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "porthidium" ; Times: 1
+	Query: "specificepithet:granulosa genus:taricha county:&#34;shasta&#34;" ; Times: 1
+	Query: "genus:ensatina county:&#34;curry&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "specificepithet:vehiculum genus:plethodon county:&#34;douglas&#34;" ; Times: 1
+	Query: "specificepithet:asupak genus:plethodon" ; Times: 1
+	Query: "genus:ensatina county:&#34;jackson&#34; stateprovince:&#34;oregon&#34;" ; Times: 2
+	Query: "genus:ensatina county:&#34;josephine&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "genus:Crotalus haslength:1" ; Times: 1
+	Query: "genus:pseudacris county:&#34;del norte&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:ambystoma stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "genus:ensatina county:&#34;del norte&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:aurora genus:rana county:&#34;curry&#34;" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "specificepithet:boreas genus:bufo stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "genus:pseudacris county:&#34;siskiyou&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "plethodon electromorphus" ; Times: 1
+	Query: "genus:ascaphus county:&#34;josephine&#34;" ; Times: 1
+	Query: "specificepithet:aeneus genus:Desmognathus family:Plethodontidae mappable:1 year&lt;=2009" ; Times: 1
+	Query: "genus:hydromantes county:&#34;shasta&#34;" ; Times: 1
+	Query: "plethodon punctatus" ; Times: 1
+	Query: "specificepithet:truei genus:ascaphus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "genus:ensatina county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:vehiculum genus:plethodon county:&#34;josephine&#34;" ; Times: 1
+	Query: "specificepithet:dunni genus:plethodon county:&#34;josephine&#34;" ; Times: 1
+	Query: "genus:pseudacris county:&#34;jackson&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "specificepithet:stormi genus:plethodon" ; Times: 1
+	Query: "specificepithet:aurora genus:rana county:&#34;del norte&#34;" ; Times: 1
+	Query: "genus:batrachoseps county:&#34;del norte&#34;" ; Times: 1
+	Query: "genus:ascaphus stateprovince:&#34;oregon&#34; year &gt;= 1976 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:granulosa genus:taricha county:&#34;jackson&#34;" ; Times: 1
+	Query: "specificepithet:flavipunctatus genus:aneides county:&#34;trinity&#34;" ; Times: 1
+	Query: "specificepithet:granulosa genus:taricha county:&#34;siskiyou&#34;" ; Times: 1
+	Query: "specificepithet:cascadae genus:rana stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "specificepithet:dunni genus:plethodon county:&#34;douglas&#34;" ; Times: 1
+	Query: "genus:Lampropeltis haslength:1" ; Times: 2
+	Query: "specificepithet:punctatus genus:Necturus" ; Times: 1
+
+
+End of report.
