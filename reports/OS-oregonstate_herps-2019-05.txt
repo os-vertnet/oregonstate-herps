@@ -1,0 +1,148 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 107
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 41
+	Country: Sweden ; Times: 1
+	Country: Belgium ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 2
+	Date: 2019-05-31 ; Times: 1
+	Date: 2019-05-09 ; Times: 1
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-07 ; Times: 2
+	Date: 2019-05-06 ; Times: 1
+	Date: 2019-05-05 ; Times: 1
+	Date: 2019-05-02 ; Times: 1
+	Date: 2019-05-01 ; Times: 1
+	Date: 2019-05-27 ; Times: 2
+	Date: 2019-05-26 ; Times: 2
+	Date: 2019-05-21 ; Times: 6
+	Date: 2019-05-20 ; Times: 2
+	Date: 2019-05-23 ; Times: 3
+	Date: 2019-05-22 ; Times: 2
+	Date: 2019-05-29 ; Times: 5
+	Date: 2019-05-28 ; Times: 2
+	Date: 2019-05-18 ; Times: 2
+	Date: 2019-05-10 ; Times: 5
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-12 ; Times: 2
+	Date: 2019-05-13 ; Times: 5
+	Date: 2019-05-16 ; Times: 2
+	Date: 2019-05-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Scaphiopus intermontanus" ; Times: 2
+	Query: "31985" ; Times: 1
+	Query: "pyromelana" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Elgaria county:&#34;Lassen&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "22839 hastissue:1" ; Times: 1
+	Query: "carroll thamnophis" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "genus:charina county:&#34;riverside&#34;" ; Times: 1
+	Query: "39672" ; Times: 1
+	Query: "catalognumber:53893" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "Plethodon cylindraceous" ; Times: 1
+	Query: "washoe Crotaphytus" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 3
+	Query: "rhinocheilus lassen" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Ambystoma andersoni" ; Times: 2
+	Query: "Lichanura" ; Times: 1
+	Query: "33485" ; Times: 1
+	Query: "33255" ; Times: 1
+	Query: "Plethdon" ; Times: 1
+	Query: "genus:Proteus specificepithet:anguinus" ; Times: 1
+	Query: "34130" ; Times: 1
+	Query: "stateprovince:&#34;Washington&#34; recordedby:Hungate" ; Times: 1
+	Query: "genus:crotalus county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:masticophis county:&#34;tulare&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:tantilla class:reptilia county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Crotalus lassen" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:cylindraceous genus:Plethodon" ; Times: 3
+	Query: "genus:Crotalus county:&#34;Lassen&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:crotalus county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Callisaurus washoe" ; Times: 1
+	Query: "31934" ; Times: 1
+	Query: "crotalus pershing county nevada" ; Times: 1
+	Query: "39150" ; Times: 1
+	Query: "washoe Crotalus" ; Times: 1
+	Query: "heterodon arizona" ; Times: 1
+	Query: "34885" ; Times: 1
+	Query: "specificepithet:eques genus:Thamnophis county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "sceloporus magister washoe" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 940 download events in this period)
+Total number of records downloaded: 383
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Switzerland ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Spain ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 2
+	Date: 2019-05-26 ; Times: 2
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-06 ; Times: 2
+	Date: 2019-05-02 ; Times: 1
+	Date: 2019-05-09 ; Times: 3
+	Date: 2019-05-08 ; Times: 2
+	Date: 2019-05-11 ; Times: 2
+	Date: 2019-05-12 ; Times: 1
+	Date: 2019-05-14 ; Times: 2
+	Date: 2019-05-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:crepitans genus:Acris" ; Times: 2
+	Query: "Salamandra" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "&#34;Echis carinatus&#34;" ; Times: 1
+	Query: "&#34;Naja naja&#34;" ; Times: 1
+	Query: "specificepithet:rostrata genus:Bolitoglossa" ; Times: 1
+	Query: "&#34;spea hammondii&#34;" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "batrachoseps wrighti" ; Times: 1
+	Query: "genus:gambelia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Ambystoma andersoni" ; Times: 1
+	Query: "family:Eublepharidae" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "family:Phyllodactylidae" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "sauromalus AND CA" ; Times: 1
+	Query: "sauromalus" ; Times: 1
+	Query: "(reptilia) distance(location,geopoint(37.12130728695301,-118.09835902908941))&lt;118999" ; Times: 1
+
+
+End of report.
