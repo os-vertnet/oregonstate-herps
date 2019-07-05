@@ -1,0 +1,196 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 125
+Number of records retrieved in searches: 1030
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 109
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 5
+	Date: 2019-06-21 ; Times: 2
+	Date: 2019-06-23 ; Times: 2
+	Date: 2019-06-24 ; Times: 3
+	Date: 2019-06-25 ; Times: 4
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-27 ; Times: 6
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-07 ; Times: 3
+	Date: 2019-06-05 ; Times: 8
+	Date: 2019-06-02 ; Times: 2
+	Date: 2019-06-03 ; Times: 5
+	Date: 2019-06-26 ; Times: 2
+	Date: 2019-06-28 ; Times: 3
+	Date: 2019-06-19 ; Times: 2
+	Date: 2019-06-30 ; Times: 2
+	Date: 2019-06-14 ; Times: 2
+	Date: 2019-06-17 ; Times: 1
+	Date: 2019-06-11 ; Times: 52
+	Date: 2019-06-10 ; Times: 16
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Heloderma specificepithet:horridum" ; Times: 3
+	Query: "specificepithet:cenchoa genus:Imantodes" ; Times: 3
+	Query: "genus:Tarentola specificepithet:annularis" ; Times: 1
+	Query: "genus:Elaphe specificepithet:vulpina" ; Times: 1
+	Query: "genus:Hynobius specificepithet:nebulosus" ; Times: 1
+	Query: "genus:Bronchocela specificepithet:cristatella" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "elf" ; Times: 1
+	Query: "genus:Taricha county:&#34;Yuba&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:2342" ; Times: 1
+	Query: "specificepithet:boylii genus:rana year &gt;= 1950 year &lt;= 1950" ; Times: 1
+	Query: "genus:Imantodes specificepithet:cenchoa" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:ricordii" ; Times: 2
+	Query: "family:Crotaphytidae county:&#34;kern&#34;" ; Times: 1
+	Query: "catalognumber:23105" ; Times: 1
+	Query: "genus:Contia specificepithet:tenuis" ; Times: 1
+	Query: "stateprovince:&#34;oregon&#34; sex:male basisofrecord:PreservedSpecimen lengthtype:snout-vent length hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Hydromantes specificepithet:platycephalus" ; Times: 1
+	Query: "genus:Eumeces specificepithet:laticeps" ; Times: 1
+	Query: "genus:Acrochordus specificepithet:javanicus" ; Times: 1
+	Query: "genus:Micruroides specificepithet:euryxanthus" ; Times: 1
+	Query: "genus:Tantilla specificepithet:hobartsmithi" ; Times: 1
+	Query: "genus:Masticophis specificepithet:lateralis" ; Times: 1
+	Query: "genus:Charina county:&#34;Napa&#34;" ; Times: 2
+	Query: "toad oregon" ; Times: 2
+	Query: "genus:Thamnophis county:&#34;Washoe&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Lampropeltis specificepithet:pyromelana" ; Times: 1
+	Query: "genus:Plethodon specificepithet:cheoah" ; Times: 1
+	Query: "reptilia yepomera" ; Times: 5
+	Query: "catalognumber:37434" ; Times: 1
+	Query: "41484" ; Times: 2
+	Query: "genus:Salamandrina specificepithet:terdigitata" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Crotalus specificepithet:molossus" ; Times: 1
+	Query: "genus:Plethodon specificepithet:grobmani" ; Times: 1
+	Query: "class:Reptilia county:&#34;Montgomery&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "genus:Ptychozoon" ; Times: 1
+	Query: "genus:Conophis specificepithet:lineatus" ; Times: 1
+	Query: "genus:Chamaeleo specificepithet:chamaeleon" ; Times: 1
+	Query: "genus:Pleurodeles specificepithet:waltl" ; Times: 1
+	Query: "genus:Anguis" ; Times: 1
+	Query: "genus:Varanus specificepithet:niloticus" ; Times: 2
+	Query: "genus:Acanthodactylus specificepithet:boskianus" ; Times: 1
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 3
+	Query: "53536" ; Times: 1
+	Query: "53533" ; Times: 1
+	Query: "genus:Charina specificepithet:bottae" ; Times: 1
+	Query: "genus:Charina year &gt;= 1990 hastissue:1" ; Times: 3
+	Query: "genus:Heterodon stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "38252" ; Times: 1
+	Query: "genus:Loxocemus specificepithet:bicolor" ; Times: 1
+	Query: "genus:Elgaria specificepithet:kingii" ; Times: 1
+	Query: "26903" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "genus:Heterodon specificepithet:nasicus" ; Times: 2
+	Query: "genus:Phrynosoma specificepithet:solare" ; Times: 1
+	Query: "genus:Euproctus specificepithet:platycephalus" ; Times: 1
+	Query: "genus:Drymobius specificepithet:margaritiferus" ; Times: 1
+	Query: "catalognumber:8961" ; Times: 3
+	Query: "genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "28317" ; Times: 1
+	Query: "genus:Tantilla specificepithet:wilcoxi" ; Times: 1
+	Query: "genus:Thamnophis specificepithet:rufipunctatus" ; Times: 2
+	Query: "genus:Proteus specificepithet:anguinus" ; Times: 1
+	Query: "genus:Masticophis specificepithet:taeniatus" ; Times: 1
+	Query: "python hastissue:1" ; Times: 1
+	Query: "genus:Charina hastissue:1" ; Times: 1
+	Query: "Pyromelana" ; Times: 1
+	Query: "specificepithet:zonata genus:lampropeltis" ; Times: 2
+	Query: "specificepithet:macrodactylum genus:ambystoma stateprovince:&#34;california&#34; institutioncode:OS" ; Times: 1
+	Query: "specificepithet:semiannulata genus:sonora family:Colubridae order:Squamata class:Reptilia stateprovince:&#34;Utah&#34; country:&#34;United States&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Rhyacotriton specificepithet:olympicus" ; Times: 1
+	Query: "catalognumber:38834" ; Times: 1
+	Query: "genus:Nerodia specificepithet:cyclopion" ; Times: 2
+	Query: "genus:Malpolon" ; Times: 1
+	Query: "genus:Tantilla specificepithet:nigriceps" ; Times: 1
+	Query: "genus:Toluca" ; Times: 1
+	Query: "41814" ; Times: 1
+	Query: "plethodon stormi" ; Times: 1
+	Query: "genus:Cryptobranchus specificepithet:alleganiensis" ; Times: 1
+	Query: "catalognumber:16448" ; Times: 1
+	Query: "39671" ; Times: 1
+	Query: "nerodia harteri" ; Times: 1
+	Query: "genus:Rhineura specificepithet:floridana" ; Times: 2
+	Query: "53753" ; Times: 2
+	Query: "53973" ; Times: 1
+	Query: "catalognumber:26798" ; Times: 1
+	Query: "30586" ; Times: 1
+	Query: "catalognumber:32210" ; Times: 2
+	Query: "specificepithet:ordinoides genus:thamnophis county:&#34;humboldt&#34;" ; Times: 2
+	Query: "16616" ; Times: 1
+	Query: "genus:Eleutherodactylus county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:ambystoma institutioncode:OS" ; Times: 1
+	Query: "40509" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1182 download events in this period)
+Total number of records downloaded: 9464
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-21 ; Times: 1
+	Date: 2019-06-26 ; Times: 1
+	Date: 2019-06-30 ; Times: 1
+	Date: 2019-06-06 ; Times: 4
+	Date: 2019-06-07 ; Times: 4
+	Date: 2019-06-04 ; Times: 6
+	Date: 2019-06-05 ; Times: 2
+	Date: 2019-06-11 ; Times: 1
+	Date: 2019-06-03 ; Times: 6
+	Date: 2019-06-10 ; Times: 1
+	Date: 2019-06-28 ; Times: 1
+	Date: 2019-06-14 ; Times: 2
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cougar" ; Times: 1
+	Query: "beaver oregon" ; Times: 1
+	Query: "specificepithet:cenchoa genus:Imantodes" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:Ambystoma stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 1
+	Query: "nerodia harteri" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:Ambystoma stateprovince:&#34;California&#34; AND (NOT Siskiyou)" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "cougar" ; Times: 5
+	Query: "aneides aeneus" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "phyllomedusa" ; Times: 1
+	Query: "Thamnophis sirtalis" ; Times: 1
+	Query: "Thamnophis atratus" ; Times: 1
+	Query: "Acrochordus" ; Times: 1
+	Query: "continent:europe hasmass:1" ; Times: 1
+	Query: "rana cascadae" ; Times: 1
+	Query: "Rana pretiosa" ; Times: 1
+	Query: "mountain goat" ; Times: 2
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "black bear" ; Times: 2
+	Query: "Plethodon montanus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "tARICHA GRANULOSA" ; Times: 1
+	Query: "Spea intermontana" ; Times: 1
+	Query: "toad oregon" ; Times: 1
+
+
+End of report.
