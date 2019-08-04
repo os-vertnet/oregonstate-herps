@@ -1,0 +1,164 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 87
+Number of records retrieved in searches: 1484
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 74
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 3
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-13 ; Times: 6
+	Date: 2019-07-10 ; Times: 4
+	Date: 2019-07-16 ; Times: 6
+	Date: 2019-07-17 ; Times: 4
+	Date: 2019-07-15 ; Times: 7
+	Date: 2019-07-02 ; Times: 1
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-23 ; Times: 2
+	Date: 2019-07-08 ; Times: 18
+	Date: 2019-07-20 ; Times: 4
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-29 ; Times: 6
+	Date: 2019-07-28 ; Times: 2
+	Date: 2019-07-05 ; Times: 7
+	Date: 2019-07-04 ; Times: 3
+	Date: 2019-07-07 ; Times: 1
+	Date: 2019-07-06 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:elegans genus:Arizona stateprovince:&#34;arizona&#34;" ; Times: 2
+	Query: "genus:Lampropeltis stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Nerodia specificepithet:cyclopion" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;San Juan&#34; stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "genus:Heloderma specificepithet:horridum" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "specificepithet:magister genus:Sceloporus county:&#34;kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:arizona county:&#34;navajo&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:opheodrys stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "specificepithet:vernalis stateprovince:&#34;Utah&#34;" ; Times: 3
+	Query: "order:squamata county:&#34;Giles&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "genus:Malpolon" ; Times: 1
+	Query: "29221" ; Times: 1
+	Query: "genus:coluber county:&#34;santa cruz&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Cerastes specificepithet:vipera" ; Times: 1
+	Query: "Thamnophis eques mappable:1" ; Times: 5
+	Query: "catalognumber:11983" ; Times: 1
+	Query: "genus:eurycea hastissue:1 specificepithet:bislineata OR specificepithet:cirrigera OR specificepithet:wilderae" ; Times: 1
+	Query: "23937" ; Times: 1
+	Query: "gbifdatasetid:02242d2f-b43f-44d1-8e53-4c51af461f5b" ; Times: 3
+	Query: "20059" ; Times: 1
+	Query: "genus:Hypsiglena stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "12108" ; Times: 1
+	Query: "class:reptilia county:&#34;Multnomah&#34; stateprovince:&#34;oregon&#34;" ; Times: 2
+	Query: "specificepithet:eques genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "catalognumber:13244" ; Times: 1
+	Query: "genus:Ptychozoon" ; Times: 1
+	Query: "specificepithet:flagellum genus:Masticophis stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "thamnophis elegans graham" ; Times: 1
+	Query: "genus:Opheodrys county:&#34;Utah&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 2
+	Query: "specificepithet:elegans class:reptilia county:&#34;coconino&#34;" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "28317" ; Times: 1
+	Query: "genus:Anguis" ; Times: 1
+	Query: "genus:Toluca" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Arizona&#34; hastissue:1" ; Times: 1
+	Query: "genus:Thamnophis specificepithet:rufipunctatus" ; Times: 1
+	Query: "Rana aurora" ; Times: 3
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "genus:Eleutherodactylus specificepithet:ricordii" ; Times: 1
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona county:&#34;Navajo&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:hypsiglena county:&#34;washington&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:sonora class:reptilia stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis stateprovince:&#34;oregon&#34; sex:female" ; Times: 2
+	Query: "Oregon 29240" ; Times: 1
+	Query: "genus:Thamnophis stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "genus:Heterodon specificepithet:nasicus" ; Times: 1
+	Query: "genus:xantusia stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "specificepithet:atratus genus:Thamnophis stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 2000 hastissue:1" ; Times: 2
+	Query: "gbifdatasetid:02242d2f-b43f-44d1-8e53-4c51af461f5b tropidoclonion" ; Times: 1
+	Query: "specificepithet:boreas county:&#34;washington&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "29240" ; Times: 3
+	Query: "specificepithet:vigilis stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Opheodrys stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:opheodrys stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis stateprovince:&#34;oregon&#34; sex:female institutioncode:OS" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "23148" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 985 download events in this period)
+Total number of records downloaded: 1012
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-22 ; Times: 1
+	Date: 2019-07-26 ; Times: 2
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-29 ; Times: 2
+	Date: 2019-07-11 ; Times: 3
+	Date: 2019-07-30 ; Times: 9
+	Date: 2019-07-31 ; Times: 9
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "specificepithet:magister genus:sceloporus" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "Spea multiplicata" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 1
+	Query: "specificepithet:solare genus:phrynosoma" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Dipsosaurus" ; Times: 1
+	Query: "genus:Tantilla stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "plethodon yonahlossee" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "specificepithet:atratus genus:Thamnophis stateprovince:&#34;California&#34; country:&#34;United States&#34; year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "specificepithet:olivaceus genus:Sceloporus" ; Times: 1
+	Query: "family:Pythonidae" ; Times: 1
+	Query: "plethodon ouachitae" ; Times: 1
+	Query: "specificepithet:lateralis genus:Scincella" ; Times: 1
+	Query: "specificepithet:coerulea genus:Elgaria" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia" ; Times: 3
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 1
+
+
+End of report.
