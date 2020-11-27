@@ -1,0 +1,176 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 129
+Number of records retrieved in searches: 811
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 115
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-17 ; Times: 4
+	Date: 2020-01-03 ; Times: 4
+	Date: 2020-01-28 ; Times: 7
+	Date: 2020-01-06 ; Times: 2
+	Date: 2020-01-21 ; Times: 2
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-23 ; Times: 9
+	Date: 2020-01-22 ; Times: 9
+	Date: 2020-01-24 ; Times: 4
+	Date: 2020-01-27 ; Times: 11
+	Date: 2020-01-26 ; Times: 2
+	Date: 2020-01-29 ; Times: 3
+	Date: 2020-01-30 ; Times: 2
+	Date: 2020-01-18 ; Times: 46
+	Date: 2020-01-19 ; Times: 3
+	Date: 2020-01-14 ; Times: 1
+	Date: 2020-01-15 ; Times: 3
+	Date: 2020-01-16 ; Times: 4
+	Date: 2020-01-31 ; Times: 9
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lampropeltis stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:hurterii genus:Scaphiopus" ; Times: 1
+	Query: "pretiosa Rana" ; Times: 2
+	Query: "specificepithet:hammondii genus:spea county:&#34;lake&#34;" ; Times: 1
+	Query: "specificepithet:marnockii genus:Eleutherodactylus" ; Times: 1
+	Query: "41501" ; Times: 1
+	Query: "waltl Pleurodeles" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Batrachoseps stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "Lampropeltis pyromelana" ; Times: 50
+	Query: "picta Chrysemys" ; Times: 2
+	Query: "thamnophis sirtalis mexico" ; Times: 1
+	Query: "39813" ; Times: 1
+	Query: "specificepithet:areolata genus:Rana" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "specificepithet:augusti class:amphibia county:&#34;Travis&#34;" ; Times: 3
+	Query: "elf" ; Times: 3
+	Query: "39717" ; Times: 1
+	Query: "&#34;bd&#34; order:caudata" ; Times: 3
+	Query: "specificepithet:heckscheri genus:Rana" ; Times: 1
+	Query: "catalognumber:24995" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "35114" ; Times: 2
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "plethodon asupak" ; Times: 1
+	Query: "plethodon larselli" ; Times: 1
+	Query: "welleri" ; Times: 1
+	Query: "hydromantes shastae" ; Times: 3
+	Query: "specificepithet:ricordii genus:Eleutherodactylus" ; Times: 1
+	Query: "plethodon angusticlavius" ; Times: 2
+	Query: "specificepithet:canorus genus:Bufo" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Bufo" ; Times: 1
+	Query: "52543" ; Times: 1
+	Query: "locality:Tahquitz county:&#34;Riverside&#34; year &gt;= 1909 year &lt;= 2008" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 3
+	Query: "34953" ; Times: 1
+	Query: "batrachoseps attenuatus county:&#34;mariposa&#34;" ; Times: 2
+	Query: "genus:tropidoclonion stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "39597" ; Times: 2
+	Query: "Thamnophis sirtalis county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus hastissue:1" ; Times: 1
+	Query: "12356" ; Times: 2
+	Query: "specificepithet:annularis genus:Tarentola institutioncode:OS" ; Times: 4
+	Query: "plethodon cheoah" ; Times: 1
+	Query: "salamandra Salamandra" ; Times: 2
+	Query: "specificepithet:hammondii genus:spea county:&#34;madera&#34;" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;Fresno&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:alvarius genus:Bufo" ; Times: 1
+	Query: "specificepithet:hasselquistii genus:Ptyodactylus institutioncode:OS" ; Times: 4
+	Query: "Thamnophis sirtalis county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Hydromantes county:&#34;Shasta&#34;" ; Times: 1
+	Query: "specificepithet:exsul genus:Bufo" ; Times: 1
+	Query: "34814" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 50 (out of 1584 download events in this period)
+Total number of records downloaded: 13732
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 43
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 3
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-06 ; Times: 2
+	Date: 2020-01-16 ; Times: 8
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-31 ; Times: 6
+	Date: 2020-01-25 ; Times: 4
+	Date: 2020-01-24 ; Times: 11
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-28 ; Times: 7
+	Date: 2020-01-30 ; Times: 2
+	Date: 2020-01-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 1
+	Query: "Tarentola annularis" ; Times: 1
+	Query: "Petrosaurus mearnsi" ; Times: 1
+	Query: "genus:Micrurus country:&#34;México&#34;" ; Times: 2
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Uma notata" ; Times: 1
+	Query: "plethodon stormi" ; Times: 1
+	Query: "county:&#34;Newton&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "specificepithet:areolata family:ranidae" ; Times: 1
+	Query: "plethodon dunni" ; Times: 1
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "genus:cryptobranchus" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "plethodon asupak" ; Times: 1
+	Query: "Basiliscus basiliscus" ; Times: 1
+	Query: "plethodon elongatus" ; Times: 1
+	Query: "Chamaeleo chamaeleon" ; Times: 1
+	Query: "Drymobius margaritiferus" ; Times: 1
+	Query: "genus:rana stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "plethodon idahoensis" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "genus:eurycea stateprovince:&#34;texas&#34; AND (quadridigitata) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Macroprotodon cucullatus" ; Times: 1
+	Query: "specificepithet:cinereus genus:plethodon country:&#34;united states&#34;" ; Times: 1
+	Query: "Lamprolepis smaragdina" ; Times: 1
+	Query: "Thamnophis sirtalis county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus hastissue:1" ; Times: 3
+	Query: "genus:Thamnophis hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:Cornutum genus:Phrynosoma year &gt;= 1800 year &lt;= 1959" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "plethodon larselli" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Jalisco&#34;" ; Times: 1
+	Query: "xantusia henshawi" ; Times: 2
+	Query: "Thamnophis sirtalis county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "rainier" ; Times: 1
+
+
+End of report.
