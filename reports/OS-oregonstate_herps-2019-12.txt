@@ -1,0 +1,131 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 58
+Number of records retrieved in searches: 519
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 47
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 5
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-24 ; Times: 1
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-20 ; Times: 2
+	Date: 2019-12-23 ; Times: 4
+	Date: 2019-12-02 ; Times: 5
+	Date: 2019-12-18 ; Times: 4
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-30 ; Times: 9
+	Date: 2019-12-07 ; Times: 1
+	Date: 2019-12-09 ; Times: 3
+	Date: 2019-12-08 ; Times: 1
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-11 ; Times: 3
+	Date: 2019-12-05 ; Times: 5
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-03 ; Times: 2
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-01 ; Times: 6
+	Date: 2019-12-17 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "53319" ; Times: 1
+	Query: "27933" ; Times: 1
+	Query: "catalognumber:36799" ; Times: 1
+	Query: "Thamnophis cyrtopsis haslength:1" ; Times: 1
+	Query: "specificepithet:RUBER genus:Pseudotriton stateprovince:&#34;NEW YORK&#34;" ; Times: 1
+	Query: "54011" ; Times: 1
+	Query: "Thamnophis cyrtopsis hasmass:1" ; Times: 1
+	Query: "specificepithet:elegans genus:thamnophis county:&#34;monterey&#34;" ; Times: 4
+	Query: "leptodeira maculata mexico" ; Times: 1
+	Query: "gbifdatasetid:02242d2f-b43f-44d1-8e53-4c51af461f5b" ; Times: 1
+	Query: "28549" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "50129" ; Times: 2
+	Query: "13110" ; Times: 1
+	Query: "genus:batrachoseps class:amphibia county:&#34;mariposa&#34;" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "specificepithet:elegans genus:thamnophis class:reptilia stateprovince:&#34;california&#34; year &gt;= 2010" ; Times: 1
+	Query: "20195" ; Times: 1
+	Query: "18569" ; Times: 1
+	Query: "specificepithet:elegans genus:thamnophis county:&#34;san luis obispo&#34;" ; Times: 1
+	Query: "specificepithet:gilberti class:reptilia county:&#34;kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "county:&#34;fresno&#34; recordedby:Boolootian" ; Times: 1
+	Query: "specificepithet:Willardi genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:thamnophis county:&#34;santa barbara&#34;" ; Times: 1
+	Query: "Thamnophis marcianus hasmass:1" ; Times: 1
+	Query: "specificepithet:horridum genus:heloderma" ; Times: 1
+	Query: "genus:spea county:&#34;fresno&#34;" ; Times: 5
+	Query: "Hypsiglena slevini" ; Times: 3
+	Query: "specificepithet:elegans class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "Lampropeltis triangulum haslength:1" ; Times: 1
+	Query: "specificepithet:atratus genus:thamnophis class:reptilia stateprovince:&#34;california&#34; year &gt;= 2010" ; Times: 1
+	Query: "amphibia georgia lumpkin" ; Times: 2
+	Query: "class:Amphibia locality:Palm Canyon county:&#34;Riverside&#34;" ; Times: 1
+	Query: "recordedby:Eickhorn" ; Times: 1
+	Query: "specificepithet:macrodactylum genus:Ambystoma county:&#34;Santa Cruz&#34;" ; Times: 1
+	Query: "specificepithet:couchii genus:thamnophis class:reptilia stateprovince:&#34;california&#34; year &gt;= 2010" ; Times: 1
+	Query: "recordedby:Boolootian" ; Times: 1
+	Query: "Thamnophis marcianus haslength:1" ; Times: 1
+	Query: "plethodon amplus" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 596 download events in this period)
+Total number of records downloaded: 779
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Belgium ; Times: 10
+	Country: Sweden ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 10
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-19 ; Times: 3
+	Date: 2019-12-05 ; Times: 8
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "genus:micrurus country:&#34;mexico&#34;" ; Times: 1
+	Query: "Acanthodactylus scutellatus" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "genus:Thamnophis stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "specificepithet:wrighti genus:Desmognathus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "specificepithet:areolata genus:Rana class:Amphibia" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 2
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "anniella pulchra" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 1
+
+
+End of report.
