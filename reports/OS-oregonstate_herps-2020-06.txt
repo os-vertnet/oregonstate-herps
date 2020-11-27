@@ -1,0 +1,83 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 641
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 8
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 30
+	Country: Sweden ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-21 ; Times: 2
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-09 ; Times: 3
+	Date: 2020-06-06 ; Times: 8
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-05 ; Times: 4
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-10 ; Times: 3
+	Date: 2020-06-01 ; Times: 7
+	Date: 2020-06-29 ; Times: 7
+	Date: 2020-06-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Hypsiglena county:&#34;Lassen&#34;" ; Times: 2
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "37841" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis county:&#34;Mono&#34;" ; Times: 3
+	Query: "genus:Thamnophis county:&#34;Mono&#34;" ; Times: 4
+	Query: "genus:Micruroides county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Anniella county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "82441" ; Times: 1
+	Query: "tantilla wilcoxi" ; Times: 1
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "catalognumber: 3742" ; Times: 2
+	Query: "specificepithet:guttata genus:Elaphe stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "specificepithet:clarkii genus:sceloporus hassex:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:hammondii genus:Thamnophis hastissue:1" ; Times: 1
+	Query: "specificepithet:rufipunctatus genus:Thamnophis year &gt;= 1990" ; Times: 2
+	Query: "specificepithet:taxispilota genus:Nerodia stateprovince:&#34;South Carolina&#34; institutioncode:OS" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "specificepithet:taxispilota genus:Nerodia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:Zonata genus:Lampropeltis stateprovince:&#34;Oregon&#34;" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 474 download events in this period)
+Total number of records downloaded: 522
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "Emoia mivarti" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+
+
+End of report.
