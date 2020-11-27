@@ -1,0 +1,217 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 105
+Number of records retrieved in searches: 2086
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 90
+	Country: Australia ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 2
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-30 ; Times: 4
+	Date: 2020-03-31 ; Times: 15
+	Date: 2020-03-19 ; Times: 2
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-23 ; Times: 19
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-13 ; Times: 3
+	Date: 2020-03-08 ; Times: 3
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-26 ; Times: 2
+	Date: 2020-03-25 ; Times: 6
+	Date: 2020-03-24 ; Times: 2
+	Date: 2020-03-09 ; Times: 4
+	Date: 2020-03-22 ; Times: 4
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 5
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-04 ; Times: 7
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-01 ; Times: 7
+	Date: 2020-03-03 ; Times: 6
+	Date: 2020-03-28 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:ventralis genus:Ophisaurus class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "38874" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "family:Scaphiopodidae stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "16664" ; Times: 1
+	Query: "13715" ; Times: 4
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;California&#34; year &gt;= 1951 year &lt;= 1960" ; Times: 1
+	Query: "order:Caudata county:&#34;Rockland&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Plethodon meridianus" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Oregon&#34; institutioncode:OS" ; Times: 1
+	Query: "specificepithet:bottae genus:charina stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:harteri" ; Times: 1
+	Query: "genus:Salvadora stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "24123" ; Times: 1
+	Query: "40413" ; Times: 3
+	Query: "genus:Contia stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "21449" ; Times: 1
+	Query: "specificepithet:Hammondii genus:Thamnophis county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "52618" ; Times: 1
+	Query: "specificepithet:kisatchie genus:Plethodon" ; Times: 1
+	Query: "catalognumber:7319" ; Times: 1
+	Query: "35626" ; Times: 1
+	Query: "(35175)" ; Times: 1
+	Query: "genus:Hypsiglena stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "14984" ; Times: 1
+	Query: "(19565)" ; Times: 1
+	Query: "genus:Crotaphytus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "genus:Contia stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "38031" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "catalognumber:5085" ; Times: 1
+	Query: "specificepithet:taxispilota genus:Nerodia county:&#34;Aiken&#34; stateprovince:&#34;South Carolina&#34; year &gt;= 1992 year &lt;= 1992" ; Times: 3
+	Query: "genus:Notophthalmus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "(18641)" ; Times: 1
+	Query: "24967" ; Times: 1
+	Query: "genus:Seminatrix county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "(81591)" ; Times: 1
+	Query: "23124" ; Times: 2
+	Query: "specificepithet:glutinosus genus:Plethodon stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "(53280)" ; Times: 1
+	Query: "specificepithet:taxispilota genus:Nerodia stateprovince:&#34;South Carolina&#34;" ; Times: 3
+	Query: "50807" ; Times: 1
+	Query: "(14976)" ; Times: 1
+	Query: "genus:Proteus specificepithet:anguinus" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "specificepithet:couchii genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:hammondii genus:Thamnophis county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "nerodia harteri" ; Times: 1
+	Query: "Ambystoma jeff" ; Times: 2
+	Query: "21297" ; Times: 1
+	Query: "52627" ; Times: 1
+	Query: "R.39075" ; Times: 1
+	Query: "R 27452" ; Times: 1
+	Query: "31896" ; Times: 1
+	Query: "(11044)" ; Times: 2
+	Query: "genus:Hypsiglena county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "genus:spea stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "specificepithet:Atratus genus:Thamnophis county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "class:Reptilia county:&#34;Aiken&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:guttata genus:Elaphe stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "24177" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "30384" ; Times: 1
+	Query: "27757" ; Times: 1
+	Query: "specificepithet:taxispilota genus:Nerodia stateprovince:&#34;South Carolina&#34; institutioncode:OS" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "52484" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:taxispilota genus:Nerodia county:&#34;Aiken&#34; stateprovince:&#34;South Carolina&#34; year &gt;= 1991 year &lt;= 1991" ; Times: 1
+	Query: "52022" ; Times: 1
+	Query: "30505" ; Times: 1
+	Query: "29600" ; Times: 1
+	Query: "specificepithet:taxispilota genus:Nerodia county:&#34;Aiken&#34; stateprovince:&#34;South Carolina&#34; year &gt;= 1990 year &lt;= 1990" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "22251" ; Times: 1
+	Query: "(16380)" ; Times: 1
+	Query: "41248" ; Times: 1
+	Query: "82768" ; Times: 1
+	Query: "specificepithet:taxispilota genus:Nerodia county:&#34;Aiken&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 853 download events in this period)
+Total number of records downloaded: 3541
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 47
+	Country: Belgium ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-05 ; Times: 3
+	Date: 2020-03-02 ; Times: 3
+	Date: 2020-03-01 ; Times: 1
+	Date: 2020-03-19 ; Times: 2
+	Date: 2020-03-17 ; Times: 2
+	Date: 2020-03-30 ; Times: 6
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-24 ; Times: 3
+	Date: 2020-03-23 ; Times: 5
+	Date: 2020-03-10 ; Times: 4
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 4
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-04 ; Times: 2
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-13 ; Times: 4
+	Date: 2020-03-29 ; Times: 2
+	Date: 2020-03-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "pseudotriton" ; Times: 1
+	Query: "specificepithet:aestivus genus:Opheodrys" ; Times: 1
+	Query: "scincus scincus" ; Times: 1
+	Query: "heloderma" ; Times: 1
+	Query: "Plethodon meridianus" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "specificepithet:albagula genus:Plethodon" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "genus:Rana specificepithet:cascadae" ; Times: 1
+	Query: "specificepithet:kisatchie genus:Plethodon" ; Times: 1
+	Query: "genus:charina" ; Times: 1
+	Query: "plethodon wehrlei" ; Times: 1
+	Query: "plethodon montanus" ; Times: 1
+	Query: "specificepithet:guttata genus:Elaphe" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "plethodon yonahlossee" ; Times: 1
+	Query: "genus:Alligator country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Drymarchon" ; Times: 2
+	Query: "Plethodon yonahlossee" ; Times: 1
+	Query: "specificepithet:speciosus family:Bufonidae" ; Times: 1
+	Query: "specificepithet:yonahlossee genus:Plethodon" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:means genus:Amphiuma" ; Times: 1
+	Query: "Porthidium yucatanicum" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:emoryi" ; Times: 1
+	Query: "Nerodia taxispilota" ; Times: 1
+	Query: "genus:Hypsiglena" ; Times: 1
+	Query: "specificepithet:palustris family:Ranidae" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "specificepithet:olivacea genus:Gastrophryne" ; Times: 1
+	Query: "pseudotriton ruber" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:sequoyah genus:Plethodon" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "aneides vagrans" ; Times: 1
+	Query: "genus:Sistrurus" ; Times: 1
+	Query: "genus:Gopherus" ; Times: 1
+	Query: "genus:Amphiuma" ; Times: 1
+	Query: "specificepithet:harteri" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "genus:Sonora" ; Times: 1
+	Query: "dicamptodon" ; Times: 1
+	Query: "specificepithet:punctatus genus:Bufo" ; Times: 1
+	Query: "Dicamptodon tenebrosus" ; Times: 1
+	Query: "specificepithet:kiamichi genus:Plethodon" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria" ; Times: 1
+
+
+End of report.
