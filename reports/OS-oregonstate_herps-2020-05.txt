@@ -1,0 +1,381 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 278
+Number of records retrieved in searches: 1819
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 6
+	Country: Singapore ; Times: 2
+	Country: United States ; Times: 233
+	Country: Sweden ; Times: 23
+	Country: Ireland ; Times: 7
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 6
+	Date: 2020-05-24 ; Times: 2
+	Date: 2020-05-27 ; Times: 2
+	Date: 2020-05-26 ; Times: 2
+	Date: 2020-05-21 ; Times: 2
+	Date: 2020-05-23 ; Times: 3
+	Date: 2020-05-22 ; Times: 12
+	Date: 2020-05-29 ; Times: 1
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-18 ; Times: 3
+	Date: 2020-05-19 ; Times: 5
+	Date: 2020-05-10 ; Times: 129
+	Date: 2020-05-11 ; Times: 3
+	Date: 2020-05-12 ; Times: 2
+	Date: 2020-05-13 ; Times: 3
+	Date: 2020-05-15 ; Times: 5
+	Date: 2020-05-16 ; Times: 2
+	Date: 2020-05-17 ; Times: 5
+	Date: 2020-05-30 ; Times: 6
+	Date: 2020-05-09 ; Times: 8
+	Date: 2020-05-08 ; Times: 7
+	Date: 2020-05-07 ; Times: 44
+	Date: 2020-05-06 ; Times: 8
+	Date: 2020-05-05 ; Times: 3
+	Date: 2020-05-04 ; Times: 4
+	Date: 2020-05-02 ; Times: 5
+	Date: 2020-05-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhyacotriton cascadae county:&#34;Linn&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Thamnophis sirtalis county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "Masticophis stateprovince:&#34;Oregon&#34;" ; Times: 4
+	Query: "Pituophis catenifer county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "36580" ; Times: 1
+	Query: "Crotalus county:&#34;benton&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;Butte&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Nerodia harteri" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "Crotalus county:&#34;Jefferson&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Ambystoma gracile county:&#34;Coos&#34; stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "Thamnophis sirtalis county:&#34;Baker&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:charina stateprovince:&#34;oregon&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Coluber constrictor county:&#34;Wasco&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Aneides ferreus county:&#34;Clackamas&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Douglas&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:willardi genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; year &gt;= 1930 year &lt;= 1939 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "class:reptilia county:&#34;Mono&#34; year &gt;= 1991 year &lt;= 2000" ; Times: 1
+	Query: "Charina bottae county:&#34;Malheur&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Lampropeltis getula stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Thamnophis sirtalis county:&#34;Crook&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "28960" ; Times: 1
+	Query: "Pituophis catenifer county:&#34;Benton&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "Coluber constrictor county:&#34;Umatilla&#34; stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "Crotalus county:&#34;Josephine&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Coluber constrictor county:&#34;Malheur&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Pituophis catenifer county:&#34;Wheeler&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Coluber constrictor county:&#34;Benton&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:19399 institutioncode:OS" ; Times: 1
+	Query: "Diadophis punctatus county:&#34;Benton&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "catalognumber:26392 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Maricopa&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Diadophis punctatus county:&#34;Wasco&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Plethodon vehiculum county:&#34;Clatsop&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Hypsiglena slevini" ; Times: 1
+	Query: "Ambystoma gracile stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "Rhyacotriton kezeri county:&#34;Clackamas&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Coluber constrictor county:&#34;Union&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Pituophis catenifer county:&#34;Linn&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "Coluber constrictor county:&#34;Wheeler&#34; stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "Charina stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Polk&#34; stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Diadophis punctatus county:&#34;Lane&#34; stateprovince:&#34;Oregon&#34;" ; Times: 3
+	Query: "Rhyacotriton variegatus county:&#34;Benton&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "51940" ; Times: 1
+	Query: "Thamnophis atratus county:&#34;Curry&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "12549" ; Times: 1
+	Query: "Neurergus" ; Times: 1
+	Query: "Charina bottae county:&#34;Grant&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Diadophis punctatus county:&#34;POlk&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Coluber constrictor county:&#34;Josephine&#34; stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "Sonora semiannulata county:&#34;Malheur&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "catalognumber:19400 institutioncode:OS" ; Times: 3
+	Query: "Ambystoma gracile county:&#34;Lane&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Diadophis punctatus county:&#34;Yamhill&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Coluber constrictor county:&#34;Wallowa&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Plethodon larselli stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Pituophis catenifer county:&#34;Crook&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Malheur&#34; stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "Coluber constrictor stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Marion&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Notophthalmus viridescens 2020" ; Times: 1
+	Query: "Plethodon stormi county:&#34;Josephine&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Neurergus specificepithet:kaiseri" ; Times: 2
+	Query: "Charina bottae county:&#34;Jackson&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:atratus county:&#34;san luis obispo&#34;" ; Times: 1
+	Query: "Thamnophis sirtalis county:&#34;Union&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Aneides flavipunctatus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "Diadophis punctatus county:&#34;Coos&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Thamnophis sirtalis county:&#34;Hood River&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Aneides flavipunctatus stateprovince:&#34;Oregon&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Thamnophis atratus county:&#34;Josephine&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Aneides ferreus county:&#34;Lincoln&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:boreas genus:Bufo year &gt;= 2002 year &lt;= 2008" ; Times: 2
+	Query: "Thamnophis sirtalis county:&#34;Wasco&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Ambystoma gracile county:&#34;Curry&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Pituophis catenifer county:&#34;Jackson&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Thamnophis sirtalis county:&#34;Lake&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Coluber constrictor county:&#34;Baker&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Batrachoseps wrighti stateprovince:&#34;Oregon&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Charina bottae county:&#34;Coos&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Thamnophis class:reptilia county:&#34;travis&#34; stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "class:reptilia county:&#34;Mono&#34; year &gt;= 2001 year &lt;= 2020" ; Times: 2
+	Query: "Pituophis catenifer county:&#34;Malheur&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Ambystoma gracile county:&#34;Lincoln&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Contia Tenuis county:&#34;Coos&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Pituophis catenifer county:&#34;Deschutes&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:cerastes county:&#34;kern&#34;" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "Contia Tenuis stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Hypsiglena stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "38592" ; Times: 1
+	Query: "Coluber constrictor county:&#34;Grant&#34; stateprovince:&#34;Oregon&#34;" ; Times: 3
+	Query: "Thamnophis hammondi" ; Times: 1
+	Query: "Thamnophis sirtalis county:&#34;Jefferson&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Diadophis punctatus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Lampropeltis county:&#34;Douglas&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Apache&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "Diadophis punctatus county:&#34;Douglas&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Pituophis catenifer county:&#34;Lake&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Ambystoma gracile county:&#34;Benton&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "Charina bottae county:&#34;Wheeler&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Union&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:andersoni" ; Times: 1
+	Query: "specificepithet:graciosus genus:sceloporus county:&#34;humboldt&#34;" ; Times: 1
+	Query: "Coluber constrictor county:&#34;Jefferson&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Pituophis catenifer county:&#34;Wasco&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Ambystoma gracile county:&#34;Columbia&#34; stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "Diadophis punctatus county:&#34;Curry&#34; stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "Pituophis catenifer county:&#34;Grant&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:willardi genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Plethodon stormi county:&#34;Jackson&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Rhyacotriton variegatus county:&#34;Lane&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:punctatus genus:bufo county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Thamnophis atratus county:&#34;Douglas&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Wheeler&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Ambystoma gracile county:&#34;Jefferson&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Wasco&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Plethodon dunni county:&#34;Clackamas&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Rhyacotriton variegatus county:&#34;Polk&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Coluber constrictor county:&#34;Polk&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Rana specificepithet:boylii stateprovince:california year&lt;=1980" ; Times: 1
+	Query: "Plethodon elongatus county:&#34;Coos&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Ambystoma gracile county:&#34;Marion&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Diadophis punctatus county:&#34;Linn&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Pituophis catenifer county:&#34;Union&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Charina bottae county:&#34;Wasco&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Rhyacotriton cascadae county:&#34;Benton&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Aneides ferreus county:&#34;Clatsop&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "Thamnophis sirtalis county:&#34;Wallowa&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Plethodon vehiculum county:&#34;Curry&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Charina bottae stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:tigris genus:Crotalus county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Crotalus county:&#34;Grant&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Rhyacotriton variegatus county:&#34;Coos&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Charina county:&#34;Clackamas&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Charina bottae county:&#34;Douglas&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Dicamptodon tenebrosus county:&#34;Lincoln&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Wallowa&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Charina bottae county:&#34;Lane&#34; stateprovince:&#34;Oregon&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: "Ambystoma gracile county:&#34;Clackamas&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "20009" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "Thamnophis sirtalis county:&#34;Deschutes&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "Ut stansburiana" ; Times: 1
+	Query: "Thamnophis ordinoides county:&#34;Lake&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "33042" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Dipsosaurus county:&#34;kern&#34;" ; Times: 1
+	Query: "Coluber constrictor county:&#34;Sherman&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Pituophis catenifer county:&#34;Douglas&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:hubrichti genus:Plethodon year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Pituophis catenifer county:&#34;Wallowa&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Thamnophis atratus county:&#34;Coos&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "51803" ; Times: 1
+	Query: "class:reptilia county:&#34;Mono&#34; year &gt;= 2001 year &lt;= 2010" ; Times: 2
+	Query: "18482" ; Times: 1
+	Query: "Charina bottae county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;La Paz&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Thamnophis sirtalis county:&#34;Klamath&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Coluber constrictor county:&#34;Coos&#34; stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "genus:Rana specificepithet:boylii stateprovince:california year&lt;=1970" ; Times: 1
+	Query: "Thamnophis ordinoides county:&#34;Clackamas&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Thamnophis sirtalis county:&#34;Grant&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "Batrachoseps wrighti county:&#34;Clackamas&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus county:&#34;Inyo&#34;" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "Crotalus county:&#34;Lane&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "(19565)" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "contia jackson" ; Times: 4
+	Query: "Thamnophis ordinoides county:&#34;Klamath&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Pituophis catenifer county:&#34;Jefferson&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Pituophis catenifer county:&#34;Baker&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Contia Tenuis county:&#34;Tillamook&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Contia Tenuis county:&#34;Jackson&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Lampropeltis county:&#34;Curry&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "Hypsiglena torquata stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "Batrachoseps attenuatus stateprovince:&#34;Oregon&#34;" ; Times: 4
+	Query: "genus:Tropidoclonion stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Batrachoseps wrighti county:&#34;Lane&#34; stateprovince:&#34;Oregon&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Crotalus county:&#34;DOuglas&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Xantusia county:&#34;Washington&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Lampropeltis stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;lake&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Sherman&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Sceloporus specificepithet:occidentalis stateprovince:Utah" ; Times: 3
+	Query: "Crotalus county:&#34;Jackson&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Crotalus county:&#34;Baker&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Pituophis catenifer county:&#34;Coos&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "38185" ; Times: 1
+	Query: "Ambystoma gracile county:&#34;Linn&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;Mono&#34; year &gt;= 1981 year &lt;= 2000" ; Times: 1
+	Query: "Sonora semiannulata stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "Diadophis punctatus county:&#34;Clackamas&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "specificepithet:willardi county:&#34;cochise&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Xantusia stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Thamnophis sirtalis county:&#34;Wheeler&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:tigris genus:Crotalus stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:agkistrodon county:&#34;lafayette&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "37765" ; Times: 1
+	Query: "Plethodon vehiculum county:&#34;Josephine&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Taricha torosa female" ; Times: 1
+	Query: "Ambystoma gracile county:&#34;Douglas&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Coluber constrictor county:&#34;Linn&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Pituophis catenifer county:&#34;Polk&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "30246" ; Times: 1
+	Query: "Diadophis punctatus county:&#34;Josephine&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 66 (out of 1106 download events in this period)
+Total number of records downloaded: 60627
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 40
+	Country: Australia ; Times: 6
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 12
+	Country: Singapore ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Ireland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 5
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-12 ; Times: 2
+	Date: 2020-05-23 ; Times: 5
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-18 ; Times: 3
+	Date: 2020-05-19 ; Times: 10
+	Date: 2020-05-06 ; Times: 12
+	Date: 2020-05-01 ; Times: 1
+	Date: 2020-05-08 ; Times: 6
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-11 ; Times: 2
+	Date: 2020-05-05 ; Times: 4
+	Date: 2020-05-13 ; Times: 2
+	Date: 2020-05-03 ; Times: 2
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Thamnophis class:reptilia stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "EURYCEA LONGICAUDA" ; Times: 1
+	Query: "Eurycea guttolineata" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: "Nerodia harteri" ; Times: 1
+	Query: "Hydromantes" ; Times: 1
+	Query: "Thamnophis radix" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "contia" ; Times: 1
+	Query: "Charina bottae" ; Times: 4
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "gymnophiona" ; Times: 1
+	Query: "hemidactylus turcicus" ; Times: 2
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "contia jackson" ; Times: 4
+	Query: "Xantusia riversiana" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "caretta caretta" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "reptilia oregon" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "PLETHODON MISSISSIPPI" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "gerrhonotus liocephalus" ; Times: 1
+	Query: "PLETHODON VENTRALIS" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "amphibia oregon" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "vntype:specimen specificepithet:niloticus genus:Varanus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dicamptodon" ; Times: 1
+	Query: "Hypsiglena slevini" ; Times: 1
+	Query: "NOTOPHTHALMUS VIRIDESCENS" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Taricha granulosa male" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Thamnophis hammondi" ; Times: 1
+	Query: "Paramesotriton" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "taricha rivularis" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "Taricha granulosa female" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "Taricha torosa female" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 3
+	Query: "Neurergus" ; Times: 1
+	Query: "genus:Triturus family:salamandridae" ; Times: 1
+	Query: "CROTALUS HORRIDUS" ; Times: 2
+
+
+End of report.
