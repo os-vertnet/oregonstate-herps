@@ -1,0 +1,333 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 367
+Number of records retrieved in searches: 14873
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 354
+	Country: Peru ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 18
+	Date: 2020-07-21 ; Times: 7
+	Date: 2020-07-20 ; Times: 4
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-25 ; Times: 2
+	Date: 2020-07-24 ; Times: 7
+	Date: 2020-07-01 ; Times: 2
+	Date: 2020-07-03 ; Times: 5
+	Date: 2020-07-02 ; Times: 16
+	Date: 2020-07-04 ; Times: 2
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-06 ; Times: 5
+	Date: 2020-07-29 ; Times: 46
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-19 ; Times: 71
+	Date: 2020-07-30 ; Times: 129
+	Date: 2020-07-10 ; Times: 6
+	Date: 2020-07-11 ; Times: 2
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-31 ; Times: 2
+	Date: 2020-07-14 ; Times: 8
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-22 ; Times: 10
+	Date: 2020-07-15 ; Times: 3
+	Date: 2020-07-28 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:sirtalis genus:thamnophis stateprovince:&#34;oregon&#34; hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Plethodon stormi" ; Times: 2
+	Query: "Plethodon montanus" ; Times: 3
+	Query: "Eurycea longicauda" ; Times: 4
+	Query: "Plethodon dunni" ; Times: 3
+	Query: "Plethodon yonahlossee" ; Times: 2
+	Query: "genus:Hypsiglena county:&#34;Lassen&#34;" ; Times: 1
+	Query: "Plethodon variolatus" ; Times: 1
+	Query: "Plethodon meridianus" ; Times: 2
+	Query: "class:reptilia distance(location,geopoint(37.62578060407461,-103.58324273220339))&lt;15773.300917264583" ; Times: 1
+	Query: "39186" ; Times: 1
+	Query: "Batrachoseps wrighti" ; Times: 5
+	Query: "specificepithet:Olympicus genus:Rhyacotriton stateprovince:&#34;Washington&#34; month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "Hydromantes italicus" ; Times: 2
+	Query: "Plethodon mississippi" ; Times: 1
+	Query: "specificepithet:sirtalis county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1976 year &lt;= 1976" ; Times: 2
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1976 year &lt;= 1977" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Batrachoseps major" ; Times: 1
+	Query: "52151" ; Times: 1
+	Query: "genus:charina county:&#34;tulare&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Plethodon ouachitae" ; Times: 2
+	Query: "wizard" ; Times: 3
+	Query: "elf" ; Times: 3
+	Query: "specificepithet:eques genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:atratus genus:Thamnophis hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "32839" ; Times: 1
+	Query: "Riverside county charina" ; Times: 1
+	Query: "27204" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 2005 year &lt;= 2005" ; Times: 4
+	Query: "class:reptilia distance(location,geopoint(37.62578060407461,-103.58324273220339))&lt;21343" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Plethodon welleri" ; Times: 3
+	Query: "family:Colubridae county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1985 year &lt;= 1985" ; Times: 2
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Plethodon larselli" ; Times: 2
+	Query: "Plethodon kisatchie" ; Times: 2
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1988 year &lt;= 1989" ; Times: 1
+	Query: "19863" ; Times: 1
+	Query: "class:Reptilia county:&#34;Vermilion&#34; stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Plethodon punctatus" ; Times: 2
+	Query: "Plethodon websteri" ; Times: 1
+	Query: "willardi arizona" ; Times: 1
+	Query: "81530" ; Times: 1
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 2001 year &lt;= 2001" ; Times: 1
+	Query: "crotalus lepidus arizona" ; Times: 1
+	Query: "specificepithet:ordinoides genus:Thamnophis institutioncode:OS" ; Times: 3
+	Query: "Hydromantes platycephalus" ; Times: 2
+	Query: "specificepithet:Atratus county:&#34;Santa Cruz&#34;" ; Times: 1
+	Query: "genus:Masticophis county:&#34;Tulare&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Plethodon cylindraceus" ; Times: 1
+	Query: "Plethodon fourchensis" ; Times: 2
+	Query: "plethodon vandykei" ; Times: 4
+	Query: "Eurycea guttolineata" ; Times: 1
+	Query: "Riverside county charina bottae" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "Plethodon savannah" ; Times: 1
+	Query: "specificepithet:Olympicus genus:Rhyacotriton month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "Plethodon hoffmani" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 4
+	Query: "Eurycea bislineata" ; Times: 2
+	Query: "Plethodon asupak" ; Times: 2
+	Query: "Plethodon kentucki" ; Times: 2
+	Query: "gravid specificepithet:ordinoides genus:thamnophis" ; Times: 1
+	Query: "Plethodon ventralis" ; Times: 1
+	Query: "28482" ; Times: 1
+	Query: "thamnophis sirtalis county:&#34;santa clara&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; (&#34;Anaxyrus woodhousii&#34; OR &#34;Aneides flavipunctatus&#34; OR &#34;Ascaphus montanus&#34;)" ; Times: 2
+	Query: "13222" ; Times: 1
+	Query: "litter specificepithet:ordinoides genus:thamnophis" ; Times: 1
+	Query: "Eurycea cirrigera" ; Times: 1
+	Query: "Plethodon electromorphus" ; Times: 2
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 1984 year &lt;= 1984" ; Times: 7
+	Query: "Plethodon petraeus" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Nebraska&#34; year &gt;= 2000" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1981 year &lt;= 1982" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1992 year &lt;= 1993" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1976 year &lt;= 1980" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1981 year &lt;= 1985" ; Times: 1
+	Query: "19966" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 2
+	Query: "specificepithet:boylii county:&#34;Fresno&#34;" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "Plethodon teyahalee" ; Times: 5
+	Query: "Desmognathus orestes" ; Times: 3
+	Query: "Plethodon vandykei" ; Times: 2
+	Query: "specificepithet:lateralis class:reptilia stateprovince:&#34;California&#34; year &gt;= 1901 year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:hammondii class:reptilia county:&#34;san luis obispo&#34;" ; Times: 1
+	Query: "Hydromantes shastae" ; Times: 2
+	Query: "crotalus willardi" ; Times: 1
+	Query: "UTA 6086" ; Times: 1
+	Query: "specificepithet:sirtalis county:&#34;santa barbara&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1978 year &lt;= 1978" ; Times: 2
+	Query: "Desmognathus ocoee" ; Times: 6
+	Query: "Plethodon wehrlei" ; Times: 3
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 2004 year &lt;= 2004" ; Times: 1
+	Query: "genus:Euproctus" ; Times: 1
+	Query: "Squamata hybrid" ; Times: 1
+	Query: "Plethodon sequoyah" ; Times: 2
+	Query: "Desmognathus carolinensis" ; Times: 3
+	Query: "class:Reptilia distance(location,geopoint(37.616220878474536,-103.58049615017214))&lt;29768" ; Times: 1
+	Query: "genus:Gopherus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1983 year &lt;= 1984" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1983 year &lt;= 1983" ; Times: 1
+	Query: "Plethodon elongatus" ; Times: 2
+	Query: "Plethodon idahoensis" ; Times: 2
+	Query: "specificepithet:Elegans genus:Thamnophis county:&#34;San Luis Obispo&#34;" ; Times: 2
+	Query: "Plethodon chattahoochee" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:sirtalis county:&#34;San luis obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1977 year &lt;= 1977" ; Times: 4
+	Query: "Batrachoseps pacificus" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1979 year &lt;= 1979" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1990 year &lt;= 1991" ; Times: 2
+	Query: "specificepithet:sirtalis county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "Plethodon metcalfi" ; Times: 5
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1980 year &lt;= 1980" ; Times: 1
+	Query: "class:reptilia distance(location,geopoint(37.60551603835981,-103.55341174182423))&lt;23665" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1950 year &lt;= 1960" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(37.616220878474536,-103.58049615017214))&lt;16205" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 5
+	Query: "19825" ; Times: 1
+	Query: "Bolitoglossa rostrata" ; Times: 1
+	Query: "Plethodon angusticlavius" ; Times: 2
+	Query: "Pseudotriton ruber" ; Times: 2
+	Query: "specificepithet:Elegans county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "genus:Heterodon county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 2
+	Query: "Plethodon albagula" ; Times: 1
+	Query: "Plethodon richmondi" ; Times: 5
+	Query: "Plethodon kiamichi" ; Times: 2
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1984 year &lt;= 1984" ; Times: 6
+	Query: "genus:pituophis class:reptilia county:&#34;Fresno&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1993 year &lt;= 1993" ; Times: 1
+	Query: "specificepithet:cyrtopsis genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Plethodon aureolus" ; Times: 2
+	Query: "Aneides vagrans" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1993 year &lt;= 1994" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus stateprovince:&#34;OREGON&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;California&#34; year &gt;= 1996 year &lt;= 2000" ; Times: 2
+	Query: "specificepithet:sirtalis county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "specificepithet:wrighti genus:Batrachoseps institutioncode:OS" ; Times: 1
+	Query: "crotalus lepidus lepidus" ; Times: 1
+	Query: "class:reptilia locality:Shaver county:&#34;Fresno&#34;" ; Times: 1
+	Query: "genus:phrynosoma stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "specificepithet:Lateralis genus:Masticophis county:&#34;Tulare&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:pituophis class:reptilia county:&#34;fresno&#34;" ; Times: 1
+	Query: "28567" ; Times: 1
+	Query: "16350" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1988 year &lt;= 1990" ; Times: 2
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "crotalus willardi arizona" ; Times: 1
+	Query: "specificepithet:Atratus county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1994 year &lt;= 1994" ; Times: 7
+	Query: "class:Reptilia locality:Tehachapi county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "Desmognathus imitator" ; Times: 1
+	Query: "gbifdatasetid:02242d2f-b43f-44d1-8e53-4c51af461f5b" ; Times: 3
+	Query: "Plethodon caddoensis" ; Times: 1
+	Query: "thamnophis eques arizona" ; Times: 2
+	Query: "specificepithet:hammondi class:reptilia county:&#34;san luis obispo&#34;" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:phrynosoma stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1991 year &lt;= 1995" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1986 year &lt;= 1987" ; Times: 6
+	Query: "28078" ; Times: 2
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1991 year &lt;= 1992" ; Times: 1
+	Query: "37676" ; Times: 1
+	Query: "specificepithet:ordinoides genus:thamnophis hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:elegans genus:thamnophis stateprovince:&#34;nevada&#34; hastissue:1" ; Times: 2
+	Query: "Plethodon nettingi" ; Times: 2
+	Query: "specificepithet:vandykei genus:Plethodon" ; Times: 4
+	Query: "genus:Plethodon specificepithet:aureolus" ; Times: 4
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "specificepithet:bottae genus:Charina hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1971 year &lt;= 1975" ; Times: 3
+	Query: "genus:gambelia stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Plethodon jordani" ; Times: 3
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "Plethodon grobmani" ; Times: 3
+	Query: "Eurycea wilderae" ; Times: 4
+	Query: "Thamnophis rufipunctatus" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 3
+	Query: "27947" ; Times: 1
+	Query: "21099" ; Times: 1
+	Query: "Plethodon amplus" ; Times: 2
+	Query: "Plethodon serratus" ; Times: 2
+	Query: "Plethodon chlorobryonis" ; Times: 1
+	Query: "Eurycea quadridigitata" ; Times: 2
+	Query: "Plethodon shermani" ; Times: 5
+	Query: "Aneides ferreus" ; Times: 2
+	Query: "Desmognathus wrighti" ; Times: 4
+	Query: "heterodon arizona" ; Times: 1
+	Query: "Plethodon hubrichti" ; Times: 3
+	Query: "Desmognathus quadramaculatus" ; Times: 1
+	Query: "31031" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 1
+	Query: "41449" ; Times: 1
+	Query: "genus:Alligator stateprovince:&#34;Alabama&#34;" ; Times: 3
+	Query: "pseudacris sierra" ; Times: 1
+	Query: "crotalus willardi willardi arizona" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 940 download events in this period)
+Total number of records downloaded: 60435
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Australia ; Times: 4
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 11
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-13 ; Times: 4
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-04 ; Times: 3
+	Date: 2020-07-07 ; Times: 4
+	Date: 2020-07-31 ; Times: 3
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:sirtalis genus:thamnophis stateprovince:&#34;oregon&#34; hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:wrighti genus:Batrachoseps institutioncode:OS" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "genus:Euproctus" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "class:Amphibia haslength:1" ; Times: 1
+	Query: "Rana pipiens nevada" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "class:Amphibia &#34;Eleutherodactylus ricordii&#34;" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:phrynosoma stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "specificepithet:atratus genus:Thamnophis hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:douglasii genus:phrynosoma" ; Times: 1
+	Query: "specificepithet:ordinoides genus:thamnophis hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:pretiosa genus:rana" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &gt;= 1951 year &lt;= 1980" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Heterodon county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:valliceps family:bufonidae" ; Times: 1
+	Query: "specificepithet:alvarius family:bufonidae" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "class:Reptilia haslength:1" ; Times: 1
+	Query: "specificepithet:bottae genus:Charina hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 1950" ; Times: 1
+
+
+End of report.
