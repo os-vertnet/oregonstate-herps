@@ -1,0 +1,143 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 79
+Number of records retrieved in searches: 1338
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 67
+	Country: Peru ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 2
+	Date: 2020-09-08 ; Times: 2
+	Date: 2020-09-03 ; Times: 4
+	Date: 2020-09-01 ; Times: 4
+	Date: 2020-09-07 ; Times: 2
+	Date: 2020-09-06 ; Times: 5
+	Date: 2020-09-05 ; Times: 4
+	Date: 2020-09-21 ; Times: 5
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-23 ; Times: 7
+	Date: 2020-09-22 ; Times: 6
+	Date: 2020-09-25 ; Times: 2
+	Date: 2020-09-24 ; Times: 7
+	Date: 2020-09-29 ; Times: 5
+	Date: 2020-09-14 ; Times: 2
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-17 ; Times: 3
+	Date: 2020-09-10 ; Times: 3
+	Date: 2020-09-11 ; Times: 3
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 3
+	Date: 2020-09-18 ; Times: 4
+	Date: 2020-09-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "16649" ; Times: 1
+	Query: "27933" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "24760" ; Times: 1
+	Query: "32708" ; Times: 3
+	Query: "specificepithet:subrubrum stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:ensatina county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "specificepithet:dunni genus:Plethodon institutioncode:OS" ; Times: 4
+	Query: "catalognumber:18076" ; Times: 1
+	Query: "specificepithet:granulosa county:&#34;Siskiyou&#34;" ; Times: 1
+	Query: "genus:hydromantes county:&#34;Shasta&#34;" ; Times: 1
+	Query: "crotalus willardi arizona" ; Times: 3
+	Query: "catalognumber:36628" ; Times: 1
+	Query: "gbifdatasetid:02242d2f-b43f-44d1-8e53-4c51af461f5b" ; Times: 2
+	Query: "specificepithet:annularis genus:Tarentola institutioncode:OS" ; Times: 2
+	Query: "genus:gambelia county:&#34;Imperial&#34;" ; Times: 1
+	Query: "23790" ; Times: 1
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "wizard" ; Times: 9
+	Query: "26760" ; Times: 1
+	Query: "37130" ; Times: 1
+	Query: "genus:Phrynosoma stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "50030" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;Oregon&#34; institutioncode:OS" ; Times: 1
+	Query: "Thamnophis 19835" ; Times: 2
+	Query: "genus:Plethodon specificepithet:kisatchie" ; Times: 1
+	Query: "Micruroides arizona" ; Times: 1
+	Query: "specificepithet:wrighti genus:batrachoseps year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "genus:plethodon stateprovince:&#34;idaho&#34;" ; Times: 2
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "CROTALUS TRISERIATUS" ; Times: 1
+	Query: "Thamnophis 8865" ; Times: 2
+	Query: "16952" ; Times: 1
+	Query: "aneides vagrans humboldt county" ; Times: 1
+	Query: "specificepithet:regilla county:&#34;madera&#34;" ; Times: 1
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "specificepithet:granulosa county:&#34;SHASTA&#34;" ; Times: 1
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "15075" ; Times: 1
+	Query: "genus:Charina county:&#34;Wheeler&#34;" ; Times: 1
+	Query: "crotalus willardi arizona cochise" ; Times: 1
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Wyoming&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "38572" ; Times: 1
+	Query: "specificepithet:heckscheri genus:rana stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Utah&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:23805" ; Times: 1
+	Query: "specificepithet:draconoides county:&#34;kern&#34;" ; Times: 1
+	Query: "specificepithet:gracile genus:Ambystoma hastissue:1" ; Times: 3
+	Query: "specificepithet:hasselquistii genus:Ptyodactylus institutioncode:OS" ; Times: 2
+	Query: "crotalus lepidus arizona" ; Times: 2
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1951 year &lt;= 1955" ; Times: 1
+	Query: "specificepithet:regilla county:&#34;tuolumne&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 976 download events in this period)
+Total number of records downloaded: 3779
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-21 ; Times: 2
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-22 ; Times: 4
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-24 ; Times: 5
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "thamnophis marcianus" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "thamnophis sumichrasti" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "acris" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "loxocemus bicolor" ; Times: 1
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Utah&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "nerodia fasciata" ; Times: 1
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Wyoming&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "nerodia rhombifer" ; Times: 1
+
+
+End of report.
