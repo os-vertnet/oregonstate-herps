@@ -1,0 +1,157 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 67
+Number of records retrieved in searches: 794
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 53
+	Country: Guatemala ; Times: 1
+	Country: Syria ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 4
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-19 ; Times: 1
+	Date: 2020-10-08 ; Times: 3
+	Date: 2020-10-13 ; Times: 6
+	Date: 2020-10-10 ; Times: 5
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-14 ; Times: 1
+	Date: 2020-10-15 ; Times: 3
+	Date: 2020-10-20 ; Times: 3
+	Date: 2020-10-03 ; Times: 2
+	Date: 2020-10-23 ; Times: 4
+	Date: 2020-10-22 ; Times: 5
+	Date: 2020-10-21 ; Times: 3
+	Date: 2020-10-02 ; Times: 3
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-26 ; Times: 2
+	Date: 2020-10-25 ; Times: 3
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-01 ; Times: 4
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-28 ; Times: 1
+	Date: 2020-10-05 ; Times: 5
+	Date: 2020-10-04 ; Times: 2
+	Date: 2020-10-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "plethodon sherando" ; Times: 1
+	Query: "beaver jackson thamnophis" ; Times: 1
+	Query: "81916" ; Times: 1
+	Query: "catalognumber:16891" ; Times: 1
+	Query: "eurycea quadridigitata Texas Hardin" ; Times: 2
+	Query: "50854" ; Times: 1
+	Query: "Thamnophis Ruch" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "41813" ; Times: 2
+	Query: "genus:Plethodon welleri stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "36220" ; Times: 2
+	Query: "catalognumber:19887" ; Times: 1
+	Query: "specificepithet:annularis genus:Tarentola institutioncode:OS" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "wizard" ; Times: 12
+	Query: "elf" ; Times: 1
+	Query: "MR.2093" ; Times: 1
+	Query: "53447" ; Times: 1
+	Query: "genus:tantilla county:&#34;santa cruz&#34;" ; Times: 1
+	Query: "Sierra Madre Occidental" ; Times: 4
+	Query: "genus:Phrynosoma county:&#34;butte&#34;" ; Times: 1
+	Query: "genus:Tropidoclonion stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Proteus specificepithet:anguinus" ; Times: 1
+	Query: "33841" ; Times: 2
+	Query: "specificepithet:boreas stateprovince:&#34;alaska&#34; year &gt;= 1951 year &lt;= 2020" ; Times: 1
+	Query: "Thamnophis Applegate" ; Times: 1
+	Query: "catalognumber:20347" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "specificepithet:hobartsmithi genus:tantilla stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "12803" ; Times: 1
+	Query: "20347" ; Times: 1
+	Query: "genus:hypsiglena county:&#34;lassen&#34;" ; Times: 2
+	Query: "specificepithet:gigas genus:thamnophis county:&#34;butte&#34;" ; Times: 2
+	Query: "specificepithet:Atratus genus:Thamnophis county:&#34;San Luis Obispo&#34;" ; Times: 2
+	Query: "ciudad hidalgo reptilia" ; Times: 1
+	Query: "genus: carphophis hastissue:1" ; Times: 1
+	Query: "specificepithet:boreas stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Plethodon dunni Del Norte County" ; Times: 1
+	Query: "37567" ; Times: 1
+	Query: "specificepithet:hasselquistii genus:Ptyodactylus institutioncode:OS" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;Nye&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Dicamptodon county:&#34;glenn&#34;" ; Times: 1
+	Query: "genus:rhinocheilus county:&#34;kern&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1521 download events in this period)
+Total number of records downloaded: 20600
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 4
+	Date: 2020-10-23 ; Times: 1
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-01 ; Times: 5
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-03 ; Times: 3
+	Date: 2020-10-02 ; Times: 2
+	Date: 2020-10-05 ; Times: 6
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-07 ; Times: 1
+	Date: 2020-10-15 ; Times: 3
+	Date: 2020-10-10 ; Times: 2
+	Date: 2020-10-14 ; Times: 2
+	Date: 2020-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pseudacris haslength:1" ; Times: 1
+	Query: "order:caudata stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "&#34;Plethodon cinereus&#34; AND &#34;michigan&#34;" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "sternotherus odoratus" ; Times: 1
+	Query: "genus:Rana haslength:1" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "specificepithet:sequoyah genus:Plethodon" ; Times: 1
+	Query: "Agkistrodon" ; Times: 1
+	Query: "specificepithet:occidentalis genus:sceloporus stateprovince:&#34;california&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "genus:hypsiglena stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:squamata stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "order:SQUAMATA stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "Crotalus basiliscus" ; Times: 3
+	Query: "Sierra Madre Occidental" ; Times: 1
+	Query: "order:anura stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "Nerodia erythrogaster" ; Times: 2
+	Query: "genus:Desmognathus lengthtype:snout-vent length haslength:1" ; Times: 1
+	Query: "class:Amphibia county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Caudata hastissue:1" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "order:testudines stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "genus:Plethodon class:Amphibia haslength:1" ; Times: 1
+	Query: "daphne" ; Times: 1
+	Query: "Scaphiopus holbrookii" ; Times: 1
+
+
+End of report.
