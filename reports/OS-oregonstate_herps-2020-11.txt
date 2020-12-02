@@ -1,0 +1,149 @@
+Report for Institution Code OS, Resource oregonstate_herps
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 72
+Number of records retrieved in searches: 1144
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 52
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 7
+	Country: Colombia ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 2
+	Date: 2020-11-21 ; Times: 8
+	Date: 2020-11-22 ; Times: 1
+	Date: 2020-11-23 ; Times: 7
+	Date: 2020-11-24 ; Times: 2
+	Date: 2020-11-25 ; Times: 4
+	Date: 2020-11-26 ; Times: 8
+	Date: 2020-11-09 ; Times: 1
+	Date: 2020-11-28 ; Times: 2
+	Date: 2020-11-29 ; Times: 2
+	Date: 2020-11-04 ; Times: 5
+	Date: 2020-11-05 ; Times: 1
+	Date: 2020-11-02 ; Times: 1
+	Date: 2020-11-19 ; Times: 3
+	Date: 2020-11-18 ; Times: 7
+	Date: 2020-11-30 ; Times: 1
+	Date: 2020-11-15 ; Times: 6
+	Date: 2020-11-14 ; Times: 3
+	Date: 2020-11-17 ; Times: 2
+	Date: 2020-11-16 ; Times: 1
+	Date: 2020-11-10 ; Times: 1
+	Date: 2020-11-12 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:gilberti county:&#34;kern&#34;" ; Times: 1
+	Query: "specificepithet:sauritus genus:Thamnophis stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "plethodon wehrlei floyd" ; Times: 1
+	Query: "genus:spea stateprovince:&#34;oregon&#34;" ; Times: 3
+	Query: "37865" ; Times: 1
+	Query: "Elgaria coerulea stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Rana cascadae institutioncode:OS basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "13425" ; Times: 1
+	Query: "28568" ; Times: 1
+	Query: "20507" ; Times: 1
+	Query: "aneides stateprovince:&#34;oregon&#34; AND (NOT ferreus)" ; Times: 1
+	Query: "gbifdatasetid:02242d2f-b43f-44d1-8e53-4c51af461f5b" ; Times: 1
+	Query: "scientificname:Hyla arenicolor" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "elf" ; Times: 12
+	Query: "specificepithet:pretiosa genus:Rana county:&#34;Jefferson&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:Flavipunctatus genus:Aneides county:&#34;Santa Clara&#34;" ; Times: 1
+	Query: "22086" ; Times: 1
+	Query: "genus:Plethodon specificepithet:sherando" ; Times: 2
+	Query: "51046" ; Times: 1
+	Query: "pipiens stateprovince:&#34;oregon&#34; (Rana OR lithobates)" ; Times: 1
+	Query: "aneides stateprovince:&#34;oregon&#34; AND (NOT ferreus AND NOT lugubris)" ; Times: 2
+	Query: "Agate regilla Jackson" ; Times: 1
+	Query: "specificepithet:dunni genus:Plethodon institutioncode:OS" ; Times: 3
+	Query: "genus:Proteus specificepithet:anguinus" ; Times: 7
+	Query: "53616" ; Times: 1
+	Query: "hydromantes shastae" ; Times: 1
+	Query: "18186" ; Times: 2
+	Query: "51561" ; Times: 1
+	Query: "32554" ; Times: 1
+	Query: "catalognumber:5627" ; Times: 1
+	Query: "scientificname:Scaphiopus couchii" ; Times: 2
+	Query: "Spea intermontana stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "catalognumber:51695" ; Times: 2
+	Query: "specificepithet:aeneus genus:Oxybelis stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "14187" ; Times: 2
+	Query: "50647" ; Times: 1
+	Query: "mountain lake specificepithet:cinereus genus:plethodon county:&#34;giles&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Antelope Oregon Thamnophis" ; Times: 1
+	Query: "specificepithet:pretiosa genus:Rana county:&#34;Deschutes&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "plethodon amplus" ; Times: 1
+	Query: "agate jackson oregon" ; Times: 1
+	Query: "ambystoma andersoni" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 842 download events in this period)
+Total number of records downloaded: 9327
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Brazil ; Times: 2
+	Country: India ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 2
+	Date: 2020-11-05 ; Times: 2
+	Date: 2020-11-19 ; Times: 1
+	Date: 2020-11-25 ; Times: 1
+	Date: 2020-11-26 ; Times: 9
+	Date: 2020-11-27 ; Times: 2
+	Date: 2020-11-15 ; Times: 2
+	Date: 2020-11-11 ; Times: 1
+	Date: 2020-11-04 ; Times: 1
+	Date: 2020-11-16 ; Times: 2
+	Date: 2020-11-02 ; Times: 1
+	Date: 2020-11-10 ; Times: 2
+	Date: 2020-11-12 ; Times: 1
+	Date: 2020-11-29 ; Times: 5
+	Date: 2020-11-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Eurycea guttolineata" ; Times: 1
+	Query: "Desmognathus carolinensis" ; Times: 2
+	Query: "aneides flavipunctatus" ; Times: 1
+	Query: "Elgaria coerulea stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:variegatus genus:coleonyx" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "specificepithet:viridis genus:crotalus year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "eublepharidae" ; Times: 1
+	Query: "Desmognathus ocoee" ; Times: 2
+	Query: "opheodrys aestivus" ; Times: 1
+	Query: "Plethodon metcalfi" ; Times: 2
+	Query: "Trachemys" ; Times: 1
+	Query: "pipiens stateprovince:&#34;oregon&#34; (Rana OR lithobates)" ; Times: 1
+	Query: "Thamnophis proximus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "Desmognathus fuscus" ; Times: 1
+	Query: "crotalus viridis" ; Times: 2
+	Query: "Desmognathus orestes" ; Times: 1
+	Query: "Desmognathus quadramaculatus" ; Times: 4
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "Phrynosoma douglasii" ; Times: 1
+	Query: "specificepithet:aeneus genus:Oxybelis stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "Desmognathus ochrophaeus" ; Times: 1
+	Query: "Eurycea wilderae" ; Times: 1
+
+
+End of report.
